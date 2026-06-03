@@ -1,0 +1,44 @@
+{
+  "id": "t02-l03",
+  "trackId": "t02",
+  "order": 3,
+  "title": "Your risk tolerance — and why it changes",
+  "subtitle": "Risk tolerance is not a fixed personality trait. It is a function of time, circumstances, and financial structure. Understanding this protects you from yourself.",
+  "estimatedMinutes": 8,
+  "tags": ["risk", "psychology", "behavior"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Every brokerage onboarding asks you to self-assess your risk tolerance. The problem is that most people's stated risk tolerance and their actual behavioral risk tolerance are completely different — and the gap only becomes visible when markets move against them."
+    },
+    {
+      "type": "callout",
+      "label": "The two components",
+      "content": "Risk capacity is how much risk your financial situation can actually absorb — determined by income stability, time horizon, liabilities, and liquidity. Risk appetite is how much risk you are psychologically comfortable with. Both matter. Capacity sets the ceiling. Appetite sets the floor you can realistically sustain."
+    },
+    {
+      "type": "heading",
+      "content": "Why tolerance changes over time"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Time horizon shortens: as you approach retirement or a major goal, your capacity for loss decreases. A 30% drop recoverable in 5 years is no longer recoverable in 2.",
+        "Income changes: job loss, career transition, or business stress reduces capacity even if nothing else changes.",
+        "Life events: new dependents, health changes, or major purchases shift both capacity and appetite.",
+        "Market experience: a bull market inflates stated risk appetite. A real downturn reveals true behavioral tolerance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The practical implication is that your investment allocation should not be set once and forgotten. It should be reviewed whenever your circumstances change materially — and recalibrated honestly, not aspirationally."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Design your portfolio for your actual risk tolerance, not your aspirational one. The right allocation is the one you can hold without panic-selling during a 30% downturn — not the one that maximizes expected return in a spreadsheet."
+    }
+  ]
+}

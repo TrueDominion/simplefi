@@ -1,0 +1,47 @@
+{
+  "id": "t04-l03",
+  "trackId": "t04",
+  "order": 3,
+  "title": "Rebalancing — the discipline of selling winners",
+  "subtitle": "Rebalancing feels counterintuitive. It means selling what has worked and buying what has not. That instinct is exactly why it works.",
+  "estimatedMinutes": 8,
+  "tags": ["rebalancing", "discipline", "behavior"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "A portfolio left unmanaged drifts. If equities outperform for several years, your equity allocation grows from 60% to 75% — and your risk profile changes with it. You are now holding a more aggressive portfolio than you designed, without having made that decision explicitly. Rebalancing is the discipline of reversing that drift."
+    },
+    {
+      "type": "callout",
+      "label": "What rebalancing requires",
+      "content": "To rebalance: sell the asset classes that have outperformed and are now overweight, and buy the asset classes that have underperformed and are now underweight. This is systematically selling winners and buying laggards — which feels wrong, and is exactly right."
+    },
+    {
+      "type": "paragraph",
+      "content": "Rebalancing serves two purposes. First, it maintains your intended risk profile. Second, it is a mechanical implementation of buy-low-sell-high — the principle everyone agrees with and almost no one follows in practice. By making it systematic, you remove the emotional decision entirely."
+    },
+    {
+      "type": "heading",
+      "content": "Rebalancing approaches"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Calendar rebalancing: rebalance at fixed intervals — annually or semi-annually. Simple and predictable. Slightly suboptimal because it ignores drift magnitude.",
+        "Threshold rebalancing: rebalance when an allocation drifts beyond a defined band (e.g., ±5% from target). More precise but requires active monitoring.",
+        "Contribution rebalancing: direct new contributions to underweight asset classes rather than selling. Tax-efficient and low-friction."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Tax implications matter. Selling appreciated assets generates taxable gains. In tax-advantaged accounts, rebalancing is frictionless. In taxable accounts, contribution-based rebalancing and tax-loss harvesting can reduce the tax cost significantly."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Rebalancing is how you maintain the portfolio you designed rather than living with the portfolio your returns happened to create. It requires discipline precisely because it contradicts the emotional pull to hold winners and avoid losers."
+    }
+  ]
+}

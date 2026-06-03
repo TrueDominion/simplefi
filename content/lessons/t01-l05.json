@@ -1,0 +1,43 @@
+{
+  "id": "t01-l05",
+  "trackId": "t01",
+  "order": 5,
+  "title": "How to think about your financial life as a system",
+  "subtitle": "Isolated decisions compound into a life. Understanding the system is how you stop making the same mistakes twice.",
+  "estimatedMinutes": 8,
+  "tags": ["systems", "mindset", "foundations"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Most people think about money one decision at a time: should I buy this, should I save that, is this the right time to invest. This is the wrong unit of analysis. Your financial life is a system — a set of interconnected flows, stocks, and decisions that compound over time. Understanding the system changes what you optimize for."
+    },
+    {
+      "type": "heading",
+      "content": "The three layers of a financial system"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Flow layer: income in, expenses out. The gap between them is your operating surplus. This is the fuel for everything else.",
+        "Stock layer: what you own minus what you owe. Assets minus liabilities. This is your net worth — the accumulated result of past flow decisions.",
+        "Growth layer: how your stocks generate future flows. Investments that produce returns. Debt that has a cost. This layer is where compounding happens."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Systems thinking applied",
+      "content": "A single decision affects all three layers. Taking on a mortgage increases your stock of assets and your stock of liabilities simultaneously. It converts a flow (rent) into a different flow (mortgage + maintenance). It creates a growth asset if the property appreciates, and a cost if rates rise. Evaluating it on any single dimension misses the full picture."
+    },
+    {
+      "type": "paragraph",
+      "content": "The most common financial error is optimizing one layer while ignoring the others. Cutting expenses aggressively while leaving capital idle. Growing net worth through property while carrying high-interest credit card debt. Investing in markets while having no emergency fund. Each of these is a system imbalance — and systems with imbalances eventually correct, often painfully."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Your financial life is not a series of separate decisions. It is a system. When you make a decision, ask how it affects the flow, the stock, and the growth layer. That is financial thinking — not financial anxiety."
+    }
+  ]
+}

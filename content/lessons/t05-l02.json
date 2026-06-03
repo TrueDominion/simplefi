@@ -1,0 +1,44 @@
+{
+  "id": "t05-l02",
+  "trackId": "t05",
+  "order": 2,
+  "title": "How companies are valued — earnings, growth, multiples",
+  "subtitle": "Valuation is not guesswork. It has a logic, a structure, and a vocabulary. Understanding it changes how you read any financial headline.",
+  "estimatedMinutes": 10,
+  "tags": ["valuation", "multiples", "earnings"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Valuation is the process of estimating what a business is worth. There are several methods, but they converge on a single principle: value is a function of what a business earns, how fast those earnings grow, and how certain those earnings are. Multiples are a shorthand for expressing this relationship."
+    },
+    {
+      "type": "callout",
+      "label": "The P/E ratio explained",
+      "content": "Price-to-earnings ratio (P/E) is the most widely used valuation multiple. A P/E of 20 means investors are paying $20 for every $1 of annual earnings. A high P/E implies high expected growth or low risk. A low P/E implies the opposite — or a market that has mispriced the stock. Neither is inherently good or bad without context."
+    },
+    {
+      "type": "heading",
+      "content": "Key valuation multiples"
+    },
+    {
+      "type": "list",
+      "items": [
+        "P/E (Price to Earnings): most common. Compares market price to earnings per share. Useful for profitable companies with stable earnings.",
+        "EV/EBITDA (Enterprise Value to Earnings Before Interest, Tax, Depreciation, Amortization): capital structure-neutral. Better for comparing companies with different debt levels.",
+        "P/S (Price to Sales): used when earnings are negative or volatile. Common in growth companies and early-stage businesses.",
+        "P/B (Price to Book): compares market price to accounting book value. More relevant for asset-heavy industries like banking and insurance."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Multiples are not answers — they are questions. A low P/E might mean a stock is cheap. Or it might mean the market correctly anticipates declining earnings. A high P/E might mean the market is exuberant. Or it might mean the business genuinely merits a premium for its growth prospects and competitive position. The multiple prompts analysis; it does not replace it."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Valuation multiples are a starting point for analysis, not a conclusion. Always ask why a multiple is where it is — and whether the market's implicit assumption about growth and risk is correct."
+    }
+  ]
+}

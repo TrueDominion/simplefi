@@ -1,0 +1,43 @@
+{
+  "id": "t05-l05",
+  "trackId": "t05",
+  "order": 5,
+  "title": "When to buy, when to hold, when to sell",
+  "subtitle": "Buying is one decision. Holding and selling are separate decisions with different criteria. Most investors conflate them — to their detriment.",
+  "estimatedMinutes": 9,
+  "tags": ["decision-making", "selling", "discipline"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The investment decision is not a single event — it is a continuous process. The decision to buy is only the beginning. Holding is a decision you re-make every day you do not sell. Selling requires its own criteria, separate from the ones that justified the original purchase. Conflating all three leads to the most common investment errors."
+    },
+    {
+      "type": "heading",
+      "content": "When to buy"
+    },
+    {
+      "type": "paragraph",
+      "content": "Buy when you have a reasoned estimate of intrinsic value, the market price is below that estimate by a sufficient margin of safety, and you understand why the market is mispricing the asset. Buying without these three conditions is speculation — it may work, but it is not analysis."
+    },
+    {
+      "type": "heading",
+      "content": "When to hold"
+    },
+    {
+      "type": "paragraph",
+      "content": "Hold when the original thesis remains intact and the price has not reached your estimate of fair value. Hold also when the business is compounding well even if the stock has risen, because a great business at fair value may still be a better holding than the alternatives available. Holding requires periodic reconfirmation of the thesis — not passive inertia."
+    },
+    {
+      "type": "callout",
+      "label": "When to sell",
+      "content": "Sell when: the original thesis is broken (the business has changed, not just the price), the price has reached or significantly exceeded your estimate of intrinsic value, a clearly superior opportunity exists and capital must be reallocated, or your portfolio position size has grown to a concentration that exceeds your risk tolerance. Do not sell because the price fell. That is not a reason — it is a reaction."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Buying, holding, and selling each require their own criteria. Write them down before you invest. Apply them mechanically when the moment arrives. The investors who struggle most are the ones who make all three decisions by feeling rather than by framework."
+    }
+  ]
+}

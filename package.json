@@ -1,0 +1,41 @@
+{
+  "name": "simplefi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next-auth": "^4.24.7",
+    "stripe": "^15.12.0",
+    "@stripe/stripe-js": "^4.1.0",
+    "zustand": "^4.5.4",
+    "framer-motion": "^11.3.19",
+    "@tabler/icons-react": "^3.11.0",
+    "nodemailer": "^6.9.14",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/nodemailer": "^6.4.15",
+    "tailwindcss": "^3.4.6",
+    "postcss": "^8",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "prettier": "^3.3.3",
+    "vitest": "^2.0.4",
+    "@vitejs/plugin-react": "^4.3.1",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/jest-dom": "^6.4.6"
+  }
+}

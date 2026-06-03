@@ -1,0 +1,39 @@
+{
+  "id": "t06-l02",
+  "trackId": "t06",
+  "order": 2,
+  "title": "How interest rates actually work",
+  "subtitle": "Interest rates are not just the price of debt. They are a signal about economic conditions, central bank policy, and the entire structure of asset prices.",
+  "estimatedMinutes": 9,
+  "tags": ["interest rates", "monetary policy", "economics"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "An interest rate is the price of money over time. When you borrow, you pay a rate because you are consuming capital now that you will return later — the lender requires compensation for deferring their own consumption, for taking credit risk, and for the inflation that will erode the real value of their repayment."
+    },
+    {
+      "type": "callout",
+      "label": "The components of an interest rate",
+      "content": "Any interest rate can be decomposed into: the risk-free rate (what you pay for time value alone, typically approximated by short-term government debt), an inflation premium (compensation for expected erosion of purchasing power), a credit spread (compensation for the risk of non-repayment), and a liquidity premium (compensation for the difficulty of exiting the position)."
+    },
+    {
+      "type": "paragraph",
+      "content": "Central banks influence interest rates through monetary policy — primarily by setting the short-term policy rate and, through quantitative easing, by purchasing longer-duration assets to influence rates further out the curve. These policy decisions ripple through the entire economy: higher rates increase the cost of mortgages, business loans, and government borrowing; lower rates make debt cheaper and incentivize spending and investment."
+    },
+    {
+      "type": "heading",
+      "content": "Why rates matter for everything"
+    },
+    {
+      "type": "paragraph",
+      "content": "Interest rates are not just the price of debt — they are the discount rate applied to all future cash flows. When rates rise, every future dollar of earnings or cash flow is worth less in today's terms. This is why rising rates pressure the valuations of equities, especially growth stocks with earnings far in the future, and depress bond prices simultaneously."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Interest rates are the single most important variable in finance. They determine the cost of debt, the value of future cash flows, and the relative attractiveness of every asset class. Understand their structure and you understand the architecture of financial markets."
+    }
+  ]
+}

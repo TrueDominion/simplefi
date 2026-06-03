@@ -1,0 +1,44 @@
+{
+  "id": "t04-l05",
+  "trackId": "t04",
+  "order": 5,
+  "title": "Building a portfolio that matches your life",
+  "subtitle": "The best portfolio is not the one with the highest expected return. It is the one you can hold, maintain, and adapt as your life changes.",
+  "estimatedMinutes": 9,
+  "tags": ["portfolio", "life planning", "sustainability"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Portfolio theory often abstracts away from the person holding the portfolio. The optimal allocation on a mean-variance frontier looks clean on paper. But the investor has a job, a family, a mortgage, a psychological history with money, and a life that will change in ways they cannot predict. The best portfolio accounts for all of this."
+    },
+    {
+      "type": "heading",
+      "content": "The portfolio across life stages"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Early career (20s–30s): long time horizon, growing income, relatively low assets. High equity allocation appropriate. Focus on contribution rate above all else — the amount you invest matters more than allocation at this stage.",
+        "Mid career (30s–50s): peak earning years, accumulating assets, potentially more complex liabilities. Allocation begins to matter more. Revisit risk tolerance honestly.",
+        "Pre-retirement (50s–60s): sequence-of-returns risk becomes relevant. A major market downturn just before retirement is far more damaging than one 20 years earlier. Begin moderating risk.",
+        "Retirement: the portfolio must now generate income without running out. Asset allocation, withdrawal rate, and longevity risk all interact."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "The simplest complete portfolio",
+      "content": "For most people, a three-fund portfolio — total domestic equity index fund, total international equity index fund, and total bond market index fund — in proportions that match their risk tolerance and time horizon, implemented at low cost, is more than sufficient. Complexity adds friction without reliably adding return."
+    },
+    {
+      "type": "paragraph",
+      "content": "The portfolio you build should answer four questions clearly: What is it for? When will you need it? How much volatility can you tolerate without changing your behavior? And what would you do if it fell 30% tomorrow? If those answers are clear, the portfolio almost designs itself."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "The optimal portfolio is not a mathematical abstraction. It is the one that achieves your goals, survives your life, and does not require you to override it when markets test you. Design for durability, not for peak performance."
+    }
+  ]
+}

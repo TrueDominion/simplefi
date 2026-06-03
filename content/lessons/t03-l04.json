@@ -1,0 +1,43 @@
+{
+  "id": "t03-l04",
+  "trackId": "t03",
+  "order": 4,
+  "title": "Cash, commodities, and alternatives",
+  "subtitle": "Beyond stocks and bonds, there is a wide range of asset classes — each with distinct roles, return drivers, and portfolio implications.",
+  "estimatedMinutes": 9,
+  "tags": ["commodities", "alternatives", "cash"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The two dominant asset classes — equities and fixed income — form the core of most portfolios. But a complete picture of investable assets includes cash and equivalents, real assets like commodities and property, and a broad category of alternatives that encompasses everything from private equity to hedge fund strategies."
+    },
+    {
+      "type": "heading",
+      "content": "Cash and equivalents"
+    },
+    {
+      "type": "paragraph",
+      "content": "Cash earns little and loses purchasing power to inflation over time. But it serves irreplaceable functions: it provides optionality (the ability to deploy capital quickly when opportunities arise), liquidity (immediate access without market impact), and stability (no downside from market volatility). The cost of cash is opportunity cost. The benefit is flexibility."
+    },
+    {
+      "type": "heading",
+      "content": "Commodities"
+    },
+    {
+      "type": "paragraph",
+      "content": "Commodities — oil, gold, agricultural products, metals — are real assets whose prices are driven by supply and demand dynamics that operate largely independently of financial market cycles. Gold, in particular, has historically served as a store of value during inflationary periods and geopolitical stress. Commodities add an inflation hedge component to a portfolio that equities and bonds do not reliably provide."
+    },
+    {
+      "type": "callout",
+      "label": "Alternatives",
+      "content": "The alternatives category is broad and heterogeneous: private equity, venture capital, real estate investment trusts, infrastructure, hedge funds, and others. What they share is lower liquidity and higher complexity. In exchange, they often offer return streams that are less correlated to public markets — a genuine diversification benefit for investors who can tolerate the illiquidity."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Each asset class earns returns through a different mechanism and responds differently to economic conditions. A portfolio that understands this can be constructed to perform reasonably across a wide range of environments — not just in the conditions that prevailed when it was built."
+    }
+  ]
+}

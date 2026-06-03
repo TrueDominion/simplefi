@@ -1,0 +1,48 @@
+{
+  "id": "t01-l03",
+  "trackId": "t01",
+  "order": 3,
+  "title": "Why most budgets fail — and what works instead",
+  "subtitle": "Budgets are not about restriction. They are about intention. The distinction is why most people quit.",
+  "estimatedMinutes": 8,
+  "tags": ["budgeting", "behavior"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The standard budget advice is to track every dollar, assign it a category, and stay within limits. This fails for most people not because it is wrong in theory, but because it treats a behavioral problem as an accounting problem. Humans are not spreadsheets."
+    },
+    {
+      "type": "heading",
+      "content": "The failure modes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Too granular: tracking 22 categories creates cognitive load that collapses within two weeks.",
+        "Retrospective: reviewing spending after the fact creates guilt, not change.",
+        "No margin for variance: one unexpected expense blows the whole system.",
+        "No connection to goals: restrictions without a reason feel like punishment."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "What actually works",
+      "content": "Pay yourself first, then live on what remains. Automate savings and investment contributions at the moment income arrives — before you have the option to spend it. This removes willpower from the equation entirely."
+    },
+    {
+      "type": "paragraph",
+      "content": "The second principle that works: simplify to three buckets. Fixed commitments. Savings and investment. Everything else. You do not need 22 categories. You need to know that your committed costs are covered, your future is being funded, and the remainder is yours to spend without guilt or tracking."
+    },
+    {
+      "type": "paragraph",
+      "content": "Adjust the bucket sizes quarterly, not monthly. Monthly adjustments create constant friction. Quarterly adjustments allow patterns to emerge and make the system sustainable over years, not weeks."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "A budget you abandon after three weeks is worse than no budget at all. Design for sustainability, not perfection. Automate the important decisions so your behavior cannot undermine them."
+    }
+  ]
+}

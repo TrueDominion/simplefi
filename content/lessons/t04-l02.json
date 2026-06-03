@@ -1,0 +1,44 @@
+{
+  "id": "t04-l02",
+  "trackId": "t04",
+  "order": 2,
+  "title": "Asset allocation as a decision, not a formula",
+  "subtitle": "There is no universally correct asset allocation. There is only the allocation that is correct for your circumstances at this stage of your life.",
+  "estimatedMinutes": 9,
+  "tags": ["allocation", "decision-making"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Rules of thumb for asset allocation — 60/40, 100 minus your age in bonds — are starting points, not answers. They are useful for illustrating a principle (as you age, reduce risk) but they ignore the variables that actually determine the right allocation for any individual: income stability, time horizon, liabilities, existing assets, and behavioral risk tolerance."
+    },
+    {
+      "type": "heading",
+      "content": "The variables that determine your allocation"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Time horizon: longer horizons can absorb more volatility and should hold more equities. Shorter horizons demand more stability.",
+        "Income stability: a tenured professional with predictable income can treat their future earnings as a bond-like asset, supporting a more equity-heavy portfolio. A self-employed person with variable income may need more portfolio stability to compensate.",
+        "Liability structure: significant near-term obligations (mortgage, education, care costs) reduce investable capital and increase the need for liquidity.",
+        "Existing wealth: high accumulated wealth relative to expected future needs supports taking less risk — the goal of preservation matters more than growth."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "The allocation decision process",
+      "content": "Start with your goals. Derive the return you need to meet them. Find the lowest-risk portfolio that can reasonably deliver that return over your time horizon. Do not reach for more risk than required — there is no reward for unnecessary risk-taking."
+    },
+    {
+      "type": "paragraph",
+      "content": "Revisit allocation decisions at major life transitions: career change, marriage, children, inheritance, approaching retirement. The right allocation at 35 is not the right allocation at 55 — not because the rules changed, but because your circumstances did."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Asset allocation is the most important investment decision you will make. It should be derived from your specific circumstances — not from a rule of thumb that knows nothing about your life."
+    }
+  ]
+}

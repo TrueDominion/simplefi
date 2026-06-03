@@ -1,0 +1,39 @@
+{
+  "id": "t06-l03",
+  "trackId": "t06",
+  "order": 3,
+  "title": "Bonds, yields, and the price-rate relationship",
+  "subtitle": "The inverse relationship between bond prices and yields is one of the most important mechanics in finance — and one of the least intuitively understood.",
+  "estimatedMinutes": 9,
+  "tags": ["bonds", "yields", "fixed income"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "A bond's price and its yield move in opposite directions. This is not a market opinion — it is arithmetic. Understanding why requires holding one simple idea: the yield of a bond is the return you earn given the price you pay. If the price rises, you pay more for the same future cash flows, so your yield falls. If the price falls, you pay less, so your yield rises."
+    },
+    {
+      "type": "callout",
+      "label": "A concrete example",
+      "content": "A bond with a face value of $1,000 and a 5% annual coupon pays $50 per year. If you buy it at face value, your yield is 5%. If you pay $1,100 for the same bond, your yield drops to approximately 4.5% — you are paying more for the same cash flows. If the price falls to $900, your yield rises to approximately 5.6%. Price and yield are simply two ways of expressing the same thing."
+    },
+    {
+      "type": "heading",
+      "content": "Duration: measuring interest rate sensitivity"
+    },
+    {
+      "type": "paragraph",
+      "content": "Duration measures how sensitive a bond's price is to changes in interest rates. A bond with duration of 8 years will lose approximately 8% in price for every 1% rise in interest rates. Longer maturity bonds have higher duration and therefore more interest rate sensitivity. Short-duration bonds are less affected by rate changes."
+    },
+    {
+      "type": "paragraph",
+      "content": "This is why rising rate environments are painful for holders of long-duration bonds — they experience the largest price declines. And why investors who held 30-year government bonds in 2022, when rates rose sharply, saw losses of 25-40% in instruments often considered safe."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Bond investing is not passive. Price, yield, duration, and credit quality interact to produce a return that can be strongly positive or sharply negative depending on the rate environment. Understand the mechanics before you assume safety."
+    }
+  ]
+}

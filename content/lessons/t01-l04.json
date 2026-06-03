@@ -1,0 +1,43 @@
+{
+  "id": "t01-l04",
+  "trackId": "t01",
+  "order": 4,
+  "title": "The difference between saving and investing",
+  "subtitle": "These are not the same activity with different return rates. They serve fundamentally different purposes.",
+  "estimatedMinutes": 8,
+  "tags": ["foundations", "investing", "saving"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Saving and investing are often treated as a spectrum — saving on the conservative end, investing on the aggressive end. This framing is wrong. They are different tools for different jobs, and confusing them is one of the most common and costly financial mistakes people make."
+    },
+    {
+      "type": "callout",
+      "label": "The core distinction",
+      "content": "Saving is the preservation of capital for near-term needs. Investing is the deployment of capital for long-term growth. The time horizon is the variable that determines which tool is appropriate — not your personality, your risk tolerance, or your income level."
+    },
+    {
+      "type": "heading",
+      "content": "When to save"
+    },
+    {
+      "type": "paragraph",
+      "content": "Savings belong in liquid, low-risk accounts. High-yield savings accounts, money market funds, short-term government securities. You save for things you will need within three to five years: an emergency fund covering three to six months of expenses, a house down payment, a planned major purchase. The goal is accessibility and stability — not growth."
+    },
+    {
+      "type": "heading",
+      "content": "When to invest"
+    },
+    {
+      "type": "paragraph",
+      "content": "Investing is for capital you will not need for at least five years, and ideally longer. The longer your time horizon, the more volatility you can tolerate, because short-term fluctuations become statistically irrelevant over decades. Putting money into equities that you will need in 18 months is not investing — it is speculating with necessary capital."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Before you invest a dollar, ask when you will need it. If the answer is within five years, it belongs in savings. Time horizon determines tool — everything else follows from that."
+    }
+  ]
+}

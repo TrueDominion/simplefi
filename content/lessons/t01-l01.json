@@ -1,0 +1,35 @@
+{
+  "id": "t01-l01",
+  "trackId": "t01",
+  "order": 1,
+  "title": "What money actually is",
+  "subtitle": "Strip away the abstraction. Money is a technology — and understanding that changes how you use it.",
+  "estimatedMinutes": 7,
+  "tags": ["foundations", "mindset"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Money is not wealth. It is a claim on wealth — a socially agreed-upon technology for storing and exchanging value across time. This distinction matters more than most people realize."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Fiat currency derives its value from institutional trust, not from any underlying commodity. This is not a flaw — it is a design decision. Every major economy on earth runs on it."
+    },
+    {
+      "type": "paragraph",
+      "content": "Understanding this distinction changes how you think about inflation, savings, and investment. Money held as cash is not neutral — it is a position. You are betting that the purchasing power of your cash will not erode faster than the return you could earn elsewhere."
+    },
+    {
+      "type": "paragraph",
+      "content": "For most of human history, money was tied to physical goods — gold, silver, grain. The transition to fiat currency, completed for most countries in the 20th century, made monetary systems more flexible and more complex. The supply of money can expand or contract based on policy decisions. That is power, and it affects you whether you understand it or not."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Every financial decision you make is a position on the future value of money. The question is never whether to take a position — it is which one."
+    }
+  ]
+}

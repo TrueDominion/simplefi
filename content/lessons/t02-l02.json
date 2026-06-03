@@ -1,0 +1,47 @@
+{
+  "id": "t02-l02",
+  "trackId": "t02",
+  "order": 2,
+  "title": "Volatility vs. permanent loss of capital",
+  "subtitle": "These are not the same risk. Confusing them causes investors to make exactly the wrong decisions at exactly the wrong moments.",
+  "estimatedMinutes": 9,
+  "tags": ["risk", "volatility", "behavior"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "When markets fall, most people feel they are losing money. In many cases, they are not. They are experiencing volatility — a temporary reduction in market price that, if they do nothing, will likely recover. Permanent loss of capital is a different phenomenon, and it requires different conditions to occur."
+    },
+    {
+      "type": "callout",
+      "label": "Critical distinction",
+      "content": "Volatility is a paper loss that reverses over time. Permanent capital loss is realized — either by selling during a downturn, or by holding an asset that genuinely fails to recover (a bankrupt company, a structurally declining industry). The mechanism of loss is entirely different."
+    },
+    {
+      "type": "heading",
+      "content": "How volatility becomes permanent loss"
+    },
+    {
+      "type": "paragraph",
+      "content": "Volatility only becomes permanent loss when you sell. This is why investor behavior during market downturns is so consequential. An investor who holds a diversified portfolio through a 40% decline and continues holding will, based on all historical data, recover and grow. An investor who sells at the bottom locks in that loss permanently."
+    },
+    {
+      "type": "paragraph",
+      "content": "The second mechanism is concentration. A diversified portfolio experiencing a 30% drop is experiencing market volatility. A concentrated position in a single company that drops 80% may be experiencing genuine structural deterioration — a very different situation where the expected recovery does not exist."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Volatility: temporary price decline in a fundamentally sound asset. Time is the remedy.",
+        "Permanent loss via behavior: selling a volatile position before recovery. Avoidance is the remedy.",
+        "Permanent loss via selection: holding a failing asset. Research and diversification are the remedies."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "When a market falls, ask: is this volatility or genuine deterioration? The answer determines whether the correct response is to hold, buy more, or exit. Panic is never the correct response to either."
+    }
+  ]
+}

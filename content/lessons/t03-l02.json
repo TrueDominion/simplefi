@@ -1,0 +1,44 @@
+{
+  "id": "t03-l02",
+  "trackId": "t03",
+  "order": 2,
+  "title": "Equities — ownership, not speculation",
+  "subtitle": "A share of stock is a fractional ownership stake in a real business. When you buy equity, you are buying future earnings — not a price movement.",
+  "estimatedMinutes": 9,
+  "tags": ["equities", "ownership", "fundamentals"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Equities are misunderstood as price-movement vehicles. The media covers stocks in terms of daily moves, sentiment shifts, and momentum. But the underlying asset is simpler: when you buy a share, you own a proportional claim on the assets and future earnings of a business. The price is the market's current estimate of what that claim is worth."
+    },
+    {
+      "type": "heading",
+      "content": "How equity returns are generated"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Earnings growth: as a business grows its profits, the value of your ownership stake increases.",
+        "Dividends: some businesses distribute a portion of earnings directly to shareholders as cash.",
+        "Multiple expansion: markets sometimes pay more per dollar of earnings than before, increasing price independently of earnings growth.",
+        "Share buybacks: companies returning capital by purchasing their own shares, increasing the proportional value of remaining shares."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "The long-run case for equities",
+      "content": "Over periods of 15 years or more, equities have outperformed every major asset class in every major developed market. The explanation is simple: businesses are the engines of economic growth. Owning a slice of that growth over long periods compounds significantly. Volatility in the short run is the price of that compounding."
+    },
+    {
+      "type": "paragraph",
+      "content": "The risk in equities is real: businesses fail, industries change, and markets overprice assets at peaks. But these risks are manageable through diversification across companies, sectors, and geographies. The uncompensated risk of holding a single stock is not a position most investors should take without specific conviction and research."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Equities are not a bet on price movements. They are an ownership stake in the productive capacity of businesses. Held broadly and long enough, they are the primary driver of real wealth creation for most investors."
+    }
+  ]
+}

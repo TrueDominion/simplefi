@@ -1,0 +1,44 @@
+{
+  "id": "t04-l04",
+  "trackId": "t04",
+  "order": 4,
+  "title": "Cost, tax, and drag — the hidden variables",
+  "subtitle": "Two portfolios with identical asset allocations and gross returns can have dramatically different net outcomes depending on costs and tax efficiency.",
+  "estimatedMinutes": 9,
+  "tags": ["costs", "tax", "efficiency"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Gross return is what an investment earns before any deductions. Net return is what you actually keep. The gap between them — costs, taxes, and behavioral drag — is where most investors lose value they never knew they were losing."
+    },
+    {
+      "type": "callout",
+      "label": "The compounding cost of fees",
+      "content": "A 1% annual management fee sounds trivial. Over 30 years, on a $200,000 portfolio returning 7% gross, the difference between a 0.1% fee and a 1% fee is approximately $180,000 in final portfolio value. Fees compound. The money you pay in fees is money that does not compound for you — for the entirety of your investment horizon."
+    },
+    {
+      "type": "heading",
+      "content": "Taxonomy of costs"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Expense ratios: the annual fee charged by funds, expressed as a percentage of assets. Index funds typically charge 0.03–0.20%. Active funds often charge 0.5–1.5%.",
+        "Transaction costs: brokerage commissions and bid-ask spreads. Less relevant for long-term buy-and-hold strategies.",
+        "Tax drag: taxes on dividends and realized capital gains reduce compounding. Tax-inefficient funds in taxable accounts are a persistent drag.",
+        "Behavioral drag: the return lost to poor timing decisions — buying high, selling low. This is often the largest cost of all, and the hardest to measure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Tax efficiency is about location as much as selection. Placing tax-inefficient assets (high-dividend stocks, REITs, taxable bonds) in tax-advantaged accounts and holding tax-efficient assets (index funds, growth equities) in taxable accounts is a high-leverage, low-effort optimization."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "You cannot control market returns. You can control costs, tax efficiency, and your own behavior. These three levers, consistently applied over decades, matter more than most investment selection decisions."
+    }
+  ]
+}

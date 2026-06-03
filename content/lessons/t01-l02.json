@@ -1,0 +1,39 @@
+{
+  "id": "t01-l02",
+  "trackId": "t01",
+  "order": 2,
+  "title": "Income, expenses, and the gap between them",
+  "subtitle": "Personal finance is simple at its core. Most people make it complicated by ignoring the core.",
+  "estimatedMinutes": 7,
+  "tags": ["foundations", "budgeting"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Your financial life has one fundamental equation: income minus expenses equals the gap. That gap — positive or negative — is everything. It determines whether you accumulate wealth or deplete it. It is the only number that actually matters in the short term."
+    },
+    {
+      "type": "heading",
+      "content": "Why income is not as simple as your salary"
+    },
+    {
+      "type": "paragraph",
+      "content": "Most people think of income as their take-home pay. But income has a structure. Gross income is what you earn before deductions. Net income is what arrives in your account. The difference — taxes, retirement contributions, insurance — is not wasted. It is a set of financial decisions that someone has already made on your behalf, often ones worth understanding and occasionally ones worth changing."
+    },
+    {
+      "type": "callout",
+      "label": "Important distinction",
+      "content": "Earned income (salary, wages) is taxed at the highest rates in most jurisdictions. Investment income — dividends, capital gains — is often taxed at lower rates. This is not an accident. It is a policy choice with significant implications for how you think about building wealth over time."
+    },
+    {
+      "type": "paragraph",
+      "content": "Expenses fall into two categories that matter: fixed and variable. Fixed expenses are committed — rent, loan payments, subscriptions with contracts. Variable expenses are discretionary — they flex with your choices. The distinction matters because your leverage is different in each category. You can cut a variable expense today. Changing a fixed expense takes time, negotiation, or a life change."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "The gap between your income and your expenses is the only number that determines your financial trajectory. Everything else is commentary on how to widen it."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "t07-l02",
+  "trackId": "t07",
+  "order": 2,
+  "title": "Options — rights, not obligations",
+  "subtitle": "An option gives you the right to transact at a specific price. The fact that you can choose not to exercise it is what makes it valuable — and what makes it different from every other instrument.",
+  "estimatedMinutes": 10,
+  "tags": ["options", "derivatives"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "An option is a contract that grants the buyer the right — but not the obligation — to buy or sell an underlying asset at a specified price (the strike price) before or on a specified date (the expiration). The buyer pays a premium for this right. The seller receives the premium and takes on the obligation to transact if the buyer chooses to exercise."
+    },
+    {
+      "type": "callout",
+      "label": "Calls and puts",
+      "content": "A call option gives the buyer the right to buy the underlying asset at the strike price. It gains value when the asset price rises above the strike. A put option gives the buyer the right to sell the underlying asset at the strike price. It gains value when the asset price falls below the strike. Calls are bullish instruments. Puts are bearish instruments — or hedges."
+    },
+    {
+      "type": "heading",
+      "content": "The components of option value"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Intrinsic value: how far in-the-money the option is — the immediate profit if exercised today.",
+        "Time value: the additional premium reflecting the probability that the option moves further in-the-money before expiration. Decays as expiration approaches.",
+        "Implied volatility: the market's expectation of future price movement, embedded in the option premium. High volatility makes options more expensive because larger moves are more probable."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Options can be used conservatively — to hedge an existing position, or to generate income by selling covered calls on holdings you own. They can also be used aggressively — to take leveraged directional bets. The instrument is the same. The risk profile of each strategy is entirely different. Understanding which you are doing is not optional."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Options are flexible instruments with asymmetric payoff profiles. The buyer's maximum loss is the premium paid. The seller of naked options has theoretically unlimited risk. Know your position before you hold it."
+    }
+  ]
+}

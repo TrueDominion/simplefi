@@ -1,0 +1,39 @@
+{
+  "id": "t07-l01",
+  "trackId": "t07",
+  "order": 1,
+  "title": "What a derivative is and why it exists",
+  "subtitle": "Derivatives were not invented by Wall Street. They were invented by farmers. The logic is simpler than the reputation suggests.",
+  "estimatedMinutes": 8,
+  "tags": ["derivatives", "foundations"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "A derivative is a financial contract whose value is derived from the price of an underlying asset — a stock, commodity, currency, bond, or index. Derivatives do not have intrinsic value of their own. They exist to facilitate one of three things: hedging risk, expressing a price view with leverage, or enabling arbitrage."
+    },
+    {
+      "type": "callout",
+      "label": "The original purpose",
+      "content": "Derivatives originated in agricultural markets. A wheat farmer who will harvest in October does not know what the price will be then. A flour mill needs wheat in October and does not know what they will pay. A forward contract — agreeing today on a price for future delivery — eliminates the uncertainty for both. Neither party is speculating. Both are managing real economic risk."
+    },
+    {
+      "type": "paragraph",
+      "content": "The same logic applies to modern financial derivatives. An airline that burns jet fuel needs predictable costs to plan operations. An investor holding a large equity portfolio wants to protect against a short-term decline without liquidating the position. A multinational company receiving revenue in foreign currencies wants to eliminate exchange rate uncertainty. Derivatives make all of this possible."
+    },
+    {
+      "type": "heading",
+      "content": "The speculative use"
+    },
+    {
+      "type": "paragraph",
+      "content": "Derivatives also attract speculators — participants who take the other side of hedgers' trades and accept risk in exchange for potential profit. Speculators are not villains; they provide liquidity and allow hedgers to transfer risk efficiently. But for individual investors without specific hedging needs, the speculative use of derivatives requires discipline and precision that most do not bring to it."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Derivatives exist to transfer risk from those who do not want it to those who will accept it for a price. Understanding this purpose — rather than fearing the complexity — is the foundation for knowing when they belong in your toolkit."
+    }
+  ]
+}

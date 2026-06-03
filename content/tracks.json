@@ -1,0 +1,78 @@
+[
+  {
+    "id": "t01",
+    "title": "Money fundamentals",
+    "description": "The foundation. Understand what money actually is before you try to manage it.",
+    "tier": "free",
+    "order": 1,
+    "lessonCount": 5,
+    "estimatedMinutes": 38,
+    "tags": ["foundations", "budgeting", "mindset"]
+  },
+  {
+    "id": "t02",
+    "title": "Risk & allocation",
+    "description": "Risk is not the enemy. This track teaches you to measure it, tolerate it, and use it.",
+    "tier": "paid",
+    "order": 2,
+    "lessonCount": 5,
+    "estimatedMinutes": 43,
+    "tags": ["risk", "psychology", "allocation"],
+    "prerequisite": "t01"
+  },
+  {
+    "id": "t03",
+    "title": "Asset classes",
+    "description": "Every investment belongs to a category. Understanding those categories is the prerequisite for every decision that follows.",
+    "tier": "paid",
+    "order": 3,
+    "lessonCount": 5,
+    "estimatedMinutes": 41,
+    "tags": ["equities", "bonds", "commodities"],
+    "prerequisite": "t02"
+  },
+  {
+    "id": "t04",
+    "title": "Portfolio construction",
+    "description": "A portfolio is not a collection of investments. It is a system. This track teaches you to build one deliberately.",
+    "tier": "paid",
+    "order": 4,
+    "lessonCount": 5,
+    "estimatedMinutes": 46,
+    "tags": ["allocation", "rebalancing", "cost"],
+    "prerequisite": "t03"
+  },
+  {
+    "id": "t05",
+    "title": "Equity & valuation",
+    "description": "Buying a stock means buying a business. This track teaches you to evaluate whether the price is right.",
+    "tier": "paid",
+    "order": 5,
+    "lessonCount": 5,
+    "estimatedMinutes": 52,
+    "tags": ["equities", "valuation", "analysis"],
+    "prerequisite": "t04"
+  },
+  {
+    "id": "t06",
+    "title": "Debt, credit & fixed income",
+    "description": "Debt is a tool. Credit is a score. Bonds are a market. This track separates the mechanics from the mythology.",
+    "tier": "paid",
+    "order": 6,
+    "lessonCount": 5,
+    "estimatedMinutes": 49,
+    "tags": ["debt", "credit", "bonds"],
+    "prerequisite": "t05"
+  },
+  {
+    "id": "t07",
+    "title": "Derivatives & advanced instruments",
+    "description": "Options, futures, and hedges are not speculation by default. This track teaches what they actually are and when they belong in your thinking.",
+    "tier": "paid",
+    "order": 7,
+    "lessonCount": 5,
+    "estimatedMinutes": 55,
+    "tags": ["derivatives", "options", "hedging"],
+    "prerequisite": "t06"
+  }
+]

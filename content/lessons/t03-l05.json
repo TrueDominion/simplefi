@@ -1,0 +1,44 @@
+{
+  "id": "t03-l05",
+  "trackId": "t03",
+  "order": 5,
+  "title": "How asset classes behave relative to each other",
+  "subtitle": "The relationships between asset classes are not static. They shift with economic regimes. Understanding this is the basis of all serious portfolio construction.",
+  "estimatedMinutes": 9,
+  "tags": ["correlation", "economic cycles", "allocation"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Asset classes do not exist in isolation. Their interactions — specifically their correlations — determine how a portfolio behaves as a whole. And those correlations are not fixed constants. They shift with the economic environment, which means a portfolio built for one regime may underperform dramatically in another."
+    },
+    {
+      "type": "callout",
+      "label": "The four economic regimes",
+      "content": "A useful framework: rising growth with low inflation (equities and credit outperform), rising growth with rising inflation (real assets and equities outperform), falling growth with low inflation (government bonds and cash outperform), falling growth with rising inflation — stagflation — (commodities and real assets outperform, most financial assets struggle)."
+    },
+    {
+      "type": "paragraph",
+      "content": "The equity-bond correlation is the most important relationship to understand. For most of the 1990s and 2000s, equities and bonds were negatively correlated in stress periods — bonds rose when equities fell, providing portfolio protection. During inflationary environments, this relationship can break down: both equities and bonds fall simultaneously, eliminating the hedge. This occurred in 2022."
+    },
+    {
+      "type": "heading",
+      "content": "Practical implications"
+    },
+    {
+      "type": "list",
+      "items": [
+        "No single portfolio is optimal across all economic regimes.",
+        "Correlations that held for decades can change when the underlying economic environment changes.",
+        "Real diversification means owning assets whose return drivers — not just their historical prices — are genuinely different.",
+        "The most resilient portfolios are built to perform across regimes, not to maximize returns in the most likely regime."
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "The goal of multi-asset portfolio construction is not to predict which regime comes next. It is to build a portfolio that survives and compounds across all of them. That requires understanding not just what assets do, but how they interact."
+    }
+  ]
+}

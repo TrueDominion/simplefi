@@ -1,0 +1,44 @@
+{
+  "id": "t06-l05",
+  "trackId": "t06",
+  "order": 5,
+  "title": "Using leverage responsibly",
+  "subtitle": "Leverage amplifies both gains and losses. It is not inherently dangerous — but it demands a precision that most individual investors have not developed.",
+  "estimatedMinutes": 9,
+  "tags": ["leverage", "risk management", "debt"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Leverage means using borrowed capital to invest. If you invest $100,000 of your own money and earn 10%, you make $10,000. If you invest $100,000 of your money and $100,000 borrowed at 4%, and earn 10% on the full $200,000, you make $20,000 minus $4,000 in interest — $16,000 on your $100,000 of capital, a 16% return. Leverage worked here. Now reverse the scenario."
+    },
+    {
+      "type": "callout",
+      "label": "The asymmetry",
+      "content": "If the investment loses 20% instead of gaining 10%, the unleveraged investor loses $20,000. The leveraged investor loses $40,000 on the full position, minus the $4,000 interest cost — $44,000 total, or 44% of their own capital. Leverage does not change the odds of the outcome. It changes the magnitude of both results, disproportionately on the downside due to the fixed interest cost."
+    },
+    {
+      "type": "heading",
+      "content": "When leverage makes sense"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The asset has a reliable, predictable return stream that materially exceeds the cost of borrowing.",
+        "The loan-to-value ratio is conservative enough to survive a significant decline in asset value without a forced sale.",
+        "The interest payments are serviced comfortably from income, not from the investment returns themselves.",
+        "You have sufficient liquidity elsewhere to meet margin calls or refinancing requirements if conditions change."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The most common and legitimate use of leverage for individuals is a mortgage on a primary residence or investment property. The asset is tangible, the debt is long-duration and fixed-rate, and the loan-to-value is typically conservative. Using margin debt to invest in volatile equities is a different risk profile entirely — and has destroyed substantial wealth for retail investors who underestimated downside scenarios."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Leverage is a tool for sophisticated use, not casual application. Apply it only when the return exceeds the cost, the downside scenario is survivable, and the carrying cost is covered by income. Never use leverage you would need to unwind under duress."
+    }
+  ]
+}

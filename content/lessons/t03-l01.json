@@ -1,0 +1,35 @@
+{
+  "id": "t03-l01",
+  "trackId": "t03",
+  "order": 1,
+  "title": "What an asset class is and why the distinction matters",
+  "subtitle": "Asset classes are not just categories. They represent fundamentally different types of economic claims — and understanding that shapes every allocation decision.",
+  "estimatedMinutes": 8,
+  "tags": ["asset classes", "foundations"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "An asset class is a group of investments that share similar legal structures, risk-return profiles, and behavioral patterns in response to economic conditions. The distinction matters because assets within the same class tend to move together — which means genuine diversification requires moving across classes, not just across names."
+    },
+    {
+      "type": "callout",
+      "label": "The major asset classes",
+      "content": "Equities (ownership stakes in businesses), fixed income (loans to governments and corporations), cash and equivalents (liquid, near-zero-risk stores of value), real assets (property, commodities, infrastructure), and alternatives (private equity, hedge strategies, derivatives). Each class has a different risk-return profile and different behavior across economic cycles."
+    },
+    {
+      "type": "paragraph",
+      "content": "The reason investors organize thinking around asset classes rather than individual securities is predictability. Individual stocks are idiosyncratic — they respond to company-specific factors as much as to market conditions. Asset classes, especially broad ones, behave in more predictable ways relative to economic variables: growth, inflation, interest rates, and credit conditions."
+    },
+    {
+      "type": "paragraph",
+      "content": "This predictability is what makes asset allocation — the decision about how much to hold in each class — the most consequential investment decision most people make. Research consistently shows that asset allocation explains the vast majority of long-term portfolio returns, not individual security selection."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Asset classes are the building blocks of portfolio construction. Understanding what each class is, how it earns returns, and when it struggles is foundational to every investment decision you will make."
+    }
+  ]
+}

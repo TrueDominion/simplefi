@@ -1,0 +1,43 @@
+{
+  "id": "t05-l03",
+  "trackId": "t05",
+  "order": 3,
+  "title": "Reading a financial statement without getting lost",
+  "subtitle": "Three documents tell you almost everything about a business. Knowing what to look for — and what to ignore — is the practical skill.",
+  "estimatedMinutes": 11,
+  "tags": ["financial statements", "analysis", "accounting"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Every public company publishes three financial statements: the income statement, the balance sheet, and the cash flow statement. Together, they provide a complete picture of a company's financial position and performance. Most investors look at one, ignore the second, and have never opened the third. This is a significant gap."
+    },
+    {
+      "type": "callout",
+      "label": "The three statements",
+      "content": "Income statement: what the company earned and spent over a period. Balance sheet: what the company owns and owes at a point in time. Cash flow statement: how cash actually moved in and out — regardless of accounting recognition. Each tells a different part of the story. None is complete on its own."
+    },
+    {
+      "type": "heading",
+      "content": "What to look for in each"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Income statement: revenue growth rate, gross margin trend, operating leverage (does profit grow faster than revenue?), and whether earnings per share growth is organic or driven by buybacks.",
+        "Balance sheet: debt-to-equity ratio, current ratio (can it meet short-term obligations?), goodwill as a fraction of total assets (large goodwill can signal acquisition risk), and whether book value is growing.",
+        "Cash flow statement: free cash flow (operating cash flow minus capital expenditure), cash conversion (does accounting income translate to actual cash?), and whether the company is self-financing or dependent on external capital."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The most important rule: when accounting earnings and cash flow diverge significantly over multiple periods, trust the cash flow statement. Earnings can be managed through accounting choices. Cash is harder to manufacture."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Financial statements are not reports to endure — they are a conversation with the business. The questions you bring to them determine how much they tell you. Start with the cash flow statement. Everything else follows."
+    }
+  ]
+}

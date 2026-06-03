@@ -1,0 +1,39 @@
+{
+  "id": "t02-l01",
+  "trackId": "t02",
+  "order": 1,
+  "title": "What risk actually means",
+  "subtitle": "Risk is not a feeling. It is a measurable property of outcomes. Learning to define it precisely is the first step to managing it.",
+  "estimatedMinutes": 8,
+  "tags": ["risk", "foundations"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The word risk is used in finance to mean at least four different things: the probability of loss, the magnitude of loss, the volatility of returns, and the uncertainty of outcomes. These are related but distinct. Conflating them leads to poor decisions."
+    },
+    {
+      "type": "heading",
+      "content": "Risk as probability vs. risk as magnitude"
+    },
+    {
+      "type": "paragraph",
+      "content": "A 90% chance of losing $1 is a high-probability risk. A 1% chance of losing everything is a low-probability, high-magnitude risk. Treating them identically — as most intuitive risk assessments do — is a mistake. Expected value (probability multiplied by magnitude) is a more useful starting point than gut feeling."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "In financial markets, risk is most commonly measured as standard deviation of returns — how widely actual outcomes are dispersed around the average. This is volatility. High volatility means outcomes are unpredictable. It does not necessarily mean you will lose money."
+    },
+    {
+      "type": "paragraph",
+      "content": "The practical implication: a highly volatile investment is not automatically more dangerous than a stable one. What matters is whether the volatility occurs within a time horizon you can sustain. Volatility over a 30-year investment window is almost irrelevant. Volatility in a position you need to exit in 18 months can be catastrophic."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Risk is not a single number. It is probability, magnitude, and time horizon in combination. Define all three before you evaluate any investment — and before you decide how you feel about it."
+    }
+  ]
+}

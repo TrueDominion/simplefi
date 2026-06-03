@@ -1,0 +1,35 @@
+{
+  "id": "t04-l01",
+  "trackId": "t04",
+  "order": 1,
+  "title": "What a portfolio is — and what it is not",
+  "subtitle": "A portfolio is a system with a purpose. A collection of investments without a defined objective is not a portfolio — it is a list.",
+  "estimatedMinutes": 7,
+  "tags": ["portfolio", "foundations"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The word portfolio is used loosely to mean any collection of investments. This is imprecise. A portfolio, properly understood, is a set of holdings constructed with a specific objective, a defined risk tolerance, and a coherent logic for how the parts interact. The difference between a portfolio and a list of investments is intention."
+    },
+    {
+      "type": "callout",
+      "label": "What defines a portfolio",
+      "content": "A genuine portfolio has: a target return, an acceptable level of risk, a time horizon, a liquidity constraint, and a rebalancing rule. Without all five, you have a collection — and collections do not perform consistently because they were never designed to."
+    },
+    {
+      "type": "paragraph",
+      "content": "Most individual investors accumulate holdings reactively: they buy when they read something interesting, hold because selling feels like admitting a mistake, and add more when a tip comes from a trusted source. The result is a collection with overlapping exposures, no clear risk profile, and no coherent response to market events."
+    },
+    {
+      "type": "paragraph",
+      "content": "Portfolio construction is the discipline of designing holdings from the top down: starting with an objective, deriving an asset allocation, selecting instruments to implement that allocation, and maintaining it through systematic rules. It is architecture, not collection."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Before you evaluate any investment, ask what objective it serves in your portfolio. If you cannot answer that question, you are not constructing a portfolio. You are accumulating positions."
+    }
+  ]
+}

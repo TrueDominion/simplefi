@@ -1,0 +1,39 @@
+{
+  "id": "t06-l04",
+  "trackId": "t06",
+  "order": 4,
+  "title": "Credit scoring — what it measures and what it misses",
+  "subtitle": "A credit score is a prediction of repayment behavior based on historical data. It is useful, limited, and frequently misunderstood.",
+  "estimatedMinutes": 7,
+  "tags": ["credit", "personal finance", "scoring"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "A credit score is a three-digit number — in most markets, between 300 and 850 — that represents a statistical estimate of the probability that you will repay your debts on time. Lenders use it to determine whether to extend credit and at what interest rate. A higher score means lower predicted risk, which translates to better borrowing terms."
+    },
+    {
+      "type": "callout",
+      "label": "The five factors in a FICO score",
+      "content": "Payment history (35%): whether you have paid past credit obligations on time. Amounts owed (30%): how much of your available credit you are using — utilization rate. Length of credit history (15%): how long your accounts have been open. New credit (10%): recent applications for new credit. Credit mix (10%): the variety of credit types you hold."
+    },
+    {
+      "type": "heading",
+      "content": "What it misses"
+    },
+    {
+      "type": "paragraph",
+      "content": "Credit scores are backward-looking — they measure past behavior, not current financial health. A high earner who recently paid off significant debt may score lower than a moderate earner with a longer, cleaner history. Scores also miss wealth, income stability, and assets entirely. Two people with identical scores may have dramatically different financial positions."
+    },
+    {
+      "type": "paragraph",
+      "content": "The practical strategy for optimizing your score: pay on time without exception, keep utilization below 30% (ideally below 10%), avoid unnecessary new credit applications, and maintain older accounts even if unused. These behaviors signal low risk to statistical models — which is the outcome the score was designed to measure."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "A credit score is a useful tool for accessing debt on favorable terms. Treat it as a means, not an end. The goal is not a high score — the goal is a financial life that produces a high score as a natural byproduct."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --ink: #0D0D0C;
+    --deep: #1A1A18;
+    --mid: #3A3A38;
+    --stone: #888780;
+    --warm: #D3D1C7;
+    --cream: #F1EFE8;
+    --amber: #EF9F27;
+    --amber-light: #FAEEDA;
+    --amber-dark: #412402;
+    --teal: #1D9E75;
+    --teal-light: #E1F5EE;
+    --teal-dark: #04342C;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: #F1EFE8;
+    color: #0D0D0C;
+    font-family: var(--font-syne), sans-serif;
+  }
+
+  ::selection {
+    background-color: #EF9F27;
+    color: #0D0D0C;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D3D1C7;
+    border-radius: 9999px;
+  }
+}
+
+@layer utilities {
+  .font-mono-data {
+    font-family: var(--font-syne-mono), monospace;
+  }
+  
+  .tracking-label {
+    letter-spacing: 0.12em;
+  }
+  
+  .tracking-label-wide {
+    letter-spacing: 0.2em;
+  }
+}

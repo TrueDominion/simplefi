@@ -1,0 +1,45 @@
+{
+  "id": "t07-l04",
+  "trackId": "t07",
+  "order": 4,
+  "title": "Hedging as a risk management strategy",
+  "subtitle": "A hedge is not a speculation in the opposite direction. It is a deliberate reduction of a specific risk exposure — and like all insurance, it has a cost.",
+  "estimatedMinutes": 9,
+  "tags": ["hedging", "risk management", "derivatives"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Hedging is the use of a financial instrument to offset the risk of an adverse price movement in an asset you hold. It does not eliminate risk entirely — it converts one type of risk (specific, unpredictable) into another (the cost of the hedge, which is known). Done well, hedging allows you to hold an asset through a specific risk event without suffering its full downside."
+    },
+    {
+      "type": "callout",
+      "label": "The cost of hedging",
+      "content": "Every hedge has a cost. A put option that protects against a 20% decline has a premium — say, 3% of portfolio value. If the decline does not occur, that 3% is lost. Over time, paying for hedges that never pay off is expensive. This is why effective hedging is targeted — applied to specific, time-bound risks — not a permanent portfolio overlay."
+    },
+    {
+      "type": "heading",
+      "content": "Common hedging strategies"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Protective puts: buying put options on a stock or index you hold to cap downside during a period of uncertainty.",
+        "Covered calls: selling call options against stock you hold to generate income, accepting a cap on upside in exchange.",
+        "Currency forwards: locking in an exchange rate for future foreign currency transactions.",
+        "Commodity futures: producers and consumers locking in input or output prices.",
+        "Interest rate swaps: converting fixed-rate debt exposure to floating, or vice versa, based on rate outlook."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "Hedging is not pessimism — it is precision. An investor who hedges currency risk on international holdings is not making a bet that currencies will fall. They are eliminating an exposure that is irrelevant to their investment thesis, so that portfolio performance reflects the underlying business decisions they made, not the noise of exchange rate fluctuations."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Hedge the risks you do not want. Accept the risks you are being compensated to take. The discipline is in knowing the difference — and in paying for insurance only when the specific risk is real, time-bound, and material."
+    }
+  ]
+}

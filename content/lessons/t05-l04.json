@@ -1,0 +1,39 @@
+{
+  "id": "t05-l04",
+  "trackId": "t05",
+  "order": 4,
+  "title": "Market price vs. intrinsic value",
+  "subtitle": "The market price is what someone will pay today. Intrinsic value is what the business is actually worth. The gap between them is where investment decisions live.",
+  "estimatedMinutes": 9,
+  "tags": ["valuation", "intrinsic value", "market price"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Benjamin Graham's central insight — that price and value are not the same thing — is the foundation of value investing and, more broadly, of disciplined equity analysis. The market price reflects what the marginal buyer will pay at this moment. Intrinsic value reflects the present value of what the business will actually generate. These two numbers are rarely identical."
+    },
+    {
+      "type": "callout",
+      "label": "Discounted cash flow in plain terms",
+      "content": "The most rigorous method of estimating intrinsic value is discounted cash flow (DCF) analysis. You project the business's future free cash flows, then discount them back to present value using a rate that reflects the risk of those cash flows. The resulting number is your estimate of what the business is worth. If the market price is below that number, the stock may be undervalued."
+    },
+    {
+      "type": "paragraph",
+      "content": "The limitation of DCF is its sensitivity to assumptions. Small changes in projected growth rate or discount rate produce large changes in estimated value. This is not a flaw — it is a feature. It reveals which variables actually drive value for any given business, and forces you to form explicit views on them rather than accepting the market's implicit ones."
+    },
+    {
+      "type": "heading",
+      "content": "The margin of safety"
+    },
+    {
+      "type": "paragraph",
+      "content": "Because intrinsic value is an estimate, disciplined investors require a margin of safety — they only buy when the market price is significantly below their estimate of value. This buffer absorbs estimation errors. A stock trading at $60 when you estimate intrinsic value at $100 gives you 40% margin of safety. A stock at $95 when you estimate $100 gives you almost none."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Market price is a fact. Intrinsic value is an estimate. Investing is the discipline of making that estimate carefully, buying only when price is materially below value, and having the conviction to hold while the gap closes."
+    }
+  ]
+}

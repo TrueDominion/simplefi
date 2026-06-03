@@ -1,0 +1,43 @@
+{
+  "id": "t02-l05",
+  "trackId": "t02",
+  "order": 5,
+  "title": "Diversification — what it actually does",
+  "subtitle": "Diversification is not about owning more things. It is about owning things that do not move together. The distinction changes how you build a portfolio.",
+  "estimatedMinutes": 9,
+  "tags": ["diversification", "correlation", "portfolio"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "Owning 50 technology stocks is not diversification. Owning stocks, bonds, real estate, and international equities might be. The defining variable is not quantity — it is correlation. Assets that move together in the same direction provide no protection when the direction is down."
+    },
+    {
+      "type": "callout",
+      "label": "The mechanics",
+      "content": "When two assets are perfectly correlated (correlation = 1), they move identically. Owning both adds no risk reduction. When two assets are uncorrelated (correlation = 0) or negatively correlated (correlation = -1), combining them reduces the portfolio's overall volatility without necessarily reducing expected return. This is the only free lunch in finance."
+    },
+    {
+      "type": "heading",
+      "content": "What diversification does and does not eliminate"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Eliminates: idiosyncratic risk — the risk specific to a single company, sector, or geography.",
+        "Reduces: overall portfolio volatility when assets are imperfectly correlated.",
+        "Cannot eliminate: systematic risk — the broad market risk that affects all assets simultaneously (recessions, rate shocks, global crises)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "The practical limit of diversification is important to understand. Adding a 51st stock to a 50-stock portfolio reduces risk by a negligible amount. The largest diversification gains come from the first 15-20 positions and from adding asset classes, not from adding more securities within the same class."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Diversification reduces the risk you should not be taking — company-specific and sector-specific risk. It does not eliminate market risk. And it only works when the assets you hold are genuinely uncorrelated."
+    }
+  ]
+}

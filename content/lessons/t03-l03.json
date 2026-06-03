@@ -1,0 +1,39 @@
+{
+  "id": "t03-l03",
+  "trackId": "t03",
+  "order": 3,
+  "title": "Fixed income — lending, not saving",
+  "subtitle": "Bonds are loans. When you buy one, you are a creditor. Understanding this reframes what you expect, what you earn, and what can go wrong.",
+  "estimatedMinutes": 8,
+  "tags": ["fixed income", "bonds", "interest rates"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "A bond is a loan. When a government or company issues a bond, they are borrowing money from investors and promising to return it with interest. As a bond investor, you are a lender — not an owner. That distinction changes your return profile entirely: you get a fixed income stream and your principal back, but you do not participate in upside if the borrower prospers."
+    },
+    {
+      "type": "callout",
+      "label": "Bond mechanics",
+      "content": "A bond has three key parameters: face value (the principal amount returned at maturity), coupon (the periodic interest payment expressed as a percentage of face value), and maturity (when the principal is repaid). The yield is the actual return you earn given the price you paid — which may differ from the coupon if you bought the bond at a premium or discount."
+    },
+    {
+      "type": "paragraph",
+      "content": "The most important and least intuitive fact about bonds: their price moves inversely to interest rates. When rates rise, existing bond prices fall. When rates fall, existing bond prices rise. This is arithmetic: if you hold a bond paying 3% and new bonds are issued at 5%, your 3% bond is worth less to any potential buyer. The market adjusts price to equalize yields."
+    },
+    {
+      "type": "heading",
+      "content": "The role of fixed income in a portfolio"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bonds serve three purposes: income generation, capital preservation, and portfolio ballast. In environments where equities fall sharply, high-quality government bonds often rise — providing a counterweight. This negative correlation with equities in stress environments is what makes fixed income a portfolio stabilizer, not just a return source."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Fixed income is not a synonym for safe. It carries credit risk, interest rate risk, and inflation risk. What it provides is predictable income and, for high-quality government bonds, a reliable counterbalance to equity volatility."
+    }
+  ]
+}

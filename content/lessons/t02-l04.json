@@ -1,0 +1,39 @@
+{
+  "id": "t02-l04",
+  "trackId": "t02",
+  "order": 4,
+  "title": "The cost of avoiding risk entirely",
+  "subtitle": "There is no zero-risk position. Holding cash carries inflation risk. Avoiding equities carries opportunity cost. Every choice has a price.",
+  "estimatedMinutes": 9,
+  "tags": ["risk", "inflation", "opportunity cost"],
+  "body": [
+    {
+      "type": "paragraph",
+      "content": "The most common misconception in personal finance is that keeping money in cash or savings accounts is risk-free. It is not. It trades market risk for inflation risk — and inflation risk is slower, quieter, and far less visible, which is why it is so consistently underestimated."
+    },
+    {
+      "type": "callout",
+      "label": "Inflation math",
+      "content": "At 3% annual inflation, the purchasing power of $100,000 held in cash falls to approximately $74,000 in real terms after 10 years. No market crash required. No drama. Just time and the persistent erosion of value by a rate most people barely notice."
+    },
+    {
+      "type": "paragraph",
+      "content": "Opportunity cost is the second dimension. Every dollar kept in a 4% savings account, when equities have historically returned 7-10% annually over long periods, has a cost attached to it. That cost is real even if it never appears on a statement."
+    },
+    {
+      "type": "heading",
+      "content": "The appropriate use of cash"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is not an argument against holding cash. Cash has a specific and important role: emergency reserves, near-term planned expenses, and dry powder for opportunities. The error is holding excess cash beyond these purposes as a default state — treating risk avoidance as a strategy rather than as a temporary position."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "takeaway",
+      "content": "Avoiding risk is itself a risk. The question is not whether to accept risk — it is which risks you are accepting and whether they are the ones you intended to take."
+    }
+  ]
+}
