@@ -1,6 +1,8 @@
 // app/auth/login/page.tsx
 "use client";
 
+export const dynamic = "force-dynamic";
+
 import { useState } from "react";
 import { signIn } from "next-auth/react";
 import { motion } from "framer-motion";
