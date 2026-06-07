@@ -48,7 +48,10 @@ export function isTrackUnlocked(
   // Paid tracks require pro subscription
   if (track.tier === "paid" && plan !== "pro") return false;
 
-  // Check prerequisite
+  // Free tracks are always accessible (no prerequisite gate)
+  if (track.tier === "free") return true;
+
+  // Paid tracks check prerequisite completion
   if (track.prerequisite) {
     return isTrackComplete(track.prerequisite, progress);
   }

@@ -36,7 +36,7 @@ export default function CurriculumPage() {
 
       {/* Footer note */}
       <p className="font-syne text-[12px] text-stone border-t border-warm/60 pt-4">
-        Complete each track in order. Tracks unlock when prerequisites are finished.
+        Tracks 01–03 are free. Tracks 04–07 require Pro.
       </p>
     </motion.div>
   );
