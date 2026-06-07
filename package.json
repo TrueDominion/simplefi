@@ -7,35 +7,40 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "vitest"
+    "test": "vitest",
+    "pages:build": "npx @cloudflare/next-on-pages",
+    "pages:deploy": "npm run pages:build && wrangler pages deploy",
+    "pages:preview": "npm run pages:build && wrangler pages dev"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^4.1.0",
+    "@tabler/icons-react": "^3.11.0",
+    "framer-motion": "^11.3.19",
     "next": "14.2.5",
+    "next-auth": "^4.24.7",
+    "nodemailer": "^6.9.14",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "next-auth": "^4.24.7",
     "stripe": "^15.12.0",
-    "@stripe/stripe-js": "^4.1.0",
-    "zustand": "^4.5.4",
-    "framer-motion": "^11.3.19",
-    "@tabler/icons-react": "^3.11.0",
-    "nodemailer": "^6.9.14",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "zustand": "^4.5.4"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.16",
+    "@testing-library/jest-dom": "^6.4.6",
+    "@testing-library/react": "^16.0.0",
     "@types/node": "^20",
+    "@types/nodemailer": "^6.4.15",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "@types/nodemailer": "^6.4.15",
-    "tailwindcss": "^3.4.6",
-    "postcss": "^8",
+    "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10",
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
+    "postcss": "^8",
     "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.6",
     "vitest": "^2.0.4",
-    "@vitejs/plugin-react": "^4.3.1",
-    "@testing-library/react": "^16.0.0",
-    "@testing-library/jest-dom": "^6.4.6"
+    "wrangler": "^4.98.0"
   }
 }
