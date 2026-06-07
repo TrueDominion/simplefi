@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Deploy to Cloudflare
 
 on:
   push:
@@ -22,14 +22,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "npm"
 
       - name: Install dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Build for Cloudflare Pages
-        run: npx @cloudflare/next-on-pages
+      - name: Build for Cloudflare
+        run: npx @opennextjs/cloudflare build
         env:
           NODE_ENV: production
           NEXTAUTH_URL: ${{ secrets.NEXTAUTH_URL }}
@@ -41,9 +41,9 @@ jobs:
           EMAIL_SERVER: ${{ secrets.EMAIL_SERVER }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy .vercel/output/static --project-name=simplefi
+          command: deploy
