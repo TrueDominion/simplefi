@@ -9,27 +9,82 @@
   "body": [
     {
       "type": "paragraph",
-      "content": "Money is not wealth. It is a claim on wealth — a socially agreed-upon technology for storing and exchanging value across time. This distinction matters more than most people realize."
+      "content": "Money is not wealth. It is a claim on wealth. A socially agreed-upon technology for storing and exchanging value across time. That distinction sounds philosophical. It isn't. Once you see money as a tool rather than a thing, you start making different decisions with it."
+    },
+    {
+      "type": "heading",
+      "content": "Fiat currency: backed by trust, not gold"
+    },
+    {
+      "type": "paragraph",
+      "content": "The US dollar is fiat currency. It is not backed by gold, silver, or any physical commodity. It is backed by institutional trust — specifically, the trust that the US government will remain functional, that other people will accept dollars in exchange for real things, and that the Federal Reserve won't print so much of it that it becomes worthless. This is not a bug. It's a design feature. It lets the economy grow, lets governments respond to crises, and has made the modern financial system possible."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Fiat currency derives its value from institutional trust, not from any underlying commodity. This is not a flaw — it is a design decision. Every major economy on earth runs on it."
+      "content": "Fiat = backed by trust, not a commodity. Every major economy runs on it. The US completed this transition in 1971 when Nixon ended the dollar's gold convertibility. The supply of money can now expand or contract based on policy decisions. That affects you whether you understand it or not."
+    },
+    {
+      "type": "heading",
+      "content": "Inflation: the slow tax on cash"
     },
     {
       "type": "paragraph",
-      "content": "Understanding this distinction changes how you think about inflation, savings, and investment. Money held as cash is not neutral — it is a position. You are betting that the purchasing power of your cash will not erode faster than the return you could earn elsewhere."
+      "content": "Inflation is the rate at which money loses purchasing power. In the United States, it has averaged roughly 3% per year over the past 50 years. That sounds small. Compounded over decades, it destroys value quietly and completely."
+    },
+    {
+      "type": "list",
+      "items": [
+        "$100 in 1990 had the same buying power as about $230 in 2024",
+        "Flip it: $100 kept in a mattress since 1990 can now only buy what $43 bought back then",
+        "At 3% annual inflation, prices double roughly every 24 years",
+        "At 7% inflation (the 2022 peak), prices would double in just 10 years"
+      ]
     },
     {
       "type": "paragraph",
-      "content": "For most of human history, money was tied to physical goods — gold, silver, grain. The transition to fiat currency, completed for most countries in the 20th century, made monetary systems more flexible and more complex. The supply of money can expand or contract based on policy decisions. That is power, and it affects you whether you understand it or not."
+      "content": "The practical implication: cash that isn't invested is being slowly taxed by inflation. If your savings account earns 1% and inflation is 3%, your real return is negative 2%. Your nominal balance grows. Your purchasing power shrinks. You feel fine. You are not fine."
+    },
+    {
+      "type": "heading",
+      "content": "Cash is a position, not a default"
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Holding cash is not neutral. It is a financial position — a bet that inflation won't significantly erode your purchasing power, and that no better use for the money exists. Sometimes that bet is correct. Often, over long periods, it is not."
+    },
+    {
+      "type": "paragraph",
+      "content": "Most people treat cash as the safe default — the thing you hold when you're not doing anything. But cash has a cost: the opportunity cost of what it could earn elsewhere, and the direct cost of inflation eating its value. There are good reasons to hold cash. An emergency fund. Short-term goals. But holding cash indefinitely because you haven't gotten around to investing it is costing you money in real terms. Every day you wait is a decision."
+    },
+    {
+      "type": "heading",
+      "content": "Money vs. wealth"
+    },
+    {
+      "type": "paragraph",
+      "content": "Money is liquid. Wealth is a stock of assets — investments, real estate, businesses, skills — that generate value over time. You can have money without wealth: a high earner who spends everything. You can have wealth without much money on hand: a business owner with illiquid assets. The goal of personal finance is not to accumulate money. It is to convert income into wealth."
+    },
+    {
+      "type": "heading",
+      "content": "The one math concept that actually matters"
+    },
+    {
+      "type": "paragraph",
+      "content": "A dollar today is worth more than a dollar tomorrow. Two reasons: inflation (tomorrow's dollar buys less) and opportunity cost (today's dollar can be invested and grow). This is why compound interest is the only financial concept you absolutely need to understand. Not because Einstein said so. Because the numbers are genuinely insane."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "$10,000 invested at 8% annual return becomes $21,589 in 10 years, $46,610 in 20 years, and $100,627 in 30 years. You put in $10k. You get back $100k. The money more than doubles every 9 years at that return rate. Time is the input. You either have it or you don't — and it starts running the moment you read this."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Every financial decision you make is a position on the future value of money. The question is never whether to take a position — it is which one."
+      "content": "Money is a tool, not a score. Holding it costs something (inflation). Deploying it earns something (returns). Every financial decision is a position on the future value of money. The question is never whether to take a position — it's which one, and whether you made it consciously."
     }
   ]
 }
