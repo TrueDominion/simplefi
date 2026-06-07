@@ -1,10 +1,10 @@
 // components/marketing/HowItWorks.tsx
 
-import { IconLayers, IconBook, IconChartDots } from "@tabler/icons-react";
+import { IconStack2, IconBook, IconChartDots } from "@tabler/icons-react";
 
 const values = [
   {
-    icon: IconLayers,
+    icon: IconStack2,
     label: "Sequenced by how finance actually compounds",
     description:
       "Each concept builds on the last. You cannot understand portfolio construction without understanding risk. The curriculum enforces the order.",

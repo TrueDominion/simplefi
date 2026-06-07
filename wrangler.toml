@@ -1,0 +1,11 @@
+name = "simplefi"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+main = ".open-next/worker.js"
+
+[build]
+command = "npm install --legacy-peer-deps && npx @opennextjs/cloudflare build"
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
