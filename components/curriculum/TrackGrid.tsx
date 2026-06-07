@@ -37,8 +37,8 @@ export default function TrackGrid() {
       >
         <div className="space-y-4">
           <p className="font-syne text-[13px] text-stone leading-relaxed">
-            This is where it gets serious. Tracks 02–07 cover risk, asset classes,
-            portfolio construction, equity valuation, fixed income, and derivatives.
+            Tracks 04–07 cover portfolio construction, equity valuation, fixed income,
+            and derivatives. Tracks 01–03 are free.
           </p>
           <p className="font-syne text-[13px] text-stone leading-relaxed">
             Pro access. Full curriculum. $12/month or $99/year.
