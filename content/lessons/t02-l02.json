@@ -5,11 +5,15 @@
   "title": "Volatility vs. permanent loss of capital",
   "subtitle": "These are not the same thing. Confusing them is one of the most expensive mistakes an investor can make.",
   "estimatedMinutes": 7,
-  "tags": ["risk", "volatility", "behavior"],
+  "tags": [
+    "risk",
+    "volatility",
+    "behavior"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "A stock that drops 30% in a year is scary. It might also be completely fine. The price fell — but if the business is intact, the drop is temporary. This is volatility. Permanent loss of capital is different: the business fails, goes to zero, or you sell at the bottom and never recover. Confusing these two things causes investors to do exactly the wrong thing at exactly the wrong moment."
+      "content": "A stock that drops 30% in a year is scary, it  might also be completely fine, the  price fell, but if the business is intact, the drop is temporary, this  is volatility. Permanent loss of capital is different: the business fails, goes to zero, or you sell at the bottom and never recover. Confusing these two things causes investors to do exactly the wrong thing at exactly the wrong moment."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "A paper loss is the drop in value of an investment you still hold. It exists on paper — or on your screen — but it hasn't happened yet in any meaningful financial sense. A realized loss is when you sell. The moment you sell below your cost, the loss is permanent. Your portfolio can't recover from a realized loss. Markets can recover from volatility. They can't recover from you panic-selling."
+      "content": "A paper loss is the drop in value of an investment you still hold, it  exists on paper, or on your screen, but it hasn't happened yet in any meaningful financial sense. A realized loss is when you sell, the  moment you sell below your cost, the loss is permanent. Your portfolio can't recover from a realized loss. Markets can recover from volatility, they  can't recover from you panic-selling."
     },
     {
       "type": "heading",
@@ -42,7 +46,7 @@
         "When your time horizon is wrong: money you need in 18 months shouldn't be in equities",
         "When you're forced to sell: job loss, emergency, or margin call can force selling at the worst time",
         "When you can't stomach it and panic: emotional selling converts paper losses into realized losses",
-        "When the underlying business genuinely fails: Enron went to zero — that's permanent loss, not volatility"
+        "When the underlying business genuinely fails: Enron went to zero. That's permanent loss, not volatility"
       ]
     },
     {
@@ -60,14 +64,14 @@
     },
     {
       "type": "paragraph",
-      "content": "The actual risk for most long-term investors isn't volatility. It's reacting to volatility. Build a portfolio you can hold through a 40% drawdown without panic-selling. If you can't imagine doing that with your current allocation, you're taking on too much risk — not because the returns will be bad, but because your behavior will be."
+      "content": "The actual risk for most long-term investors isn't volatility. It's reacting to volatility. Build a portfolio you can hold through a 40% drawdown without panic-selling, if  you can't imagine doing that with your current allocation, you're taking on too much risk, not because the returns will be bad, but because your behavior will be."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Volatility is temporary. Selling at the bottom makes it permanent. A 50% loss needs a 100% gain to recover — which is why not realizing the loss matters so much. For long-term investors, the danger isn't the market dropping. It's reacting to the drop."
+      "content": "Volatility is temporary. Selling at the bottom makes it permanent. A 50% loss needs a 100% gain to recover, which is why not realizing the loss matters so much, for  long-term investors, the danger isn't the market dropping. It's reacting to the drop."
     }
   ]
 }

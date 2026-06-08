@@ -2,14 +2,18 @@
   "id": "t03-l02",
   "trackId": "t03",
   "order": 2,
-  "title": "Equities — ownership, not speculation",
+  "title": "Equities. Ownership, not speculation",
   "subtitle": "A share of stock is not a casino chip. It is a fractional ownership claim on a real business.",
   "estimatedMinutes": 9,
-  "tags": ["equities", "ownership", "fundamentals"],
+  "tags": [
+    "equities",
+    "ownership",
+    "fundamentals"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "When you buy a share of Apple, you own a tiny piece of Apple. Not the building. Not the patents on their own. A proportional share of the entire business — its earnings, its assets, its future cash flows. Most retail investors don't think this way. They think about price direction. The ones who think about businesses generally do better."
+      "content": "When you buy a share of Apple, you own a tiny piece of Apple, not  the building, not  the patents on their own. A proportional share of the entire business, its earnings, its assets, its future cash flows. Most retail investors don't think this way, they  think about price direction, the  ones who think about businesses generally do better."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Returns from stocks come from four places: earnings growth (the business earns more money over time), dividends (the company pays you a cut of profits directly), multiple expansion (the market decides to pay more per dollar of earnings — higher P/E), and buybacks (the company buys its own shares, making your slice of the pie bigger). Long-term, earnings growth dominates. Everything else is shorter-term noise."
+      "content": "Returns from stocks come from four places: earnings growth (the business earns more money over time), dividends (the company pays you a cut of profits directly), multiple expansion (the market decides to pay more per dollar of earnings. higher P/E), and buybacks (the company buys its own shares, making your slice of the pie bigger). Long-term, earnings growth dominates. Everything else is shorter-term noise."
     },
     {
       "type": "callout",
       "label": "The math",
-      "content": "S&P 500 historical returns: roughly 10% nominal per year, roughly 7% real (inflation-adjusted), averaged over a century. Not every year — some years are down 30%, others up 30%. But over any 20-year rolling period in the index's history, returns have been positive. $10,000 invested in the S&P 500 in 1990, with dividends reinvested, is worth roughly $200,000 today. No stock picking. No market timing. Just owning the market and waiting."
+      "content": "S&P 500 historical returns: roughly 10% nominal per year, roughly 7% real (inflation-adjusted), averaged over a century, not  every year. some years are down 30%, others up 30%, but  over any 20-year rolling period in the index's history, returns have been positive. $10,000 invested in the S&P 500 in 1990, with dividends reinvested, is worth roughly $200,000 today, no  stock picking, no  market timing, just  owning the market and waiting."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Companies can return earnings to shareholders as dividends (cash deposited in your account) or buybacks (repurchasing their own shares, which increases your percentage ownership). Historically, dividends have contributed about 40% of total stock market returns over long periods. When you reinvest them automatically, you buy more shares, those shares pay more dividends, which buy more shares — a compounding loop that quietly multiplies your holdings over decades."
+      "content": "Companies can return earnings to shareholders as dividends (cash deposited in your account) or buybacks (repurchasing their own shares, which increases your percentage ownership). Historically, dividends have contributed about 40% of total stock market returns over long periods, when  you reinvest them automatically, you buy more shares, those shares pay more dividends, which buy more shares. a compounding loop that quietly multiplies your holdings over decades."
     },
     {
       "type": "heading",
@@ -38,7 +42,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Market cap = share price × number of shares outstanding. Large cap (Apple, Microsoft, Amazon) means over $10 billion in market cap. Small cap is typically $300 million to $2 billion. Small cap stocks have historically outperformed large cap over very long periods — the small cap premium. They're also more volatile and less liquid. You're being compensated for accepting more uncertainty. Both belong in a diversified portfolio."
+      "content": "Market cap = share price × number of shares outstanding. Large cap (Apple, Microsoft, Amazon) means over $10 billion in market cap. Small cap is typically $300 million to $2 billion. Small cap stocks have historically outperformed large cap over very long periods, the small cap premium. They're also more volatile and less liquid. You're being compensated for accepting more uncertainty, both  belong in a diversified portfolio."
     },
     {
       "type": "heading",
@@ -46,32 +50,32 @@
     },
     {
       "type": "paragraph",
-      "content": "Growth stocks trade at high multiples because the market expects rapid earnings growth — think high P/E ratios, often no dividends, reinvesting everything back into the business. Value stocks trade at lower multiples, either because they're in boring industries, temporarily out of favor, or genuinely cheap relative to their earnings. Over very long periods, value has outperformed growth. Over the past decade, growth has crushed value. Neither pattern is permanent. Both styles belong in a diversified equity portfolio."
+      "content": "Growth stocks trade at high multiples because the market expects rapid earnings growth. think high P/E ratios, often no dividends, reinvesting everything back into the business. Value stocks trade at lower multiples, either because they're in boring industries, temporarily out of favor, or genuinely cheap relative to their earnings. Over very long periods, value has outperformed growth. Over the past decade, growth has crushed value, neither  pattern is permanent, both  styles belong in a diversified equity portfolio."
     },
     {
       "type": "callout",
       "label": "Watch out",
-      "content": "The market isn't a casino if your time horizon is long enough. Over 1 year, stocks can go anywhere — a 40% loss is possible and has happened multiple times. Over 20 years, every major developed market has produced positive real returns. The volatility isn't the risk. The risk is selling during the inevitable bad years and turning a temporary paper loss into a permanent one."
+      "content": "The market isn't a casino if your time horizon is long enough. Over 1 year, stocks can go anywhere. a 40% loss is possible and has happened multiple times. Over 20 years, every major developed market has produced positive real returns, the  volatility isn't the risk, the  risk is selling during the inevitable bad years and turning a temporary paper loss into a permanent one."
     },
     {
       "type": "quote",
-      "content": "The stock market is a device for transferring money from the impatient to the patient. — Warren Buffett"
+      "content": "The stock market is a device for transferring money from the impatient to the patient.. Warren Buffett"
     },
     {
       "type": "paragraph",
-      "content": "This is the whole lesson. Short-term price movement is mostly noise. The underlying businesses are doing the actual work — generating earnings, growing revenues, compounding value. Your job is to own that process and not disrupt it by trading in and out based on headlines."
+      "content": "This is the whole lesson. Short-term price movement is mostly noise, the  underlying businesses are doing the actual work. generating earnings, growing revenues, compounding value. Your job is to own that process and not disrupt it by trading in and out based on headlines."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "For the vast majority of people, buying the whole market through a low-cost index fund — accepting average market returns minus tiny fees — will outperform trying to pick individual stocks. Not because stock picking is impossible. Because markets are highly competitive, and the fees and behavioral mistakes involved in active trading eat most of the potential advantage. The boring choice is also the correct one."
+      "content": "For the vast majority of people, buying the whole market through a low-cost index fund, accepting average market returns minus tiny fees, will outperform trying to pick individual stocks, not  because stock picking is impossible, because  markets are highly competitive, and the fees and behavioral mistakes involved in active trading eat most of the potential advantage, the  boring choice is also the correct one."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A stock is fractional ownership of a real business. Returns come from earnings growth, dividends, and buybacks. The S&P 500 has returned roughly 10% nominal per year over the long run — every crash included. The market isn't gambling if your time horizon is long enough. Patience is the strategy."
+      "content": "A stock is fractional ownership of a real business. Returns come from earnings growth, dividends, and buybacks, the  S&P 500 has returned roughly 10% nominal per year over the long run. every crash included, the  market isn't gambling if your time horizon is long enough. Patience is the strategy."
     }
   ]
 }

@@ -2,10 +2,14 @@
   "id": "t02-l03",
   "trackId": "t02",
   "order": 3,
-  "title": "Your risk tolerance — and why you probably measure it wrong",
+  "title": "Your risk tolerance. And why you probably measure it wrong",
   "subtitle": "Most people discover their true risk tolerance during a crash. That's too late.",
   "estimatedMinutes": 7,
-  "tags": ["risk", "psychology", "behavior"],
+  "tags": [
+    "risk",
+    "psychology",
+    "behavior"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Risk tolerance is your willingness to absorb loss — the psychological and emotional side. Risk capacity is your actual ability to absorb loss — the financial and practical side. Someone nearing retirement might have high risk tolerance (they've seen crashes before, they're calm) but low risk capacity (they need this money in five years and can't wait for a recovery). Someone young might have high risk capacity (decades of runway) but low risk tolerance (watching their balance drop makes them physically ill). You need to know both numbers."
+      "content": "Risk tolerance is your willingness to absorb loss, the psychological and emotional side. Risk capacity is your actual ability to absorb loss, the financial and practical side. Someone nearing retirement might have high risk tolerance (they've seen crashes before, they're calm) but low risk capacity (they need this money in five years and can't wait for a recovery). Someone young might have high risk capacity (decades of runway) but low risk tolerance (watching their balance drop makes them physically ill). You need to know both numbers."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Everybody is brave in a bull market. Accounts are going up, you feel smart, you want more equity exposure. Then a crash comes. The DALBAR study consistently finds that average investors underperform the market by 3-4% per year — not because they pick bad stocks, but because they sell during downturns and buy during peaks. The problem is behavioral, not analytical."
+      "content": "Everybody is brave in a bull market. Accounts are going up, you feel smart, you want more equity exposure. Then a crash comes, the  DALBAR study consistently finds that average investors underperform the market by 3-4% per year, not because they pick bad stocks, but because they sell during downturns and buy during peaks, the  problem is behavioral, not analytical."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Percentages are abstract. Dollars are concrete. 'I could lose 40%' feels manageable until you translate it: if your portfolio is $150,000, that's $60,000 gone. Can you look at your account, see $90,000 where $150,000 used to be, and not sell? That's the question. If the answer is no — and it's okay if it's no — your allocation needs to reflect that reality, not your theoretical bravado."
+      "content": "Percentages are abstract. Dollars are concrete. 'I could lose 40%' feels manageable until you translate it: if your portfolio is $150,000, that's $60,000 gone. Can you look at your account, see $90,000 where $150,000 used to be, and not sell? That's the question, if  the answer is no, and it's okay if it's no, your allocation needs to reflect that reality, not your theoretical bravado."
     },
     {
       "type": "list",
@@ -47,7 +51,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The conventional wisdom: young people should hold mostly stocks, older people should hold more bonds. It's a reasonable heuristic, not a universal truth. A 60-year-old with a pension, Social Security, and a paid-off house might have enormous risk capacity — their portfolio is supplemental, not critical. A 30-year-old with no emergency fund, high fixed expenses, and a volatile income might have very low risk capacity. Age correlates with risk capacity. It doesn't determine it."
+      "content": "The conventional wisdom: young people should hold mostly stocks, older people should hold more bonds. It's a reasonable heuristic, not a universal truth. A 60-year-old with a pension, Social Security, and a paid-off house might have enormous risk capacity. their portfolio is supplemental, not critical. A 30-year-old with no emergency fund, high fixed expenses, and a volatile income might have very low risk capacity. Age correlates with risk capacity, it  doesn't determine it."
     },
     {
       "type": "callout",

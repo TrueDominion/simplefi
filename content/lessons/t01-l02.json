@@ -5,11 +5,14 @@
   "title": "Income, expenses, and the gap between them",
   "subtitle": "Personal finance is simple at its core. Most people make it complicated by ignoring the core.",
   "estimatedMinutes": 7,
-  "tags": ["foundations", "budgeting"],
+  "tags": [
+    "foundations",
+    "budgeting"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Your financial life has one fundamental equation. Income minus expenses equals the gap. That gap — positive or negative — is everything. It determines whether you're accumulating wealth or depleting it. Every sophisticated financial concept eventually traces back to this one number."
+      "content": "Your financial life has one fundamental equation. Income minus expenses equals the gap, that  gap, positive or negative, is everything, it  determines whether you're accumulating wealth or depleting it. Every sophisticated financial concept eventually traces back to this one number."
     },
     {
       "type": "heading",
@@ -17,12 +20,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Your salary is not your income. It's your gross income — what you earn before anyone takes a cut. Your net income is what lands in your bank account. The gap between the two isn't waste. It's a set of financial decisions — some made by your employer, some by the government, some by you — that happen before you ever see the money."
+      "content": "Your salary is not your income. It's your gross income, what you earn before anyone takes a cut. Your net income is what lands in your bank account, the  gap between the two isn't waste. It's a set of financial decisions, some made by your employer, some by the government, some by you, that happen before you ever see the money."
     },
     {
       "type": "callout",
       "label": "What happens to your paycheck",
-      "content": "Federal and state income taxes. Social Security (6.2%) and Medicare (1.45%). Your 401(k) contribution if you have one. Health insurance premiums. FSA or HSA contributions. On a $75,000 salary, you might take home $52,000 — about 69 cents of every dollar. Understanding where the other 31 cents goes is step one."
+      "content": "Federal and state income taxes. Social Security (6.2%) and Medicare (1.45%). Your 401(k) contribution if you have one. Health insurance premiums. FSA or HSA contributions, on  a $75,000 salary, you might take home $52,000. about 69 cents of every dollar. Understanding where the other 31 cents goes is step one."
     },
     {
       "type": "heading",
@@ -30,7 +33,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The US uses a marginal tax system. That means you don't pay your top rate on all your income — you pay each rate only on the income that falls within that bracket. If you're in the 22% bracket, you're not paying 22% on everything. You're paying 10% on the first slice, 12% on the next slice, and 22% only on the portion above $44,725 (2023 single filer). Getting a raise will never cause you to take home less money. That fear is a misunderstanding of how the math works."
+      "content": "The US uses a marginal tax system, that  means you don't pay your top rate on all your income. you pay each rate only on the income that falls within that bracket, if  you're in the 22% bracket, you're not paying 22% on everything. You're paying 10% on the first slice, 12% on the next slice, and 22% only on the portion above $44,725 (2023 single filer). Getting a raise will never cause you to take home less money, that  fear is a misunderstanding of how the math works."
     },
     {
       "type": "heading",
@@ -45,8 +48,8 @@
       "items": [
         "Fixed: rent/mortgage, car payment, loan minimums, insurance, most subscriptions",
         "Variable: groceries, dining, clothing, entertainment, travel, gifts",
-        "Your biggest wins come from reducing fixed costs — they save money automatically, every month",
-        "Variable cuts require ongoing willpower — they're real but harder to sustain"
+        "Your biggest wins come from reducing fixed costs. They save money automatically, every month",
+        "Variable cuts require ongoing willpower. They're real but harder to sustain"
       ]
     },
     {
@@ -64,14 +67,14 @@
     },
     {
       "type": "paragraph",
-      "content": "The gap between your income and your expenses is the engine of your financial life. Everything else — investing, debt payoff, building wealth — runs on this gap. Widen it by earning more, spending less, or both. But first, measure it. Most people have no idea what their actual number is."
+      "content": "The gap between your income and your expenses is the engine of your financial life. Everything else, investing, debt payoff, building wealth, runs on this gap. Widen it by earning more, spending less, or both, but  first, measure it. Most people have no idea what their actual number is."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Income minus expenses equals the gap. That's your one number. Every month, it should be positive. The bigger it is, the faster you build wealth. Everything else in personal finance is about what to do with that gap — but first you have to have one."
+      "content": "Income minus expenses equals the gap. That's your one number. Every month, it should be positive, the  bigger it is, the faster you build wealth. Everything else in personal finance is about what to do with that gap, but first you have to have one."
     }
   ]
 }

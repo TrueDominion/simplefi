@@ -5,11 +5,15 @@
   "title": "Market price vs. intrinsic value",
   "subtitle": "The price is what you pay. The value is what you get. They are rarely the same number.",
   "estimatedMinutes": 8,
-  "tags": ["valuation", "intrinsic value", "market price"],
+  "tags": [
+    "valuation",
+    "intrinsic value",
+    "market price"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Price and value are different things. The market price of a stock is what someone will pay for it right now. The intrinsic value is what the business is actually worth — based on its future cash flows, competitive position, and the rate at which you discount those future earnings to present value. They're related. They're not the same. And the gap between them is where investment decisions live."
+      "content": "Price and value are different things, the  market price of a stock is what someone will pay for it right now, the  intrinsic value is what the business is actually worth. based on its future cash flows, competitive position, and the rate at which you discount those future earnings to present value. They're related. They're not the same, and  the gap between them is where investment decisions live."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "The formal method is discounted cash flow (DCF) analysis. You estimate all future free cash flows the business will generate, then discount them back to today's dollars using a required rate of return. The sum is the intrinsic value. The math is straightforward. The inputs are not — you're estimating cash flows years or decades into the future, then choosing a discount rate that reflects both risk-free rates and company-specific risk. Small changes in assumptions produce massive changes in output."
+      "content": "The formal method is discounted cash flow (DCF) analysis. You estimate all future free cash flows the business will generate, then discount them back to today's dollars using a required rate of return, the  sum is the intrinsic value, the  math is straightforward, the  inputs are not. you're estimating cash flows years or decades into the future, then choosing a discount rate that reflects both risk-free rates and company-specific risk. Small changes in assumptions produce massive changes in output."
     },
     {
       "type": "callout",
       "label": "The math",
-      "content": "Simplified DCF: a business generates $10M in free cash flow today, grows at 10% per year for 10 years, then grows at 3% forever. Discount rate of 8%. Work through those numbers and you get an intrinsic value. Change the growth assumption from 10% to 8% and the value might drop 30%. Change the discount rate from 8% to 10% and it drops further. The model is sensitive to inputs — which is why honest analysts present a range, not a precise number."
+      "content": "Simplified DCF: a business generates $10M in free cash flow today, grows at 10% per year for 10 years, then grows at 3% forever. Discount rate of 8%. Work through those numbers and you get an intrinsic value. Change the growth assumption from 10% to 8% and the value might drop 30%. Change the discount rate from 8% to 10% and it drops further, the  model is sensitive to inputs, which is why honest analysts present a range, not a precise number."
     },
     {
       "type": "heading",
@@ -30,11 +34,11 @@
     },
     {
       "type": "paragraph",
-      "content": "Benjamin Graham's most important concept: only buy a stock when it's trading at a meaningful discount to your estimate of intrinsic value. That gap — the margin of safety — protects you if your estimate is wrong, if the business underperforms, or if the market stays irrational longer than you expected. A stock worth $100 bought at $70 has a 30% margin of safety. The same stock bought at $95 has almost none. The margin of safety is the admission that your model might be wrong."
+      "content": "Benjamin Graham's most important concept: only buy a stock when it's trading at a meaningful discount to your estimate of intrinsic value, that  gap, the margin of safety, protects you if your estimate is wrong, if the business underperforms, or if the market stays irrational longer than you expected. A stock worth $100 bought at $70 has a 30% margin of safety, the  same stock bought at $95 has almost none, the  margin of safety is the admission that your model might be wrong."
     },
     {
       "type": "heading",
-      "content": "When the market is right — and when it isn't"
+      "content": "When the market is right, and when it isn't"
     },
     {
       "type": "paragraph",
@@ -46,19 +50,19 @@
     },
     {
       "type": "paragraph",
-      "content": "Not everything that looks cheap is cheap. A value trap is a stock with a low P/E, low price-to-book, and seeming discount to intrinsic value — that stays cheap indefinitely because the business is genuinely deteriorating. Kodak was 'cheap' as film photography died. Sears was 'cheap' for years before bankruptcy. The question isn't just whether the stock is cheap relative to current earnings — it's whether those earnings can be sustained and grown. A declining business with low multiples is not a bargain."
+      "content": "Not everything that looks cheap is cheap. A value trap is a stock with a low P/E, low price-to-book, and seeming discount to intrinsic value, that stays cheap indefinitely because the business is genuinely deteriorating. Kodak was 'cheap' as film photography died. Sears was 'cheap' for years before bankruptcy, the  question isn't just whether the stock is cheap relative to current earnings, it's whether those earnings can be sustained and grown. A declining business with low multiples is not a bargain."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Most people — including most professionals — should not spend time trying to find mispriced individual stocks. The edge required is significant: better information, better analysis, or better temperament than the aggregate of all other investors. For the majority of investors, buying the whole market at zero cost to the analysis process (index funds) is the rational choice. If you do want to analyze individual stocks, do it with money you can afford to lose if you're wrong."
+      "content": "Most people, including most professionals, should not spend time trying to find mispriced individual stocks, the  edge required is significant: better information, better analysis, or better temperament than the aggregate of all other investors, for  the majority of investors, buying the whole market at zero cost to the analysis process (index funds) is the rational choice, if  you do want to analyze individual stocks, do it with money you can afford to lose if you're wrong."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Intrinsic value is what a business is worth based on future cash flows. Market price is what someone will pay today. Buy below intrinsic value with a margin of safety. Watch for value traps — cheap for a structural reason. For most investors, the market is right enough, and index funds make individual valuation analysis optional."
+      "content": "Intrinsic value is what a business is worth based on future cash flows. Market price is what someone will pay today. Buy below intrinsic value with a margin of safety. Watch for value traps. cheap for a structural reason, for  most investors, the market is right enough, and index funds make individual valuation analysis optional."
     }
   ]
 }

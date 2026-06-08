@@ -5,7 +5,11 @@
   "title": "The compounding cost of fees",
   "subtitle": "A 1% annual fee sounds small. Over 30 years, it is anything but.",
   "estimatedMinutes": 7,
-  "tags": ["costs", "tax", "efficiency"],
+  "tags": [
+    "costs",
+    "tax",
+    "efficiency"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -17,7 +21,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The expense ratio is the annual percentage of your investment taken by the fund to cover operating costs. It comes out automatically — you never write a check, you never see an invoice. On Vanguard's total market index fund (VTI), the expense ratio is 0.03%. On an average actively managed fund, it's around 0.8-1.0%. On some annuities or insurance products marketed as investments, it can be 2-3%. The fee looks small. The compounding difference is not."
+      "content": "The expense ratio is the annual percentage of your investment taken by the fund to cover operating costs, it  comes out automatically. you never write a check, you never see an invoice, on  Vanguard's total market index fund (VTI), the expense ratio is 0.03%, on  an average actively managed fund, it's around 0.8-1.0%, on  some annuities or insurance products marketed as investments, it can be 2-3%, the  fee looks small, the  compounding difference is not."
     },
     {
       "type": "callout",
@@ -35,7 +39,7 @@
         "Advisory fees: financial advisors typically charge 0.5-1.5% of assets under management per year. Sometimes worth it; often not.",
         "Trading costs: commissions are now zero at most major brokerages for stocks and ETFs. But frequent trading creates bid-ask spread costs.",
         "Tax drag: realizing gains frequently creates tax events that reduce net return. Index funds have low turnover and minimal tax drag.",
-        "Wrap fees: all-in fees on managed accounts that bundle multiple charges — read the fine print."
+        "Wrap fees: all-in fees on managed accounts that bundle multiple charges. Read the fine print."
       ]
     },
     {
@@ -44,7 +48,7 @@
     },
     {
       "type": "paragraph",
-      "content": "A good financial advisor can provide real value: comprehensive financial planning, tax optimization, behavioral coaching during crashes, estate planning coordination. If an advisor's guidance prevents one panic-sell during a bear market, they've likely earned their fee many times over. The question isn't whether the fee is zero — it's whether the value exceeds the cost. An advisor charging 1% who keeps you from selling in 2020's crash saved you 30%. Worth it. An advisor charging 1% who puts you in high-fee mutual funds and rebalances once a year? Less clear."
+      "content": "A good financial advisor can provide real value: comprehensive financial planning, tax optimization, behavioral coaching during crashes, estate planning coordination, if  an advisor's guidance prevents one panic-sell during a bear market, they've likely earned their fee many times over, the  question isn't whether the fee is zero. it's whether the value exceeds the cost. An advisor charging 1% who keeps you from selling in 2020's crash saved you 30%. Worth it. An advisor charging 1% who puts you in high-fee mutual funds and rebalances once a year? Less clear."
     },
     {
       "type": "heading",
@@ -52,12 +56,12 @@
     },
     {
       "type": "paragraph",
-      "content": "In a taxable account, every time you sell a winning investment, you owe capital gains tax. Active funds with high turnover — buying and selling frequently — create constant taxable events, even for investors who did nothing. Index funds have low turnover (they only trade when the index changes) and generate far fewer taxable events. This tax efficiency is a real, if invisible, advantage — it shows up in your net return but never appears on a fee schedule."
+      "content": "In a taxable account, every time you sell a winning investment, you owe capital gains tax. Active funds with high turnover, buying and selling frequently, create constant taxable events, even for investors who did nothing. Index funds have low turnover (they only trade when the index changes) and generate far fewer taxable events, this  tax efficiency is a real, if invisible, advantage, it shows up in your net return but never appears on a fee schedule."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Rule of thumb: keep total investment costs below 0.20% per year. That's achievable with index funds at any major brokerage. Anything above 0.50% should require a clear explanation of what you're getting for the extra cost. Anything above 1% better be delivering exceptional value — and most of the time, it isn't."
+      "content": "Rule of thumb: keep total investment costs below 0.20% per year. That's achievable with index funds at any major brokerage. Anything above 0.50% should require a clear explanation of what you're getting for the extra cost. Anything above 1% better be delivering exceptional value, and most of the time, it isn't."
     },
     {
       "type": "divider"

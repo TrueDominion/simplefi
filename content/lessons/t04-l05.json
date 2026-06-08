@@ -2,14 +2,18 @@
   "id": "t04-l05",
   "trackId": "t04",
   "order": 5,
-  "title": "Rebalancing — the discipline that compounds",
+  "title": "Rebalancing. The discipline that compounds",
   "subtitle": "Your portfolio will drift from its target allocation over time. Correcting it is one of the few free lunches in investing.",
   "estimatedMinutes": 7,
-  "tags": ["portfolio", "life planning", "sustainability"],
+  "tags": [
+    "portfolio",
+    "life planning",
+    "sustainability"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "You set your target allocation: 80% stocks, 20% bonds. A few years pass. Stocks have a great run. Now your portfolio is 90% stocks, 10% bonds. You're carrying more risk than you intended, without having made a conscious decision to do so. Rebalancing is the process of selling what's grown and buying what's lagged — restoring your target allocation. It feels counterintuitive. It's actually one of the few systematic ways to buy low and sell high."
+      "content": "You set your target allocation: 80% stocks, 20% bonds. A few years pass. Stocks have a great run. Now your portfolio is 90% stocks, 10% bonds. You're carrying more risk than you intended, without having made a conscious decision to do so. Rebalancing is the process of selling what's grown and buying what's lagged. restoring your target allocation, it  feels counterintuitive. It's actually one of the few systematic ways to buy low and sell high."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Rebalancing forces you to sell assets that have outperformed and buy assets that have underperformed. This is the definition of buying low and selling high — without requiring any prediction of which way markets will move. When stocks have a great year and you rebalance back to your target, you're trimming equities at elevated prices and adding to bonds at depressed ones. When stocks crash and you rebalance, you're buying equities at discounted prices. Systematic, emotion-free, and historically rewarding."
+      "content": "Rebalancing forces you to sell assets that have outperformed and buy assets that have underperformed, this  is the definition of buying low and selling high. without requiring any prediction of which way markets will move, when  stocks have a great year and you rebalance back to your target, you're trimming equities at elevated prices and adding to bonds at depressed ones, when  stocks crash and you rebalance, you're buying equities at discounted prices. Systematic, emotion-free, and historically rewarding."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Studies vary, but rebalancing a 60/40 portfolio annually has historically produced slightly better risk-adjusted returns than a drifting portfolio — with meaningfully lower volatility. The excess return isn't huge — maybe 0.2-0.5% per year — but the risk reduction is substantial. You're consistently being paid to maintain discipline."
+      "content": "Studies vary, but rebalancing a 60/40 portfolio annually has historically produced slightly better risk-adjusted returns than a drifting portfolio, with meaningfully lower volatility, the  excess return isn't huge, maybe 0.2-0.5% per year, but the risk reduction is substantial. You're consistently being paid to maintain discipline."
     },
     {
       "type": "heading",
@@ -33,9 +37,9 @@
       "items": [
         "Annual rebalancing: simple, tax-efficient, works well for most investors",
         "Threshold-based rebalancing: rebalance when any asset class drifts more than 5% from target",
-        "Both: check annually AND rebalance if thresholds are exceeded — most disciplined approach",
+        "Both: check annually AND rebalance if thresholds are exceeded. Most disciplined approach",
         "Quarterly: more frequent than necessary for most portfolios, creates more tax events",
-        "Daily: the domain of algorithms, not humans — don't do this manually"
+        "Daily: the domain of algorithms, not humans. Don't do this manually"
       ]
     },
     {
@@ -44,7 +48,7 @@
     },
     {
       "type": "paragraph",
-      "content": "In tax-advantaged accounts (401k, IRA), rebalancing is free — no capital gains taxes on trades inside these accounts. Do your rebalancing there first. In taxable accounts, selling winners creates taxable gains. A smarter approach: rebalance by directing new contributions to the underweight asset class. Instead of selling what's grown, just buy more of what's lagged until the allocation is restored. This preserves your gains from taxation while achieving the same result."
+      "content": "In tax-advantaged accounts (401k, IRA), rebalancing is free, no capital gains taxes on trades inside these accounts. Do your rebalancing there first, in  taxable accounts, selling winners creates taxable gains. A smarter approach: rebalance by directing new contributions to the underweight asset class. Instead of selling what's grown, just buy more of what's lagged until the allocation is restored, this  preserves your gains from taxation while achieving the same result."
     },
     {
       "type": "heading",
@@ -52,12 +56,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Rebalancing feels wrong. After a year where stocks are up 30%, selling some to buy bonds feels like leaving money on the table. After stocks crash, buying more equities with your bond proceeds feels like catching a falling knife. Both feelings are wrong. That discomfort is the evidence that you're doing it right — systematic rebalancing works precisely because it forces you to act opposite to your emotional instincts."
+      "content": "Rebalancing feels wrong. After a year where stocks are up 30%, selling some to buy bonds feels like leaving money on the table. After stocks crash, buying more equities with your bond proceeds feels like catching a falling knife, both  feelings are wrong, that  discomfort is the evidence that you're doing it right. systematic rebalancing works precisely because it forces you to act opposite to your emotional instincts."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Target-date funds handle rebalancing automatically. If you're in one, you're already done — this entire lesson is handled for you. If you manage your own allocation, put an annual calendar reminder to rebalance. One day a year. The rest of the time, do nothing. The portfolio should mostly run itself."
+      "content": "Target-date funds handle rebalancing automatically, if  you're in one, you're already done, this entire lesson is handled for you, if  you manage your own allocation, put an annual calendar reminder to rebalance. One day a year, the  rest of the time, do nothing, the  portfolio should mostly run itself."
     },
     {
       "type": "divider"

@@ -5,11 +5,15 @@
   "title": "What you are buying when you buy a stock",
   "subtitle": "Buying a stock means buying a business. It helps to remember that.",
   "estimatedMinutes": 7,
-  "tags": ["equities", "ownership", "fundamentals"],
+  "tags": [
+    "equities",
+    "ownership",
+    "fundamentals"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "When you buy a share of stock, you are buying a fractional ownership claim on a real business — its assets, its earnings, its future. Not a chart. Not a ticker symbol. Not a bet on momentum. A tiny piece of a company that employs real people, sells real products, and generates real cash. The best investors never lose sight of this. It changes everything about how you think about price, value, and when to buy or sell."
+      "content": "When you buy a share of stock, you are buying a fractional ownership claim on a real business, its assets, its earnings, its future, not  a chart, not  a ticker symbol, not  a bet on momentum. A tiny piece of a company that employs real people, sells real products, and generates real cash, the  best investors never lose sight of this, it  changes everything about how you think about price, value, and when to buy or sell."
     },
     {
       "type": "heading",
@@ -17,7 +21,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Market capitalization = share price × total shares outstanding. If a company has 1 billion shares outstanding at $50 per share, the market is saying the entire business is worth $50 billion. That's the market cap. This is the price you'd pay to buy the whole company. When you buy 100 shares at $50, you're buying $5,000 worth of that $50 billion business — a 0.00001% stake. Thinking in market cap terms keeps you anchored to the business, not the price chart."
+      "content": "Market capitalization = share price × total shares outstanding, if  a company has 1 billion shares outstanding at $50 per share, the market is saying the entire business is worth $50 billion. That's the market cap, this  is the price you'd pay to buy the whole company, when  you buy 100 shares at $50, you're buying $5,000 worth of that $50 billion business. a 0.00001% stake. Thinking in market cap terms keeps you anchored to the business, not the price chart."
     },
     {
       "type": "heading",
@@ -25,12 +29,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Long-term, stock prices follow earnings. A business that consistently grows its earnings will, over time, have a higher stock price. Short-term, prices follow expectations — investor sentiment, news, macroeconomic data, whatever Wall Street is currently worried about. The gap between short-term prices and long-term fundamentals is where both the volatility and the opportunity live. Good businesses with bad short-term news often get cheaper than they should. This is how value investors make money."
+      "content": "Long-term, stock prices follow earnings. A business that consistently grows its earnings will, over time, have a higher stock price. Short-term, prices follow expectations. investor sentiment, news, macroeconomic data, whatever Wall Street is currently worried about, the  gap between short-term prices and long-term fundamentals is where both the volatility and the opportunity live. Good businesses with bad short-term news often get cheaper than they should, this  is how value investors make money."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Two things drive equity returns over time: earnings growth (the company makes more money) and multiple expansion/contraction (investors pay more or less per dollar of earnings). A company growing earnings 15% a year will eventually have a much higher stock price — even if its P/E multiple stays flat. A company with flat earnings but an expanding P/E might look like it's doing well — until the multiple compresses and the price collapses."
+      "content": "Two things drive equity returns over time: earnings growth (the company makes more money) and multiple expansion/contraction (investors pay more or less per dollar of earnings). A company growing earnings 15% a year will eventually have a much higher stock price, even if its P/E multiple stays flat. A company with flat earnings but an expanding P/E might look like it's doing well, until the multiple compresses and the price collapses."
     },
     {
       "type": "heading",
@@ -38,7 +42,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Some companies return cash directly to shareholders through dividends — quarterly payments per share. If you own 100 shares of a company paying $2 per share annually, you receive $200 per year, regardless of what the stock price does. Reinvested dividends compound powerfully over time — historically contributing about 40% of total stock market return. Growth companies typically pay no dividends, preferring to reinvest in the business. Mature companies (utilities, consumer staples) often pay significant dividends."
+      "content": "Some companies return cash directly to shareholders through dividends, quarterly payments per share, if  you own 100 shares of a company paying $2 per share annually, you receive $200 per year, regardless of what the stock price does. Reinvested dividends compound powerfully over time, historically contributing about 40% of total stock market return. Growth companies typically pay no dividends, preferring to reinvest in the business. Mature companies (utilities, consumer staples) often pay significant dividends."
     },
     {
       "type": "heading",
@@ -46,22 +50,22 @@
     },
     {
       "type": "paragraph",
-      "content": "The stock price and the business value are related but not the same. They converge over long periods. In the short run, they diverge constantly — driven by sentiment, liquidity, and narrative. The market is millions of people making estimates about future cash flows, adjusting those estimates every day based on new information, fear, greed, and incomplete understanding. This is why stocks are volatile. Not because the underlying businesses change value every hour — but because opinions about that value do."
+      "content": "The stock price and the business value are related but not the same, they  converge over long periods, in  the short run, they diverge constantly, driven by sentiment, liquidity, and narrative, the  market is millions of people making estimates about future cash flows, adjusting those estimates every day based on new information, fear, greed, and incomplete understanding, this  is why stocks are volatile, not  because the underlying businesses change value every hour, but because opinions about that value do."
     },
     {
       "type": "quote",
-      "content": "In the short run, the market is a voting machine. In the long run, it is a weighing machine. — Benjamin Graham"
+      "content": "In the short run, the market is a voting machine, in  the long run, it is a weighing machine.. Benjamin Graham"
     },
     {
       "type": "paragraph",
-      "content": "Graham meant: short-term prices reflect popularity and sentiment (voting). Long-term prices reflect fundamental value (weighing). This is one of the most useful mental models in investing. When you're confused about why a stock you believe in isn't going up — or why something you think is overvalued keeps climbing — remember: the vote and the weight don't always align in the short run. Eventually, they do."
+      "content": "Graham meant: short-term prices reflect popularity and sentiment (voting). Long-term prices reflect fundamental value (weighing), this  is one of the most useful mental models in investing, when  you're confused about why a stock you believe in isn't going up, or why something you think is overvalued keeps climbing, remember: the vote and the weight don't always align in the short run. Eventually, they do."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A stock is a fractional ownership claim on a real business. Long-term prices follow earnings. Short-term prices follow sentiment. Dividends are real cash returns to owners. Think about what you're buying — a piece of a business — not what you're trading: a symbol on a screen."
+      "content": "A stock is a fractional ownership claim on a real business. Long-term prices follow earnings. Short-term prices follow sentiment. Dividends are real cash returns to owners. Think about what you're buying, a piece of a business, not what you're trading: a symbol on a screen."
     }
   ]
 }

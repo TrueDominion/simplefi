@@ -3,26 +3,30 @@
   "trackId": "t07",
   "order": 4,
   "title": "Hedging as a risk management strategy",
-  "subtitle": "A hedge is not a speculation in the opposite direction. It is a deliberate reduction of a specific risk exposure — and like all insurance, it has a cost.",
+  "subtitle": "A hedge is not a speculation in the opposite direction, it  is a deliberate reduction of a specific risk exposure, and like all insurance, it has a cost.",
   "estimatedMinutes": 9,
-  "tags": ["hedging", "risk management", "derivatives"],
+  "tags": [
+    "hedging",
+    "risk management",
+    "derivatives"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "A hedge is insurance for a financial position. You own something that might fall in value. You take a separate position that gains value if it does. The two offset each other. You pay a premium for that protection. Like all insurance, the goal is to never collect on it — but to sleep better knowing you could."
+      "content": "A hedge is insurance for a financial position. You own something that might fall in value. You take a separate position that gains value if it does, the  two offset each other. You pay a premium for that protection, like  all insurance, the goal is to never collect on it, but to sleep better knowing you could."
     },
     {
       "type": "heading",
-      "content": "The airline example — the clearest hedging case"
+      "content": "The airline example, the clearest hedging case"
     },
     {
       "type": "paragraph",
-      "content": "An airline's second-biggest cost after labor is jet fuel. If oil prices double, their operating costs explode and their profit margin disappears. They can't just raise ticket prices instantly — fares are often booked months in advance. So airlines buy oil futures: they agree to purchase fuel at today's price for delivery in 6-12 months. If oil spikes, they're covered. If oil falls, they miss out on the savings — but they've traded uncertainty for certainty, which is what a business needs to plan."
+      "content": "An airline's second-biggest cost after labor is jet fuel, if  oil prices double, their operating costs explode and their profit margin disappears, they  can't just raise ticket prices instantly, fares are often booked months in advance, so  airlines buy oil futures: they agree to purchase fuel at today's price for delivery in 6-12 months, if  oil spikes, they're covered, if  oil falls, they miss out on the savings, but they've traded uncertainty for certainty, which is what a business needs to plan."
     },
     {
       "type": "callout",
       "label": "The cost of hedging is real",
-      "content": "Southwest Airlines famously hedged aggressively in the early 2000s and made enormous savings when oil prices spiked in 2008. But airlines that hedged heavily when oil crashed in 2015-2016 locked in higher prices and lost compared to competitors who didn't hedge. A hedge eliminates risk in both directions — upside and downside. If you hedge and the risk doesn't materialize, you paid for insurance you didn't need. That's the deal."
+      "content": "Southwest Airlines famously hedged aggressively in the early 2000s and made enormous savings when oil prices spiked in 2008, but  airlines that hedged heavily when oil crashed in 2015-2016 locked in higher prices and lost compared to competitors who didn't hedge. A hedge eliminates risk in both directions. upside and downside, if  you hedge and the risk doesn't materialize, you paid for insurance you didn't need. That's the deal."
     },
     {
       "type": "heading",
@@ -30,11 +34,11 @@
     },
     {
       "type": "paragraph",
-      "content": "If you hold a large stock portfolio and want to protect against a major market decline, you can buy put options on a broad market index. If the market falls 30%, your puts gain value, partially offsetting the portfolio loss. Cost: the premium you pay for the puts (roughly 1-3% of portfolio value per year for meaningful protection). If the market rises, the puts expire worthless — you've paid for insurance that wasn't needed."
+      "content": "If you hold a large stock portfolio and want to protect against a major market decline, you can buy put options on a broad market index, if  the market falls 30%, your puts gain value, partially offsetting the portfolio loss. Cost: the premium you pay for the puts (roughly 1-3% of portfolio value per year for meaningful protection), if  the market rises, the puts expire worthless. you've paid for insurance that wasn't needed."
     },
     {
       "type": "heading",
-      "content": "Hedging vs. speculating — the critical distinction"
+      "content": "Hedging vs. speculating, the critical distinction"
     },
     {
       "type": "paragraph",
@@ -47,7 +51,7 @@
     {
       "type": "list",
       "items": [
-        "You have a large concentrated stock position (e.g., employer stock) and can't sell it yet — buying puts protects the value",
+        "You have a large concentrated stock position (e.g., employer stock) and can't sell it yet. Buying puts protects the value",
         "You're approaching a major life event (retirement, large purchase) and can't afford a big market drop in the next 12 months",
         "You have foreign income or investments and want to eliminate currency risk",
         "You own rental property and want to protect against interest rate spikes on adjustable-rate debt"
@@ -56,14 +60,14 @@
     {
       "type": "callout",
       "label": "When it doesn't",
-      "content": "If you're a long-term investor with a 20+ year horizon and a well-diversified portfolio, permanent portfolio hedging is usually just a drag on returns. You're paying insurance premiums every year against risks that your time horizon can absorb naturally. The better hedge for long-term investors is diversification — not derivatives."
+      "content": "If you're a long-term investor with a 20+ year horizon and a well-diversified portfolio, permanent portfolio hedging is usually just a drag on returns. You're paying insurance premiums every year against risks that your time horizon can absorb naturally, the  better hedge for long-term investors is diversification, not derivatives."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A hedge is insurance — it has a cost, it provides protection, and ideally you never collect on it. It makes sense when the specific risk is real, time-bound, and exceeds what your time horizon can absorb. For long-term, diversified investors, the need for explicit hedging is limited. For concentrated positions or short-term exposures, it can be essential."
+      "content": "A hedge is insurance, it has a cost, it provides protection, and ideally you never collect on it, it  makes sense when the specific risk is real, time-bound, and exceeds what your time horizon can absorb, for  long-term, diversified investors, the need for explicit hedging is limited, for  concentrated positions or short-term exposures, it can be essential."
     }
   ]
 }

@@ -2,14 +2,18 @@
   "id": "t05-l02",
   "trackId": "t05",
   "order": 2,
-  "title": "How companies are valued — earnings, growth, multiples",
+  "title": "How companies are valued. Earnings, growth, multiples",
   "subtitle": "Valuation is not guesswork. It is disciplined estimation with a margin for being wrong.",
   "estimatedMinutes": 8,
-  "tags": ["valuation", "multiples", "earnings"],
+  "tags": [
+    "valuation",
+    "multiples",
+    "earnings"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Every financial headline about a stock being 'expensive' or 'cheap' is a claim about valuation — about whether the current price makes sense relative to what the business is worth. Valuation isn't magic. It's structured thinking about what you're paying for and whether it's reasonable. A few metrics, understood properly, cut through most of the noise."
+      "content": "Every financial headline about a stock being 'expensive' or 'cheap' is a claim about valuation. about whether the current price makes sense relative to what the business is worth. Valuation isn't magic. It's structured thinking about what you're paying for and whether it's reasonable. A few metrics, understood properly, cut through most of the noise."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "P/E ratio = stock price ÷ earnings per share. A P/E of 25 means you're paying 25 times the company's annual earnings right now. Another way to read it: at current earnings, it would take 25 years to 'earn back' what you paid. That's either reasonable or insane, depending entirely on whether earnings are expected to grow — and how fast. A P/E of 25 for a company growing earnings 25% per year is potentially cheap. The same P/E for a company with flat earnings is genuinely expensive."
+      "content": "P/E ratio = stock price ÷ earnings per share. A P/E of 25 means you're paying 25 times the company's annual earnings right now. Another way to read it: at current earnings, it would take 25 years to 'earn back' what you paid. That's either reasonable or insane, depending entirely on whether earnings are expected to grow, and how fast. A P/E of 25 for a company growing earnings 25% per year is potentially cheap, the  same P/E for a company with flat earnings is genuinely expensive."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Trailing P/E uses last year's actual earnings. Forward P/E uses analyst estimates of next year's earnings. Forward P/E is more useful for valuing companies with rapidly changing earnings — but it depends on estimates that may be wrong. The S&P 500's historical average P/E is roughly 15-17. Anything well above that requires a compelling growth narrative to justify."
+      "content": "Trailing P/E uses last year's actual earnings. Forward P/E uses analyst estimates of next year's earnings. Forward P/E is more useful for valuing companies with rapidly changing earnings, but it depends on estimates that may be wrong, the  S&P 500's historical average P/E is roughly 15-17. Anything well above that requires a compelling growth narrative to justify."
     },
     {
       "type": "heading",
@@ -38,7 +42,7 @@
     },
     {
       "type": "paragraph",
-      "content": "For unprofitable companies — many tech startups and growth companies — there are no earnings to put in the denominator of a P/E ratio. Price-to-Sales (P/S) = market cap ÷ annual revenue. It's a rougher measure. A P/S of 10 means investors are paying $10 for every $1 of revenue. High P/S multiples require a credible path to strong future profitability. Many companies never get there — which is why high-P/S stocks carry significant risk."
+      "content": "For unprofitable companies, many tech startups and growth companies, there are no earnings to put in the denominator of a P/E ratio. Price-to-Sales (P/S) = market cap ÷ annual revenue. It's a rougher measure. A P/S of 10 means investors are paying $10 for every $1 of revenue. High P/S multiples require a credible path to strong future profitability. Many companies never get there, which is why high-P/S stocks carry significant risk."
     },
     {
       "type": "heading",
@@ -46,7 +50,7 @@
     },
     {
       "type": "paragraph",
-      "content": "This trips people up. When interest rates rise, stock valuations tend to fall — even if earnings don't change. Here's why: the value of a stock is the present value of all future cash flows. To calculate present value, you discount future cash flows by an interest rate (the discount rate). Higher rates = higher discount rate = future cash flows are worth less today = lower stock price. This is why rate hikes hurt growth stocks especially hard — their earnings are far in the future, and discounting far-future cash flows with a higher rate decimates their present value."
+      "content": "This trips people up, when  interest rates rise, stock valuations tend to fall, even if earnings don't change. Here's why: the value of a stock is the present value of all future cash flows, to  calculate present value, you discount future cash flows by an interest rate (the discount rate). Higher rates = higher discount rate = future cash flows are worth less today = lower stock price, this  is why rate hikes hurt growth stocks especially hard, their earnings are far in the future, and discounting far-future cash flows with a higher rate decimates their present value."
     },
     {
       "type": "callout",
@@ -68,7 +72,7 @@
     },
     {
       "type": "takeaway",
-      "content": "P/E ratio tells you how many years of current earnings you're paying for. Context makes it meaningful — the same P/E is cheap or expensive depending on growth and interest rates. PEG adjusts for growth. No multiple works in isolation. The goal is to understand what you're paying for and whether the story is believable."
+      "content": "P/E ratio tells you how many years of current earnings you're paying for. Context makes it meaningful, the same P/E is cheap or expensive depending on growth and interest rates. PEG adjusts for growth, no  multiple works in isolation, the  goal is to understand what you're paying for and whether the story is believable."
     }
   ]
 }

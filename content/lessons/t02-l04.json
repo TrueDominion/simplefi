@@ -5,11 +5,15 @@
   "title": "The cost of avoiding risk entirely",
   "subtitle": "Playing it safe has a price. Most people never calculate it.",
   "estimatedMinutes": 7,
-  "tags": ["risk", "inflation", "opportunity cost"],
+  "tags": [
+    "risk",
+    "inflation",
+    "opportunity cost"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "There is no risk-free option. This is not a motivational poster. It is a mathematical fact. Every financial position has a risk profile. Cash has inflation risk. Bonds have interest rate risk. Stocks have market risk. Choosing to avoid stocks doesn't mean choosing no risk — it means choosing a different risk. The question is which risk you're accepting, and whether the tradeoff makes sense."
+      "content": "There is no risk-free option, this  is not a motivational poster, it  is a mathematical fact. Every financial position has a risk profile. Cash has inflation risk. Bonds have interest rate risk. Stocks have market risk. Choosing to avoid stocks doesn't mean choosing no risk, it means choosing a different risk, the  question is which risk you're accepting, and whether the tradeoff makes sense."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Inflation averages about 3% per year in the US over long periods. If your money earns less than inflation, you are losing purchasing power every year — even if your balance is growing. A savings account at 1% with 3% inflation means a real return of negative 2%. Every year. Silently. By the time you notice, the damage is done."
+      "content": "Inflation averages about 3% per year in the US over long periods, if  your money earns less than inflation, you are losing purchasing power every year, even if your balance is growing. A savings account at 1% with 3% inflation means a real return of negative 2%. Every year. Silently, by  the time you notice, the damage is done."
     },
     {
       "type": "callout",
       "label": "The math",
-      "content": "$100,000 kept in a savings account earning 2%, with inflation at 3%: after 20 years, the nominal balance grows to about $149,000. But in real terms — what it can actually buy — it's worth only about $83,000 in today's dollars. You earned $49,000 in nominal interest and lost $17,000 in real purchasing power. Safe is relative."
+      "content": "$100,000 kept in a savings account earning 2%, with inflation at 3%: after 20 years, the nominal balance grows to about $149,000, but  in real terms, what it can actually buy, it's worth only about $83,000 in today's dollars. You earned $49,000 in nominal interest and lost $17,000 in real purchasing power. Safe is relative."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Real return = nominal return minus inflation. If you earn 5% in a money market fund and inflation is 3%, your real return is 2%. If you earn 10% in equities and inflation is 3%, your real return is 7%. Over 30 years, the difference between a 2% real return and a 7% real return is enormous. That's the cost of playing it safe — not measured in nominal dollars, but in real purchasing power."
+      "content": "Real return = nominal return minus inflation, if  you earn 5% in a money market fund and inflation is 3%, your real return is 2%, if  you earn 10% in equities and inflation is 3%, your real return is 7%. Over 30 years, the difference between a 2% real return and a 7% real return is enormous. That's the cost of playing it safe, not measured in nominal dollars, but in real purchasing power."
     },
     {
       "type": "heading",
@@ -38,12 +42,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Treasury bonds feel safe. FDIC-insured savings accounts feel safe. CDs feel safe. And for short time horizons, they largely are. But 'safe' is always relative to something. Safe from volatility? Yes. Safe from inflation over 30 years? Not necessarily. The investor who held only bonds from 1980 to 2010 avoided every stock market crash — and substantially underperformed the investor who held equities through those same crashes."
+      "content": "Treasury bonds feel safe. FDIC-insured savings accounts feel safe. CDs feel safe, and  for short time horizons, they largely are, but  'safe' is always relative to something. Safe from volatility? Yes. Safe from inflation over 30 years? Not necessarily, the  investor who held only bonds from 1980 to 2010 avoided every stock market crash, and substantially underperformed the investor who held equities through those same crashes."
     },
     {
       "type": "callout",
       "label": "Watch out",
-      "content": "Over a 30-year investment horizon, the riskiest thing an investor can do is hold too little equity. This sounds wrong because we associate risk with volatility. But the risk of running out of money in retirement — of your portfolio not growing enough to sustain your lifestyle for 30 years — is a far more serious risk than the temporary pain of a bear market."
+      "content": "Over a 30-year investment horizon, the riskiest thing an investor can do is hold too little equity, this  sounds wrong because we associate risk with volatility, but  the risk of running out of money in retirement, of your portfolio not growing enough to sustain your lifestyle for 30 years, is a far more serious risk than the temporary pain of a bear market."
     },
     {
       "type": "heading",
@@ -51,11 +55,11 @@
     },
     {
       "type": "paragraph",
-      "content": "There is one scenario where avoiding risk is genuinely important: early in retirement. If the market crashes 40% in your first two years of retirement and you're withdrawing money to live on, you sell shares at depressed prices. Those shares aren't available to recover when the market comes back. This is sequence of returns risk — and it's why gradually shifting toward more conservative allocations as you approach retirement makes sense, even though equities win over very long periods."
+      "content": "There is one scenario where avoiding risk is genuinely important: early in retirement, if  the market crashes 40% in your first two years of retirement and you're withdrawing money to live on, you sell shares at depressed prices. Those shares aren't available to recover when the market comes back, this  is sequence of returns risk, and it's why gradually shifting toward more conservative allocations as you approach retirement makes sense, even though equities win over very long periods."
     },
     {
       "type": "paragraph",
-      "content": "The practical takeaway is time-horizon dependent. At 25, avoiding equities to avoid volatility is almost certainly a mistake. At 62, de-risking your portfolio as you approach retirement is prudent. In between, the right answer lives somewhere in the middle — and it gets more conservative as the finish line gets closer."
+      "content": "The practical takeaway is time-horizon dependent, at  25, avoiding equities to avoid volatility is almost certainly a mistake, at  62, de-risking your portfolio as you approach retirement is prudent, in  between, the right answer lives somewhere in the middle, and it gets more conservative as the finish line gets closer."
     },
     {
       "type": "divider"

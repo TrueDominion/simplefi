@@ -2,14 +2,17 @@
   "id": "t04-l02",
   "trackId": "t04",
   "order": 2,
-  "title": "Asset allocation — the decision that drives 90% of your returns",
+  "title": "Asset allocation. The decision that drives 90% of your returns",
   "subtitle": "How you split your money between asset classes matters more than which specific assets you pick.",
   "estimatedMinutes": 8,
-  "tags": ["allocation", "decision-making"],
+  "tags": [
+    "allocation",
+    "decision-making"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Research by Brinson, Hood, and Beebower (1986 — still the most cited paper in portfolio management) found that asset allocation explains roughly 90% of long-term portfolio return variance. Not stock selection. Not market timing. Not manager skill. The decision of how to split your money between stocks, bonds, and cash drives most of your outcome. Everything else is noise."
+      "content": "Research by Brinson, Hood, and Beebower (1986. still the most cited paper in portfolio management) found that asset allocation explains roughly 90% of long-term portfolio return variance, not  stock selection, not  market timing, not  manager skill, the  decision of how to split your money between stocks, bonds, and cash drives most of your outcome. Everything else is noise."
     },
     {
       "type": "heading",
@@ -28,7 +31,7 @@
     {
       "type": "callout",
       "label": "The math",
-      "content": "From 1926 to 2022: 100% stocks averaged ~10.3% annually with a worst single year of −43%. 60/40 averaged ~8.8% with a worst single year of −26%. 100% bonds averaged ~5.3% with minimal volatility. The cost of safety is real — over 30 years, the compounding difference between 10.3% and 8.8% is enormous. A $100k investment at 10.3% for 30 years = $1.98M. At 8.8% = $1.22M. That $760k difference is the 'price' of the 40% bond allocation."
+      "content": "From 1926 to 2022: 100% stocks averaged ~10.3% annually with a worst single year of −43%. 60/40 averaged ~8.8% with a worst single year of −26%. 100% bonds averaged ~5.3% with minimal volatility, the  cost of safety is real. over 30 years, the compounding difference between 10.3% and 8.8% is enormous. A $100k investment at 10.3% for 30 years = $1.98M, at  8.8% = $1.22M, that  $760k difference is the 'price' of the 40% bond allocation."
     },
     {
       "type": "heading",
@@ -36,7 +39,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The longer your horizon, the more equity you can hold. Why? Because volatility averages out over time. The chance of losing money over any 1-year period in the S&P 500 historically is about 25%. Over any 10-year period: roughly 6%. Over any 20-year period: close to 0%. Time is literally what makes equities safe — or at least safer. The further away you are from needing the money, the more you can tolerate short-term swings."
+      "content": "The longer your horizon, the more equity you can hold. Why? Because volatility averages out over time, the  chance of losing money over any 1-year period in the S&P 500 historically is about 25%. Over any 10-year period: roughly 6%. Over any 20-year period: close to 0%. Time is literally what makes equities safe, or at least safer, the  further away you are from needing the money, the more you can tolerate short-term swings."
     },
     {
       "type": "heading",
@@ -44,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "content": "A target-date fund does one thing: it automatically shifts your allocation from aggressive (mostly stocks) to conservative (more bonds) as you approach your retirement year. You pick the fund matching your expected retirement year — Vanguard Target Retirement 2050, for example — and it handles the rest. No rebalancing. No decisions. Automatically more conservative as you age. For most people with 401(k)s and no desire to manage their own allocation, target-date funds are genuinely excellent."
+      "content": "A target-date fund does one thing: it automatically shifts your allocation from aggressive (mostly stocks) to conservative (more bonds) as you approach your retirement year. You pick the fund matching your expected retirement year, Vanguard Target Retirement 2050, for example, and it handles the rest, no  rebalancing, no  decisions. Automatically more conservative as you age, for  most people with 401(k)s and no desire to manage their own allocation, target-date funds are genuinely excellent."
     },
     {
       "type": "callout",

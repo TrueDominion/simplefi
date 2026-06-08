@@ -3,13 +3,17 @@
   "trackId": "t06",
   "order": 3,
   "title": "Bonds, yields, and the price-rate relationship",
-  "subtitle": "The inverse relationship between bond prices and yields is one of the most important mechanics in finance — and one of the least intuitively understood.",
+  "subtitle": "The inverse relationship between bond prices and yields is one of the most important mechanics in finance, and one of the least intuitively understood.",
   "estimatedMinutes": 9,
-  "tags": ["bonds", "yields", "fixed income"],
+  "tags": [
+    "bonds",
+    "yields",
+    "fixed income"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Here's the thing about bonds that trips everyone up: when interest rates go up, bond prices go down. And vice versa. It feels counterintuitive — why would a 'safe' asset lose value? But it's not mysterious at all once you see the math. Let's walk through it."
+      "content": "Here's the thing about bonds that trips everyone up: when interest rates go up, bond prices go down, and  vice versa, it  feels counterintuitive. why would a 'safe' asset lose value? But it's not mysterious at all once you see the math. Let's walk through it."
     },
     {
       "type": "heading",
@@ -17,7 +21,7 @@
     },
     {
       "type": "paragraph",
-      "content": "You buy a bond for $1,000. It pays 3% interest — so $30 per year. Now, one year later, new bonds are being issued at 5%. Your bond still pays $30 per year. Anyone buying in the market today can get $50 per year for $1,000. Why would they pay you $1,000 for a bond that pays $30? They wouldn't. They'd only buy your bond at a discount — at a price low enough that the $30 annual payment represents a 5% return on what they paid. That price is $600. Your bond just 'lost' 40% of its value, even though nothing about the bond itself changed."
+      "content": "You buy a bond for $1,000, it  pays 3% interest, so $30 per year. Now, one year later, new bonds are being issued at 5%. Your bond still pays $30 per year. Anyone buying in the market today can get $50 per year for $1,000. Why would they pay you $1,000 for a bond that pays $30? They wouldn't. They'd only buy your bond at a discount, at a price low enough that the $30 annual payment represents a 5% return on what they paid, that  price is $600. Your bond just 'lost' 40% of its value, even though nothing about the bond itself changed."
     },
     {
       "type": "callout",
@@ -35,9 +39,9 @@
     {
       "type": "list",
       "items": [
-        "2-year Treasury note: duration ~1.9 years — minimal rate sensitivity",
-        "10-year Treasury note: duration ~8-9 years — moderate sensitivity",
-        "30-year Treasury bond: duration ~18-20 years — high sensitivity",
+        "2-year Treasury note: duration ~1.9 years. Minimal rate sensitivity",
+        "10-year Treasury note: duration ~8-9 years. Moderate sensitivity",
+        "30-year Treasury bond: duration ~18-20 years. High sensitivity",
         "A 1% rate rise on a 20-year duration bond = roughly 20% price drop"
       ]
     },
@@ -51,7 +55,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The coupon rate is fixed — it's what the bond pays based on its face value. The yield to maturity (YTM) is the actual return you'll earn if you buy the bond at the current market price and hold it to maturity. These are often different. A bond trading below face value has a YTM higher than its coupon. A bond trading above face value has a YTM lower than its coupon. Always look at YTM when comparing bonds — not the coupon."
+      "content": "The coupon rate is fixed, it's what the bond pays based on its face value, the  yield to maturity (YTM) is the actual return you'll earn if you buy the bond at the current market price and hold it to maturity, these  are often different. A bond trading below face value has a YTM higher than its coupon. A bond trading above face value has a YTM lower than its coupon. Always look at YTM when comparing bonds, not the coupon."
     },
     {
       "type": "heading",
@@ -59,19 +63,19 @@
     },
     {
       "type": "paragraph",
-      "content": "Not all bonds are equal. US Treasury bonds have essentially zero credit risk — the US government can print dollars. Corporate bonds carry the risk that the company might default. The extra yield a corporate bond pays above a comparable Treasury is called the credit spread. Investment grade spreads are tight. High-yield ('junk') spreads are wide. The spread is the market's real-time pricing of credit risk."
+      "content": "Not all bonds are equal. US Treasury bonds have essentially zero credit risk, the US government can print dollars. Corporate bonds carry the risk that the company might default, the  extra yield a corporate bond pays above a comparable Treasury is called the credit spread. Investment grade spreads are tight. High-yield ('junk') spreads are wide, the  spread is the market's real-time pricing of credit risk."
     },
     {
       "type": "callout",
       "label": "Watch out",
-      "content": "High yield means high risk — not high safety. A bond yielding 10% when Treasuries yield 5% is offering a 5% credit spread. The market is telling you there's a meaningful chance this borrower doesn't pay you back. Chasing yield without understanding why it's high is one of the oldest mistakes in fixed income investing."
+      "content": "High yield means high risk, not high safety. A bond yielding 10% when Treasuries yield 5% is offering a 5% credit spread, the  market is telling you there's a meaningful chance this borrower doesn't pay you back. Chasing yield without understanding why it's high is one of the oldest mistakes in fixed income investing."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Bond prices fall when rates rise — that's arithmetic, not opinion. Duration tells you how sensitive your bond is. YTM is the number that actually matters when comparing bonds. And high yield always means higher credit risk. Understand these mechanics and bonds stop being mysterious."
+      "content": "Bond prices fall when rates rise. that's arithmetic, not opinion. Duration tells you how sensitive your bond is. YTM is the number that actually matters when comparing bonds, and  high yield always means higher credit risk. Understand these mechanics and bonds stop being mysterious."
     }
   ]
 }

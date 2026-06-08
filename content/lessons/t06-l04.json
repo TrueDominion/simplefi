@@ -2,18 +2,22 @@
   "id": "t06-l04",
   "trackId": "t06",
   "order": 4,
-  "title": "Credit scoring — what it measures and what it misses",
+  "title": "Credit scoring. What it measures and what it misses",
   "subtitle": "A credit score is a prediction of repayment behavior based on historical data. It is useful, limited, and frequently misunderstood.",
   "estimatedMinutes": 8,
-  "tags": ["credit", "personal finance", "scoring"],
+  "tags": [
+    "credit",
+    "personal finance",
+    "scoring"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Your credit score is a three-digit number between 300 and 850. It answers one question: based on your past behavior, how likely are you to repay a loan? That's it. It's not a measure of your wealth, your income, your intelligence, or your financial wisdom. It's a statistical prediction of one specific behavior — and lenders use it to decide whether to lend you money and at what rate."
+      "content": "Your credit score is a three-digit number between 300 and 850, it  answers one question: based on your past behavior, how likely are you to repay a loan? That's it. It's not a measure of your wealth, your income, your intelligence, or your financial wisdom. It's a statistical prediction of one specific behavior, and lenders use it to decide whether to lend you money and at what rate."
     },
     {
       "type": "heading",
-      "content": "The five factors — and their weights"
+      "content": "The five factors, and their weights"
     },
     {
       "type": "list",
@@ -45,10 +49,10 @@
     {
       "type": "list",
       "items": [
-        "Myth: checking your own credit hurts your score. False — checking your own is a 'soft inquiry' and has zero effect.",
-        "Myth: carrying a small balance builds credit. False — paying in full every month is optimal. You build credit by using the card, not by paying interest.",
-        "Myth: closing old accounts improves your score. Usually false — it reduces your available credit and raises utilization.",
-        "Myth: you need to carry debt to have good credit. False — you need to use credit and pay it off consistently."
+        "Myth: checking your own credit hurts your score. False. Checking your own is a 'soft inquiry' and has zero effect.",
+        "Myth: carrying a small balance builds credit. False. Paying in full every month is optimal. You build credit by using the card, not by paying interest.",
+        "Myth: closing old accounts improves your score. Usually false. It reduces your available credit and raises utilization.",
+        "Myth: you need to carry debt to have good credit. False. You need to use credit and pay it off consistently."
       ]
     },
     {
@@ -57,19 +61,19 @@
     },
     {
       "type": "paragraph",
-      "content": "Credit scores are backward-looking and narrow. They measure debt repayment behavior — nothing else. A high-earner who recently immigrated to the US may have no credit history and score poorly. A person with six figures in savings but a spotty payment history may score badly. The score doesn't know your income, your assets, your job stability, or your actual financial situation. It knows your debt behavior. Use it as the tool it is."
+      "content": "Credit scores are backward-looking and narrow, they  measure debt repayment behavior. nothing else. A high-earner who recently immigrated to the US may have no credit history and score poorly. A person with six figures in savings but a spotty payment history may score badly, the  score doesn't know your income, your assets, your job stability, or your actual financial situation, it  knows your debt behavior. Use it as the tool it is."
     },
     {
       "type": "callout",
       "label": "The bottom line",
-      "content": "A good credit score costs nothing to maintain — it just requires paying bills on time and not maxing out your cards. In exchange, you get access to lower interest rates on every major purchase for the rest of your life. This is one of the highest-return behaviors in personal finance, and it's just habit."
+      "content": "A good credit score costs nothing to maintain, it just requires paying bills on time and not maxing out your cards, in  exchange, you get access to lower interest rates on every major purchase for the rest of your life, this  is one of the highest-return behaviors in personal finance, and it's just habit."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Pay on time, every time. Keep utilization under 10%. Don't close old accounts. Don't apply for new credit you don't need. Do those four things and your score will be excellent. The score is just a byproduct of good financial behavior — not an end in itself."
+      "content": "Pay on time, every time. Keep utilization under 10%. Don't close old accounts. Don't apply for new credit you don't need. Do those four things and your score will be excellent, the  score is just a byproduct of good financial behavior, not an end in itself."
     }
   ]
 }

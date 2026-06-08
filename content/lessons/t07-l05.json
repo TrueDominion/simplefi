@@ -2,14 +2,18 @@
   "id": "t07-l05",
   "trackId": "t07",
   "order": 5,
-  "title": "When advanced instruments make sense — and when they do not",
+  "title": "When advanced instruments make sense. And when they do not",
   "subtitle": "Sophistication is not a virtue in itself. The most advanced instrument is only better than the simplest one when it solves a problem that the simple one cannot.",
   "estimatedMinutes": 9,
-  "tags": ["derivatives", "advanced finance", "judgment"],
+  "tags": [
+    "derivatives",
+    "advanced finance",
+    "judgment"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "You made it to the last lesson of the curriculum. Here's the honest truth about everything in this track: most of it you will never need to use. That's not a flaw in the curriculum — it's the point. Understanding derivatives makes you a more informed investor, a harder person to fool, and someone who can evaluate financial products that contain them. You don't need to trade them."
+      "content": "You made it to the last lesson of the curriculum. Here's the honest truth about everything in this track: most of it you will never need to use. That's not a flaw in the curriculum. it's the point. Understanding derivatives makes you a more informed investor, a harder person to fool, and someone who can evaluate financial products that contain them. You don't need to trade them."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "The finance industry has a structural incentive to create complexity. Complex products generate higher fees and are harder to compare. When someone is trying to sell you a structured product, a protected note, a leveraged ETF, or an options overlay strategy — ask one question: what specific problem does this solve that a simpler instrument cannot? If they can't answer that clearly, the complexity is a cost, not a feature."
+      "content": "The finance industry has a structural incentive to create complexity. Complex products generate higher fees and are harder to compare, when  someone is trying to sell you a structured product, a protected note, a leveraged ETF, or an options overlay strategy. ask one question: what specific problem does this solve that a simpler instrument cannot? If they can't answer that clearly, the complexity is a cost, not a feature."
     },
     {
       "type": "callout",
       "label": "Watch out",
-      "content": "Leveraged ETFs (2x or 3x a daily index return) and inverse ETFs are built for daily trading, not long-term holding. They decay over time due to daily rebalancing — a 2x bull ETF held through a volatile period will underperform 2x the index return significantly. They are widely misunderstood and widely held longer than they should be."
+      "content": "Leveraged ETFs (2x or 3x a daily index return) and inverse ETFs are built for daily trading, not long-term holding, they  decay over time due to daily rebalancing. a 2x bull ETF held through a volatile period will underperform 2x the index return significantly, they  are widely misunderstood and widely held longer than they should be."
     },
     {
       "type": "heading",
@@ -30,13 +34,13 @@
     },
     {
       "type": "paragraph",
-      "content": "If you have the basics right — emergency fund, no high-interest debt, tax-advantaged accounts maxed or near-maxed, core index fund portfolio in place — here are two options strategies that can be genuinely useful:"
+      "content": "If you have the basics right, emergency fund, no high-interest debt, tax-advantaged accounts maxed or near-maxed, core index fund portfolio in place, here are two options strategies that can be genuinely useful:"
     },
     {
       "type": "list",
       "items": [
         "Covered calls: you own 100+ shares of a stock. You sell someone the right to buy those shares at a higher price (the strike). You collect the premium immediately. If the stock stays below the strike, you keep shares and premium. If it rises past the strike, you sell your shares at a profit you were already happy with. This generates income on stock you already hold.",
-        "Cash-secured puts: you want to buy a stock but only at a lower price. You sell a put at your target price, collecting premium. If the stock falls to that price, you buy it — which you wanted anyway. If it stays higher, the put expires and you keep the premium. You get paid to wait for a price you'd want."
+        "Cash-secured puts: you want to buy a stock but only at a lower price. You sell a put at your target price, collecting premium. If the stock falls to that price, you buy it. Which you wanted anyway. If it stays higher, the put expires and you keep the premium. You get paid to wait for a price you'd want."
       ]
     },
     {
@@ -46,9 +50,9 @@
     {
       "type": "list",
       "items": [
-        "Buying short-dated OTM options speculatively — time decay almost always wins",
-        "Selling naked (uncovered) calls — your loss is theoretically unlimited if the stock rockets",
-        "Trading futures on margin for directional bets — this is a professional instrument misused as gambling",
+        "Buying short-dated OTM options speculatively. Time decay almost always wins",
+        "Selling naked (uncovered) calls. Your loss is theoretically unlimited if the stock rockets",
+        "Trading futures on margin for directional bets. This is a professional instrument misused as gambling",
         "Holding leveraged ETFs longer than a few days unless you fully understand the daily rebalancing decay",
         "Complex multi-leg options strategies without understanding your max loss in every scenario"
       ]
@@ -59,11 +63,11 @@
     },
     {
       "type": "paragraph",
-      "content": "Before any of this is relevant: build an emergency fund. Eliminate high-interest debt. Maximize your 401(k) to at least get the employer match. Build a core portfolio of low-cost index funds. Do those things, and you will outperform the vast majority of investors — including most who use derivatives. The sophisticated use of simple tools beats the unsophisticated use of complex ones every time."
+      "content": "Before any of this is relevant: build an emergency fund. Eliminate high-interest debt. Maximize your 401(k) to at least get the employer match. Build a core portfolio of low-cost index funds. Do those things, and you will outperform the vast majority of investors. including most who use derivatives, the  sophisticated use of simple tools beats the unsophisticated use of complex ones every time."
     },
     {
       "type": "quote",
-      "content": "Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas. — Paul Samuelson"
+      "content": "Investing should be more like watching paint dry or watching grass grow, if  you want excitement, take $800 and go to Las Vegas.. Paul Samuelson"
     },
     {
       "type": "callout",
@@ -75,7 +79,7 @@
     },
     {
       "type": "takeaway",
-      "content": "Use derivatives when you have a specific risk to manage, you understand the payoff structure completely, and the cost is proportionate to the benefit. Otherwise, the basics — earn, save, invest in low-cost index funds, diversify, stay patient — are not a consolation prize. They are the strategy. You now know enough to execute them without being fooled."
+      "content": "Use derivatives when you have a specific risk to manage, you understand the payoff structure completely, and the cost is proportionate to the benefit. Otherwise, the basics, earn, save, invest in low-cost index funds, diversify, stay patient, are not a consolation prize, they  are the strategy. You now know enough to execute them without being fooled."
     }
   ]
 }

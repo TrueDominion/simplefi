@@ -3,13 +3,17 @@
   "trackId": "t06",
   "order": 5,
   "title": "Using leverage responsibly",
-  "subtitle": "Leverage amplifies both gains and losses. It is not inherently dangerous — but it demands a precision that most individual investors have not developed.",
+  "subtitle": "Leverage amplifies both gains and losses, it  is not inherently dangerous, but it demands a precision that most individual investors have not developed.",
   "estimatedMinutes": 9,
-  "tags": ["leverage", "risk management", "debt"],
+  "tags": [
+    "leverage",
+    "risk management",
+    "debt"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Leverage means using borrowed money to invest more than you have. When it works, it supercharges your returns. When it doesn't, it supercharges your losses. The math is asymmetric in a way that most people don't fully internalize until it's too late. This lesson is about understanding that asymmetry before you use it — not after."
+      "content": "Leverage means using borrowed money to invest more than you have, when  it works, it supercharges your returns, when  it doesn't, it supercharges your losses, the  math is asymmetric in a way that most people don't fully internalize until it's too late, this  lesson is about understanding that asymmetry before you use it, not after."
     },
     {
       "type": "heading",
@@ -17,7 +21,7 @@
     },
     {
       "type": "paragraph",
-      "content": "You have $100,000. You borrow another $100,000 at 5% interest. You invest the full $200,000 and earn 10%. Your profit: $20,000 minus $5,000 in interest = $15,000 on your $100,000 of actual capital. That's a 15% return on your money — better than the 10% you'd have earned without leverage. Leverage worked."
+      "content": "You have $100,000. You borrow another $100,000 at 5% interest. You invest the full $200,000 and earn 10%. Your profit: $20,000 minus $5,000 in interest = $15,000 on your $100,000 of actual capital. That's a 15% return on your money. better than the 10% you'd have earned without leverage. Leverage worked."
     },
     {
       "type": "heading",
@@ -25,12 +29,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Same setup. But the investment loses 20% instead. Your $200,000 is now $160,000. You still owe $100,000 plus $5,000 interest. You pay back $105,000. You're left with $55,000 — a loss of $45,000 on your original $100,000. That's a 45% loss on a 20% market decline. Leverage amplified a bad outcome far more than it amplified the good one."
+      "content": "Same setup, but  the investment loses 20% instead. Your $200,000 is now $160,000. You still owe $100,000 plus $5,000 interest. You pay back $105,000. You're left with $55,000. a loss of $45,000 on your original $100,000. That's a 45% loss on a 20% market decline. Leverage amplified a bad outcome far more than it amplified the good one."
     },
     {
       "type": "callout",
       "label": "The asymmetry",
-      "content": "Leverage amplifies losses more than gains because of the fixed interest cost and the possibility of forced selling. If markets fall far enough and you're using margin, your broker can issue a margin call — forcing you to sell at the worst possible moment. This converts a temporary paper loss into a permanent real one. The forced-sale risk is what makes leverage genuinely dangerous."
+      "content": "Leverage amplifies losses more than gains because of the fixed interest cost and the possibility of forced selling, if  markets fall far enough and you're using margin, your broker can issue a margin call. forcing you to sell at the worst possible moment, this  converts a temporary paper loss into a permanent real one, the  forced-sale risk is what makes leverage genuinely dangerous."
     },
     {
       "type": "heading",
@@ -38,17 +42,17 @@
     },
     {
       "type": "paragraph",
-      "content": "A mortgage is the most common and often most appropriate use of leverage for individuals. You put 20% down on a $500,000 home. You control a $500,000 asset with $100,000. If the home appreciates 10%, your equity has grown from $100,000 to $150,000 — a 50% return on your investment. The leverage worked because: the asset is tangible and tends to appreciate over time, the debt is long-duration and fixed-rate, and the carrying cost (mortgage payment) comes from income, not investment returns."
+      "content": "A mortgage is the most common and often most appropriate use of leverage for individuals. You put 20% down on a $500,000 home. You control a $500,000 asset with $100,000, if  the home appreciates 10%, your equity has grown from $100,000 to $150,000. a 50% return on your investment, the  leverage worked because: the asset is tangible and tends to appreciate over time, the debt is long-duration and fixed-rate, and the carrying cost (mortgage payment) comes from income, not investment returns."
     },
     {
       "type": "heading",
-      "content": "When leverage makes sense — the checklist"
+      "content": "When leverage makes sense, the checklist"
     },
     {
       "type": "list",
       "items": [
         "The expected return materially exceeds the cost of borrowing (not just barely)",
-        "You can service the interest from regular income — not from investment returns",
+        "You can service the interest from regular income. Not from investment returns",
         "A significant decline in the asset's value wouldn't trigger forced selling",
         "You have sufficient liquidity elsewhere to handle unexpected costs",
         "The loan is long-term and fixed-rate, not callable on short notice"
@@ -65,14 +69,14 @@
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Long-term, the stock market returns ~7% real per year. Borrowing at 5-8% to invest in something returning 7% is barely breaking even in the good years — and catastrophic in the bad ones. There's no margin of safety. For most individual investors, the appropriate amount of margin debt in a stock portfolio is zero."
+      "content": "Long-term, the stock market returns ~7% real per year. Borrowing at 5-8% to invest in something returning 7% is barely breaking even in the good years, and catastrophic in the bad ones. There's no margin of safety, for  most individual investors, the appropriate amount of margin debt in a stock portfolio is zero."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Leverage amplifies both gains and losses — but losses more, because of forced selling and interest costs. Use it only when: returns materially exceed borrowing costs, you can service debt from income, and a bad outcome doesn't force you to sell. Mortgages often qualify. Margin stock accounts rarely do."
+      "content": "Leverage amplifies both gains and losses, but losses more, because of forced selling and interest costs. Use it only when: returns materially exceed borrowing costs, you can service debt from income, and a bad outcome doesn't force you to sell. Mortgages often qualify. Margin stock accounts rarely do."
     }
   ]
 }

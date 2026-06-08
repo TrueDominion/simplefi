@@ -5,11 +5,15 @@
   "title": "How debt actually works",
   "subtitle": "Debt is not inherently bad. It is a tool with a cost. Using it without understanding the cost is the problem.",
   "estimatedMinutes": 8,
-  "tags": ["debt", "leverage", "mindset"],
+  "tags": [
+    "debt",
+    "leverage",
+    "mindset"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Debt is not a moral failure. It's not the sign of irresponsibility or weakness. It's a financial tool — a way of accessing purchasing power now by committing future income. Like any tool, it can be used well or badly. A hammer isn't good or evil. Neither is a loan. The question is always: what does this debt cost, what is it for, and can you actually afford it?"
+      "content": "Debt is not a moral failure. It's not the sign of irresponsibility or weakness. It's a financial tool. a way of accessing purchasing power now by committing future income, like  any tool, it can be used well or badly. A hammer isn't good or evil, neither  is a loan, the  question is always: what does this debt cost, what is it for, and can you actually afford it?"
     },
     {
       "type": "heading",
@@ -20,7 +24,7 @@
       "items": [
         "Principal: the amount you borrow",
         "Interest rate (APR): the annual cost expressed as a percentage of the outstanding balance",
-        "Term: how long you have to repay it — 5 years, 30 years, revolving",
+        "Term: how long you have to repay it ,  5 years, 30 years, revolving",
         "Monthly payment: determined by principal, rate, and term through amortization",
         "Total cost: what you actually pay over the life of the loan, including all interest"
       ]
@@ -28,7 +32,7 @@
     {
       "type": "callout",
       "label": "The math",
-      "content": "A $30,000 car loan at 7% for 5 years: monthly payment is $594. Total payments: $35,640. You paid $5,640 in interest on top of the $30,000 principal. At 10% (the rate many people actually pay for auto loans), the same car costs $38,184 total — $8,184 in interest. The interest is the price of spreading the cost over time."
+      "content": "A $30,000 car loan at 7% for 5 years: monthly payment is $594. Total payments: $35,640. You paid $5,640 in interest on top of the $30,000 principal, at  10% (the rate many people actually pay for auto loans), the same car costs $38,184 total. $8,184 in interest, the  interest is the price of spreading the cost over time."
     },
     {
       "type": "heading",
@@ -36,7 +40,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Every loan payment is split between interest and principal. In the early months, most of your payment goes to interest. In the later months, most goes to principal. This is amortization — front-loading the interest costs. On a 30-year mortgage, the first payment might be $1,200: $900 to interest, $300 to principal. By year 28, that same payment is $1,200: $100 to interest, $1,100 to principal. This is why extra early payments on long-term loans are so powerful — they attack the principal directly and eliminate years of future interest charges."
+      "content": "Every loan payment is split between interest and principal, in  the early months, most of your payment goes to interest, in  the later months, most goes to principal, this  is amortization, front-loading the interest costs, on  a 30-year mortgage, the first payment might be $1,200: $900 to interest, $300 to principal, by  year 28, that same payment is $1,200: $100 to interest, $1,100 to principal, this  is why extra early payments on long-term loans are so powerful, they attack the principal directly and eliminate years of future interest charges."
     },
     {
       "type": "heading",
@@ -44,16 +48,16 @@
     },
     {
       "type": "paragraph",
-      "content": "The distinction isn't really about the type of debt — it's about rate and purpose. Low-rate debt used to acquire appreciating assets or increase income capacity = generally useful. High-rate debt used to consume things that depreciate immediately = financially harmful. A mortgage at 6% that lets you own an appreciating asset is qualitatively different from a credit card at 24% funding a vacation. The mortgage might be a reasonable tool. The credit card debt is expensive."
+      "content": "The distinction isn't really about the type of debt. it's about rate and purpose. Low-rate debt used to acquire appreciating assets or increase income capacity = generally useful. High-rate debt used to consume things that depreciate immediately = financially harmful. A mortgage at 6% that lets you own an appreciating asset is qualitatively different from a credit card at 24% funding a vacation, the  mortgage might be a reasonable tool, the  credit card debt is expensive."
     },
     {
       "type": "list",
       "items": [
         "Low-rate mortgage: locks in housing cost, builds equity, historically appreciating asset",
-        "Student loans at reasonable rates: investing in future earning power — evaluate the ROI",
+        "Student loans at reasonable rates: investing in future earning power. Evaluate the ROI",
         "Auto loan: depreciating asset, try to minimize the rate and term",
-        "Credit card debt at 20%+: almost never justified — pay it off as fast as possible",
-        "Payday loans at 300%+ APR: financially catastrophic — avoid at all costs"
+        "Credit card debt at 20%+: almost never justified. Pay it off as fast as possible",
+        "Payday loans at 300%+ APR: financially catastrophic. Avoid at all costs"
       ]
     },
     {
@@ -62,19 +66,19 @@
     },
     {
       "type": "paragraph",
-      "content": "The calculation is simple: if the cost of the debt (after-tax interest rate) is lower than the return on what you'd do with the money otherwise, debt can be advantageous. If your mortgage is at 4% and your investments return 7%, you're better off making minimum mortgage payments and investing the rest than aggressively paying down the mortgage. If your student loans are at 7% and your investments return 7%, it's essentially a wash — personal preference can guide the decision."
+      "content": "The calculation is simple: if the cost of the debt (after-tax interest rate) is lower than the return on what you'd do with the money otherwise, debt can be advantageous, if  your mortgage is at 4% and your investments return 7%, you're better off making minimum mortgage payments and investing the rest than aggressively paying down the mortgage, if  your student loans are at 7% and your investments return 7%, it's essentially a wash. personal preference can guide the decision."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "The math on debt vs. invest is compelling in theory and complicated in practice. Most people lack the emotional discipline to invest while carrying debt — the debt feels urgent, the investment abstract. If debt is causing you anxiety that affects your behavior, paying it down has psychological value that doesn't show up in the math. The optimal financial decision isn't always the optimal human decision."
+      "content": "The math on debt vs. invest is compelling in theory and complicated in practice. Most people lack the emotional discipline to invest while carrying debt, the debt feels urgent, the investment abstract, if  debt is causing you anxiety that affects your behavior, paying it down has psychological value that doesn't show up in the math, the  optimal financial decision isn't always the optimal human decision."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Debt is a tool with a cost: interest. The total cost of a loan is principal plus all interest paid — often far more than the price tag suggests. Good debt finances appreciating assets or income growth at low rates. Bad debt finances consumption at high rates. When the debt rate is lower than your investment return, the math favors investing over aggressive paydown."
+      "content": "Debt is a tool with a cost: interest, the  total cost of a loan is principal plus all interest paid. often far more than the price tag suggests. Good debt finances appreciating assets or income growth at low rates. Bad debt finances consumption at high rates, when  the debt rate is lower than your investment return, the math favors investing over aggressive paydown."
     }
   ]
 }

@@ -5,7 +5,11 @@
   "title": "When to buy, when to hold, when to sell",
   "subtitle": "Most investing mistakes happen at the buy and sell points. The hold decision is usually the right one.",
   "estimatedMinutes": 8,
-  "tags": ["decision-making", "selling", "discipline"],
+  "tags": [
+    "decision-making",
+    "selling",
+    "discipline"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -20,12 +24,12 @@
       "items": [
         "Valuation: the price makes sense relative to what the business is worth and its growth prospects",
         "Quality: the business has durable competitive advantages, strong management, and solid financials",
-        "Position sizing: you're not betting the farm — this position size won't destroy you if you're wrong"
+        "Position sizing: you're not betting the farm. This position size won't destroy you if you're wrong"
       ]
     },
     {
       "type": "paragraph",
-      "content": "For index fund investors, buy when you have money to invest — the valuation question is largely handled by owning the whole market, and position sizing is handled by diversification. For individual stocks, all three conditions matter. Buying a great business at a terrible price is still a bad investment."
+      "content": "For index fund investors, buy when you have money to invest, the valuation question is largely handled by owning the whole market, and position sizing is handled by diversification, for  individual stocks, all three conditions matter. Buying a great business at a terrible price is still a bad investment."
     },
     {
       "type": "heading",
@@ -33,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Before buying anything, write down why. What is the thesis — the reason this investment should do well? Then, when you're tempted to sell, ask one question: has the thesis changed? If no — the business is intact, the competitive position is intact, the original reasons still apply — hold. Don't sell because the price went down. Don't sell because a commentator on TV said something scary. Don't sell because you read a bearish article. Sell when the thesis changes, not when the price does."
+      "content": "Before buying anything, write down why, what  is the thesis, the reason this investment should do well? Then, when you're tempted to sell, ask one question: has the thesis changed? If no, the business is intact, the competitive position is intact, the original reasons still apply. hold. Don't sell because the price went down. Don't sell because a commentator on TV said something scary. Don't sell because you read a bearish article. Sell when the thesis changes, not when the price does."
     },
     {
       "type": "heading",
@@ -42,9 +46,9 @@
     {
       "type": "list",
       "items": [
-        "The thesis has broken: something fundamental about the business has changed — competition destroyed the moat, management misallocated capital, the industry is declining",
-        "Better opportunity: a clearly superior investment exists and you need capital to fund it (high bar — rebalancing or trimming, not panic)",
-        "You need the cash: life happens — planned liquidity needs are a legitimate reason to sell"
+        "The thesis has broken: something fundamental about the business has changed. Competition destroyed the moat, management misallocated capital, the industry is declining",
+        "Better opportunity: a clearly superior investment exists and you need capital to fund it (high bar. Rebalancing or trimming, not panic)",
+        "You need the cash: life happens. Planned liquidity needs are a legitimate reason to sell"
       ]
     },
     {
@@ -58,7 +62,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Conviction and concentration are different. You can be highly confident in a business without betting 40% of your portfolio on it — because even highly confident investors are wrong sometimes. A 5-10% position in a stock you believe in strongly is reasonable. A 30%+ position requires a level of certainty that's almost never justified in public markets where information is widely available and priced quickly. Large concentrations feel great when they work. They're catastrophic when they don't."
+      "content": "Conviction and concentration are different. You can be highly confident in a business without betting 40% of your portfolio on it, because even highly confident investors are wrong sometimes. A 5-10% position in a stock you believe in strongly is reasonable. A 30%+ position requires a level of certainty that's almost never justified in public markets where information is widely available and priced quickly. Large concentrations feel great when they work. They're catastrophic when they don't."
     },
     {
       "type": "heading",
