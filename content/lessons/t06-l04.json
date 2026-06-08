@@ -4,36 +4,72 @@
   "order": 4,
   "title": "Credit scoring — what it measures and what it misses",
   "subtitle": "A credit score is a prediction of repayment behavior based on historical data. It is useful, limited, and frequently misunderstood.",
-  "estimatedMinutes": 7,
+  "estimatedMinutes": 8,
   "tags": ["credit", "personal finance", "scoring"],
   "body": [
     {
       "type": "paragraph",
-      "content": "A credit score is a three-digit number — in most markets, between 300 and 850 — that represents a statistical estimate of the probability that you will repay your debts on time. Lenders use it to determine whether to extend credit and at what interest rate. A higher score means lower predicted risk, which translates to better borrowing terms."
-    },
-    {
-      "type": "callout",
-      "label": "The five factors in a FICO score",
-      "content": "Payment history (35%): whether you have paid past credit obligations on time. Amounts owed (30%): how much of your available credit you are using — utilization rate. Length of credit history (15%): how long your accounts have been open. New credit (10%): recent applications for new credit. Credit mix (10%): the variety of credit types you hold."
+      "content": "Your credit score is a three-digit number between 300 and 850. It answers one question: based on your past behavior, how likely are you to repay a loan? That's it. It's not a measure of your wealth, your income, your intelligence, or your financial wisdom. It's a statistical prediction of one specific behavior — and lenders use it to decide whether to lend you money and at what rate."
     },
     {
       "type": "heading",
-      "content": "What it misses"
+      "content": "The five factors — and their weights"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Payment history (35%): do you pay on time? One missed payment can drop your score by 100 points. This is the single most important factor.",
+        "Credit utilization (30%): what % of your available credit are you using? Under 30% is good, under 10% is better. This updates monthly.",
+        "Length of credit history (15%): how long have your accounts been open? Older is better. Don't close old cards you're not using.",
+        "Credit mix (10%): do you have different types of credit (cards, loans, mortgage)? Modest factor, not worth chasing.",
+        "New credit (10%): recent hard inquiries from credit applications. Each one temporarily dips your score ~5-10 points."
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "The real-world stakes",
+      "content": "The difference between a 620 score and a 760 score on a $400,000 30-year mortgage: roughly 1.5-2% in interest rate. At 2% higher: you pay about $193,000 more in total interest over 30 years. Your credit score is one of the highest-leverage numbers in your financial life. Ignoring it costs real money."
+    },
+    {
+      "type": "heading",
+      "content": "What actually moves your score"
     },
     {
       "type": "paragraph",
-      "content": "Credit scores are backward-looking — they measure past behavior, not current financial health. A high earner who recently paid off significant debt may score lower than a moderate earner with a longer, cleaner history. Scores also miss wealth, income stability, and assets entirely. Two people with identical scores may have dramatically different financial positions."
+      "content": "The two highest-impact actions: pay everything on time (set up autopay for at least the minimum on every account), and keep your utilization low. If you have a $10,000 credit limit and carry $3,000 in balances, that's 30% utilization. Pay it to $1,000 and you're at 10%. This change alone can raise your score 30-50 points within a month or two."
+    },
+    {
+      "type": "heading",
+      "content": "Common myths"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Myth: checking your own credit hurts your score. False — checking your own is a 'soft inquiry' and has zero effect.",
+        "Myth: carrying a small balance builds credit. False — paying in full every month is optimal. You build credit by using the card, not by paying interest.",
+        "Myth: closing old accounts improves your score. Usually false — it reduces your available credit and raises utilization.",
+        "Myth: you need to carry debt to have good credit. False — you need to use credit and pay it off consistently."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "What the score misses"
     },
     {
       "type": "paragraph",
-      "content": "The practical strategy for optimizing your score: pay on time without exception, keep utilization below 30% (ideally below 10%), avoid unnecessary new credit applications, and maintain older accounts even if unused. These behaviors signal low risk to statistical models — which is the outcome the score was designed to measure."
+      "content": "Credit scores are backward-looking and narrow. They measure debt repayment behavior — nothing else. A high-earner who recently immigrated to the US may have no credit history and score poorly. A person with six figures in savings but a spotty payment history may score badly. The score doesn't know your income, your assets, your job stability, or your actual financial situation. It knows your debt behavior. Use it as the tool it is."
+    },
+    {
+      "type": "callout",
+      "label": "The bottom line",
+      "content": "A good credit score costs nothing to maintain — it just requires paying bills on time and not maxing out your cards. In exchange, you get access to lower interest rates on every major purchase for the rest of your life. This is one of the highest-return behaviors in personal finance, and it's just habit."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A credit score is a useful tool for accessing debt on favorable terms. Treat it as a means, not an end. The goal is not a high score — the goal is a financial life that produces a high score as a natural byproduct."
+      "content": "Pay on time, every time. Keep utilization under 10%. Don't close old accounts. Don't apply for new credit you don't need. Do those four things and your score will be excellent. The score is just a byproduct of good financial behavior — not an end in itself."
     }
   ]
 }

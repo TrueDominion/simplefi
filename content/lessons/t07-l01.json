@@ -9,31 +9,65 @@
   "body": [
     {
       "type": "paragraph",
-      "content": "A derivative is a financial contract whose value is derived from the price of an underlying asset — a stock, commodity, currency, bond, or index. Derivatives do not have intrinsic value of their own. They exist to facilitate one of three things: hedging risk, expressing a price view with leverage, or enabling arbitrage."
-    },
-    {
-      "type": "callout",
-      "label": "The original purpose",
-      "content": "Derivatives originated in agricultural markets. A wheat farmer who will harvest in October does not know what the price will be then. A flour mill needs wheat in October and does not know what they will pay. A forward contract — agreeing today on a price for future delivery — eliminates the uncertainty for both. Neither party is speculating. Both are managing real economic risk."
-    },
-    {
-      "type": "paragraph",
-      "content": "The same logic applies to modern financial derivatives. An airline that burns jet fuel needs predictable costs to plan operations. An investor holding a large equity portfolio wants to protect against a short-term decline without liquidating the position. A multinational company receiving revenue in foreign currencies wants to eliminate exchange rate uncertainty. Derivatives make all of this possible."
+      "content": "The word 'derivative' gets thrown around like it's inherently complicated or dangerous. It's neither. A derivative is just a contract between two parties whose value depends on — is 'derived from' — the price of something else. That something else could be a stock, an oil barrel, a currency, or an interest rate. The contract itself doesn't own anything. It just gives you exposure to how a price moves."
     },
     {
       "type": "heading",
-      "content": "The speculative use"
+      "content": "The farmer who invented derivatives"
     },
     {
       "type": "paragraph",
-      "content": "Derivatives also attract speculators — participants who take the other side of hedgers' trades and accept risk in exchange for potential profit. Speculators are not villains; they provide liquidity and allow hedgers to transfer risk efficiently. But for individual investors without specific hedging needs, the speculative use of derivatives requires discipline and precision that most do not bring to it."
+      "content": "Derivatives were not invented by hedge funds. They were invented by farmers and grain merchants — probably thousands of years ago. Here's the problem they solved: a wheat farmer plants in April and harvests in October. In April, they have no idea what wheat will be worth in October. If prices crash, they can't cover their costs. If prices spike, great — but they can't plan around that uncertainty."
+    },
+    {
+      "type": "paragraph",
+      "content": "The solution: in April, the farmer agrees with a bread company to sell 10,000 bushels of wheat in October at $5 per bushel. Done. The farmer locks in revenue. The bread company locks in costs. Neither party is speculating. Both are eliminating a real business risk. That agreement is a forward contract — the simplest derivative in existence."
+    },
+    {
+      "type": "callout",
+      "label": "The same logic, applied everywhere",
+      "content": "Airlines use fuel futures to lock in jet fuel costs and protect profit margins from oil price spikes. Multinational companies use currency swaps to eliminate exchange rate risk on foreign revenue. Pension funds use interest rate swaps to match the duration of their liabilities. In every case: two parties with opposite risk exposures find each other and trade the risk away."
+    },
+    {
+      "type": "heading",
+      "content": "The four main types"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Options: the right (not obligation) to buy or sell at a set price by a set date. You pay a premium for that right.",
+        "Futures: the obligation to buy or sell at a set price on a set date. Both parties must transact. Traded on exchanges.",
+        "Forwards: like futures, but private agreements between two parties. More customizable, less liquid.",
+        "Swaps: exchanging one stream of cash flows for another (e.g., fixed interest rate for floating rate)."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Where speculators fit in"
+    },
+    {
+      "type": "paragraph",
+      "content": "For every farmer wanting to sell, someone has to be willing to buy. Sometimes that's a bread company with the opposite exposure. Often it's a speculator — someone who doesn't have the underlying business need but is willing to accept the price risk in exchange for potential profit. Speculators aren't villains. They provide liquidity, making it possible for hedgers to transfer risk at all. Without them, these markets wouldn't function."
+    },
+    {
+      "type": "heading",
+      "content": "The leverage problem"
+    },
+    {
+      "type": "paragraph",
+      "content": "Derivatives typically control a large underlying position for a small upfront cost. One S&P 500 futures contract controls about $500,000 worth of exposure for maybe $25,000 in margin. A 2% market move generates a $10,000 gain or loss on your $25,000. That's 40% in one day. Leverage this extreme works magnificently when you're right, and catastrophically when you're wrong. This is why derivatives have a dangerous reputation — not because they're inherently bad, but because leverage used carelessly is genuinely dangerous."
+    },
+    {
+      "type": "callout",
+      "label": "The right mental model",
+      "content": "A hammer is not dangerous because it exists. It's dangerous in untrained hands. Derivatives are the same. Used to hedge a real exposure, they reduce risk. Used to speculate with leverage you don't understand, they amplify it. The instrument doesn't decide. The user does."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Derivatives exist to transfer risk from those who do not want it to those who will accept it for a price. Understanding this purpose — rather than fearing the complexity — is the foundation for knowing when they belong in your toolkit."
+      "content": "Derivatives exist to transfer risk between parties. They were invented for practical commercial purposes, not speculation. The four main types are options, futures, forwards, and swaps. Their danger comes from embedded leverage — not from the instruments themselves. Know what you're using them for before you use them."
     }
   ]
 }
