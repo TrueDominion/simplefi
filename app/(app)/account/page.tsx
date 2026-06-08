@@ -64,8 +64,7 @@ export default function AccountPage() {
         {plan === "free" ? (
           <div className="flex flex-col gap-3">
             <p className="font-syne text-[13px] text-stone leading-relaxed">
-              This is where it gets serious. Pro access unlocks all 7 tracks —
-              from risk and asset classes through derivatives.
+              Pro gives you all seven tracks. Tracks 04 through 07 cover portfolio construction, equity valuation, fixed income, and derivatives.
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <Button
@@ -92,10 +91,10 @@ export default function AccountPage() {
         ) : (
           <div className="flex flex-col gap-2">
             <p className="font-syne text-[13px] text-stone">
-              Full curriculum access. All 7 tracks.
+              All 7 tracks. Full curriculum.
             </p>
             <p className="font-syne text-[12px] text-stone">
-              Manage billing through Stripe customer portal.
+              Billing managed through Stripe.
             </p>
           </div>
         )}

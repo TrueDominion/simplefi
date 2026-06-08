@@ -5,21 +5,21 @@ import { IconStack2, IconBook, IconChartDots } from "@tabler/icons-react";
 const values = [
   {
     icon: IconStack2,
-    label: "Sequenced by how finance actually compounds",
+    label: "The order matters",
     description:
-      "Each concept builds on the last. You cannot understand portfolio construction without understanding risk. The curriculum enforces the order.",
+      "Each concept builds on the last. You cannot build a portfolio without understanding risk. You cannot understand risk without understanding what you are risking. The sequence is deliberate.",
   },
   {
     icon: IconBook,
     label: "Written to be read, not skimmed",
     description:
-      "Every lesson has a point of view and a defined learning outcome. It reads like it was written by someone who knows the subject deeply and respects your intelligence.",
+      "Every lesson makes a specific argument. No filler. No definitions dressed up as insight. It reads like someone who knows this subject well and does not need to oversell it.",
   },
   {
     icon: IconChartDots,
-    label: "Stops when you are genuinely sophisticated — not before",
+    label: "Covers everything. Including the hard parts.",
     description:
-      "From fundamentals through derivatives. The full curriculum leaves you with a real command of advanced finance, not a watered-down version.",
+      "The curriculum ends at derivatives. Not because it is trying to impress you, but because that is where a complete financial education ends. Nothing is watered down.",
   },
 ];
 
@@ -27,7 +27,7 @@ export default function HowItWorks() {
   return (
     <section className="px-6 py-16 max-w-[900px] mx-auto">
       <p className="font-syne font-bold text-[11px] uppercase tracking-[0.16em] text-stone mb-10 text-center">
-        What makes it different
+        How it works
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {values.map(({ icon: Icon, label, description }) => (

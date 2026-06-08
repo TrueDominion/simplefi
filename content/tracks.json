@@ -2,7 +2,7 @@
   {
     "id": "t01",
     "title": "Money fundamentals",
-    "description": "The foundation. Understand what money actually is before you try to manage it.",
+    "description": "The foundation. What money actually is, where it goes, and how to make it accumulate before you invest a single dollar.",
     "tier": "free",
     "order": 1,
     "lessonCount": 5,
@@ -12,7 +12,7 @@
   {
     "id": "t02",
     "title": "Risk & allocation",
-    "description": "Risk is not the enemy. This track teaches you to measure it, tolerate it, and use it.",
+    "description": "Risk is not the enemy. Ignoring it is. Learn to measure it, price it, and decide how much of it belongs in your portfolio.",
     "tier": "free",
     "order": 2,
     "lessonCount": 5,
@@ -23,7 +23,7 @@
   {
     "id": "t03",
     "title": "Asset classes",
-    "description": "Every investment belongs to a category. Understanding those categories is the prerequisite for every decision that follows.",
+    "description": "Every investment belongs to a category. Know the categories before you pick the investments.",
     "tier": "free",
     "order": 3,
     "lessonCount": 5,
@@ -34,7 +34,7 @@
   {
     "id": "t04",
     "title": "Portfolio construction",
-    "description": "A portfolio is not a collection of investments. It is a system. This track teaches you to build one deliberately.",
+    "description": "A portfolio is not a list of investments. It is a system. How to build one deliberately, keep costs low, and rebalance without emotion.",
     "tier": "paid",
     "order": 4,
     "lessonCount": 5,
@@ -45,7 +45,7 @@
   {
     "id": "t05",
     "title": "Equity & valuation",
-    "description": "Buying a stock means buying a business. This track teaches you to evaluate whether the price is right.",
+    "description": "Buying a stock means buying a piece of a business. Before you do that, you should be able to read the scoreboard.",
     "tier": "paid",
     "order": 5,
     "lessonCount": 5,
@@ -56,7 +56,7 @@
   {
     "id": "t06",
     "title": "Debt, credit & fixed income",
-    "description": "Debt is a tool. Credit is a score. Bonds are a market. This track separates the mechanics from the mythology.",
+    "description": "Debt is a tool. Credit is a score. Bonds are a market. The mechanics of all three, without the mythology.",
     "tier": "paid",
     "order": 6,
     "lessonCount": 5,
@@ -67,7 +67,7 @@
   {
     "id": "t07",
     "title": "Derivatives & advanced instruments",
-    "description": "Options, futures, and hedges are not speculation by default. This track teaches what they actually are and when they belong in your thinking.",
+    "description": "Options, futures, and hedges are not speculation by default. What they actually are, how they work, and when they make sense.",
     "tier": "paid",
     "order": 7,
     "lessonCount": 5,
