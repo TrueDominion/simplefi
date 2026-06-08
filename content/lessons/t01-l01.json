@@ -4,7 +4,7 @@
   "order": 1,
   "title": "What money actually is",
   "subtitle": "Strip away the abstraction. Money is a technology — and understanding that changes how you use it.",
-  "estimatedMinutes": 7,
+  "estimatedMinutes": 6,
   "tags": ["foundations", "mindset"],
   "body": [
     {
@@ -17,12 +17,12 @@
     },
     {
       "type": "paragraph",
-      "content": "The US dollar is fiat currency. It is not backed by gold, silver, or any physical commodity. It is backed by institutional trust — specifically, the trust that the US government will remain functional, that other people will accept dollars in exchange for real things, and that the Federal Reserve won't print so much of it that it becomes worthless. This is not a bug. It's a design feature. It lets the economy grow, lets governments respond to crises, and has made the modern financial system possible."
+      "content": "The US dollar is fiat currency. It is not backed by gold, silver, or any physical commodity. It is backed by institutional trust — specifically, the trust that the US government will remain functional, that other people will accept dollars in exchange for real things, and that the Federal Reserve won't print so much of it that it becomes worthless. This is not a bug. It's a design feature."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Fiat = backed by trust, not a commodity. Every major economy runs on it. The US completed this transition in 1971 when Nixon ended the dollar's gold convertibility. The supply of money can now expand or contract based on policy decisions. That affects you whether you understand it or not."
+      "content": "Fiat = backed by trust, not a commodity. Every major economy runs on it. The US completed this transition in 1971 when Nixon ended the dollar's gold convertibility. The supply of money can now expand or contract based on policy. That affects you whether you understand it or not."
     },
     {
       "type": "heading",
@@ -30,7 +30,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Inflation is the rate at which money loses purchasing power. In the United States, it has averaged roughly 3% per year over the past 50 years. That sounds small. Compounded over decades, it destroys value quietly and completely."
+      "content": "Inflation is the rate at which money loses purchasing power. In the US, it has averaged roughly 3% per year over the past 50 years. That sounds small. Compounded over decades, it destroys value quietly and completely."
     },
     {
       "type": "list",
@@ -56,7 +56,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Most people treat cash as the safe default — the thing you hold when you're not doing anything. But cash has a cost: the opportunity cost of what it could earn elsewhere, and the direct cost of inflation eating its value. There are good reasons to hold cash. An emergency fund. Short-term goals. But holding cash indefinitely because you haven't gotten around to investing it is costing you money in real terms. Every day you wait is a decision."
+      "content": "Most people treat cash as the safe default — the thing you hold when you're not doing anything else. But cash has a cost: the opportunity cost of what it could earn elsewhere, and the direct cost of inflation eating its value. There are good reasons to hold cash. An emergency fund. A short-term goal you're saving toward. But holding cash indefinitely because you haven't gotten around to investing is costing you money in real terms. Every day you wait is a decision."
     },
     {
       "type": "heading",
@@ -71,13 +71,13 @@
       "content": "The one math concept that actually matters"
     },
     {
-      "type": "paragraph",
-      "content": "A dollar today is worth more than a dollar tomorrow. Two reasons: inflation (tomorrow's dollar buys less) and opportunity cost (today's dollar can be invested and grow). This is why compound interest is the only financial concept you absolutely need to understand. Not because Einstein said so. Because the numbers are genuinely insane."
-    },
-    {
       "type": "callout",
       "label": "The math",
-      "content": "$10,000 invested at 8% annual return becomes $21,589 in 10 years, $46,610 in 20 years, and $100,627 in 30 years. You put in $10k. You get back $100k. The money more than doubles every 9 years at that return rate. Time is the input. You either have it or you don't — and it starts running the moment you read this."
+      "content": "$10,000 invested at 8% annual return becomes $21,589 in 10 years, $46,610 in 20 years, and $100,627 in 30 years. You put in $10k. You get back $100k. The money more than doubles every 9 years at that rate. Time is the input. You either have it or you don't — and it starts running the moment you read this."
+    },
+    {
+      "type": "paragraph",
+      "content": "A dollar today is worth more than a dollar tomorrow. Two reasons: inflation (tomorrow's dollar buys less) and opportunity cost (today's dollar can be invested and grow). This is why compound interest is the only financial concept you absolutely need to understand. Not because Einstein said so. Because the numbers are genuinely insane, and they work for you or against you whether you're paying attention or not."
     },
     {
       "type": "divider"

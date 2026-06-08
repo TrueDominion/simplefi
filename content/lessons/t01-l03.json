@@ -3,46 +3,75 @@
   "trackId": "t01",
   "order": 3,
   "title": "Why most budgets fail — and what works instead",
-  "subtitle": "Budgets are not about restriction. They are about intention. The distinction is why most people quit.",
-  "estimatedMinutes": 8,
+  "subtitle": "The problem isn't your spending habits. It's that you're using the wrong tool.",
+  "estimatedMinutes": 7,
   "tags": ["budgeting", "behavior"],
   "body": [
     {
       "type": "paragraph",
-      "content": "The standard budget advice is to track every dollar, assign it a category, and stay within limits. This fails for most people not because it is wrong in theory, but because it treats a behavioral problem as an accounting problem. Humans are not spreadsheets."
+      "content": "A budget is not a diet. A diet fails because you're fighting biology. A budget fails because you're fighting yourself — making dozens of tiny spending decisions every day while relying on willpower to win every one of them. You will not win every one of them. Nobody does. The solution isn't more discipline. It's a better system."
     },
     {
       "type": "heading",
-      "content": "The failure modes"
+      "content": "Why willpower-based budgeting doesn't work"
+    },
+    {
+      "type": "paragraph",
+      "content": "Decision fatigue is real. Every choice depletes a limited reservoir of mental energy. By the time you've navigated a full workday, the part of your brain responsible for impulse control is running on fumes. That's when the late-night online shopping happens. That's when you say yes to the third round. A system that requires constant conscious decisions will eventually lose to the circumstances of your life."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "The problem with most budgeting apps is they make you track what already happened. That's not budgeting. That's accounting. Knowing you spent $847 on restaurants last month is interesting. It rarely changes next month's number. The actual intervention is upstream: automate savings, constrain the pool of spendable money, and stop relying on willpower."
+    },
+    {
+      "type": "heading",
+      "content": "The 50/30/20 rule — useful, not sacred"
+    },
+    {
+      "type": "paragraph",
+      "content": "50/30/20 is a simple framework: 50% of after-tax income to needs, 30% to wants, 20% to savings and debt. It's a reasonable starting point, not a law of nature. In a high cost-of-living city, 50% to needs might be impossible. Early in your career, 20% savings might require serious tradeoffs. Use it as a diagnostic — if needs eat 70%, that's a structural problem. If wants are zero, that's a sustainability problem."
     },
     {
       "type": "list",
       "items": [
-        "Too granular: tracking 22 categories creates cognitive load that collapses within two weeks.",
-        "Retrospective: reviewing spending after the fact creates guilt, not change.",
-        "No margin for variance: one unexpected expense blows the whole system.",
-        "No connection to goals: restrictions without a reason feel like punishment."
+        "50% needs: housing, utilities, food, transportation, insurance, minimum debt payments",
+        "30% wants: dining, entertainment, travel, hobbies, subscriptions you actually enjoy",
+        "20% savings: emergency fund, retirement, investing, debt above minimums",
+        "Adjust based on your actual life — the ratios are a compass, not a contract"
       ]
     },
     {
+      "type": "heading",
+      "content": "Automation is the real answer"
+    },
+    {
+      "type": "paragraph",
+      "content": "Set it up once. Forget it. This is the whole philosophy. The day after payday, money moves automatically: to your retirement account, to your savings, to your investment brokerage. What's left is what you can spend. You don't need to track every latte. You don't need categories for everything. You need the important stuff to happen without you being involved."
+    },
+    {
       "type": "callout",
-      "label": "What actually works",
-      "content": "Pay yourself first, then live on what remains. Automate savings and investment contributions at the moment income arrives — before you have the option to spend it. This removes willpower from the equation entirely."
+      "label": "The setup",
+      "content": "Paycheck hits → 401(k) contribution is already gone → auto-transfer to savings hits → auto-transfer to investing hits → what's left is your spending money. If you can pay bills from what remains, you're done. No spreadsheet required. You're running a system, not exercising willpower."
+    },
+    {
+      "type": "heading",
+      "content": "Track net worth, not transactions"
     },
     {
       "type": "paragraph",
-      "content": "The second principle that works: simplify to three buckets. Fixed commitments. Savings and investment. Everything else. You do not need 22 categories. You need to know that your committed costs are covered, your future is being funded, and the remainder is yours to spend without guilt or tracking."
+      "content": "Instead of agonizing over transactions, check your net worth once a month. One number: assets minus liabilities. Is it going up? Good. The trend is what matters, not the individual data points. A monthly net worth check takes five minutes and tells you everything the daily transaction tracking was trying to tell you — with less anxiety and more signal."
     },
     {
       "type": "paragraph",
-      "content": "Adjust the bucket sizes quarterly, not monthly. Monthly adjustments create constant friction. Quarterly adjustments allow patterns to emerge and make the system sustainable over years, not weeks."
+      "content": "The 'enough' concept matters here. At some point, your system is working. You're saving consistently. Your net worth is growing. Squeezing out one more percent of efficiency isn't going to change your life. The goal of a budget isn't optimization — it's permission to spend the rest without guilt."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A budget you abandon after three weeks is worse than no budget at all. Design for sustainability, not perfection. Automate the important decisions so your behavior cannot undermine them."
+      "content": "Stop relying on willpower. Build a system that moves money automatically before you can spend it. Track your net worth monthly, not your transactions daily. The best budget is one you barely have to think about."
     }
   ]
 }

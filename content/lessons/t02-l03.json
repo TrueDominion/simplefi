@@ -2,43 +2,68 @@
   "id": "t02-l03",
   "trackId": "t02",
   "order": 3,
-  "title": "Your risk tolerance — and why it changes",
-  "subtitle": "Risk tolerance is not a fixed personality trait. It is a function of time, circumstances, and financial structure. Understanding this protects you from yourself.",
-  "estimatedMinutes": 8,
+  "title": "Your risk tolerance — and why you probably measure it wrong",
+  "subtitle": "Most people discover their true risk tolerance during a crash. That's too late.",
+  "estimatedMinutes": 7,
   "tags": ["risk", "psychology", "behavior"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Every brokerage onboarding asks you to self-assess your risk tolerance. The problem is that most people's stated risk tolerance and their actual behavioral risk tolerance are completely different — and the gap only becomes visible when markets move against them."
-    },
-    {
-      "type": "callout",
-      "label": "The two components",
-      "content": "Risk capacity is how much risk your financial situation can actually absorb — determined by income stability, time horizon, liabilities, and liquidity. Risk appetite is how much risk you are psychologically comfortable with. Both matter. Capacity sets the ceiling. Appetite sets the floor you can realistically sustain."
+      "content": "Every brokerage questionnaire asks how you'd feel if your portfolio dropped 20%. You answer in a comfortable office or on your couch. You have never felt that drop. You're just imagining it. Then a real bear market hits and you realize: you were wrong about yourself. Your actual risk tolerance is revealed under stress, not under hypothetical conditions. That's a problem, because you made your allocation decisions before knowing your real answer."
     },
     {
       "type": "heading",
-      "content": "Why tolerance changes over time"
+      "content": "Risk tolerance vs. risk capacity: two different things"
+    },
+    {
+      "type": "paragraph",
+      "content": "Risk tolerance is your willingness to absorb loss — the psychological and emotional side. Risk capacity is your actual ability to absorb loss — the financial and practical side. Someone nearing retirement might have high risk tolerance (they've seen crashes before, they're calm) but low risk capacity (they need this money in five years and can't wait for a recovery). Someone young might have high risk capacity (decades of runway) but low risk tolerance (watching their balance drop makes them physically ill). You need to know both numbers."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Everybody is brave in a bull market. Accounts are going up, you feel smart, you want more equity exposure. Then a crash comes. The DALBAR study consistently finds that average investors underperform the market by 3-4% per year — not because they pick bad stocks, but because they sell during downturns and buy during peaks. The problem is behavioral, not analytical."
+    },
+    {
+      "type": "heading",
+      "content": "Think in dollars, not percentages"
+    },
+    {
+      "type": "paragraph",
+      "content": "Percentages are abstract. Dollars are concrete. 'I could lose 40%' feels manageable until you translate it: if your portfolio is $150,000, that's $60,000 gone. Can you look at your account, see $90,000 where $150,000 used to be, and not sell? That's the question. If the answer is no — and it's okay if it's no — your allocation needs to reflect that reality, not your theoretical bravado."
     },
     {
       "type": "list",
       "items": [
-        "Time horizon shortens: as you approach retirement or a major goal, your capacity for loss decreases. A 30% drop recoverable in 5 years is no longer recoverable in 2.",
-        "Income changes: job loss, career transition, or business stress reduces capacity even if nothing else changes.",
-        "Life events: new dependents, health changes, or major purchases shift both capacity and appetite.",
-        "Market experience: a bull market inflates stated risk appetite. A real downturn reveals true behavioral tolerance."
+        "What is the maximum dollar loss you could sustain without changing your investment plan?",
+        "Could you watch your portfolio drop to that level and hold for 2+ years during recovery?",
+        "Do you have an emergency fund so you'd never be forced to sell in a downturn?",
+        "Is your time horizon long enough to outlast a bear market? (Most are 1-3 years to recover.)"
       ]
     },
     {
+      "type": "heading",
+      "content": "Age is a proxy, not a rule"
+    },
+    {
       "type": "paragraph",
-      "content": "The practical implication is that your investment allocation should not be set once and forgotten. It should be reviewed whenever your circumstances change materially — and recalibrated honestly, not aspirationally."
+      "content": "The conventional wisdom: young people should hold mostly stocks, older people should hold more bonds. It's a reasonable heuristic, not a universal truth. A 60-year-old with a pension, Social Security, and a paid-off house might have enormous risk capacity — their portfolio is supplemental, not critical. A 30-year-old with no emergency fund, high fixed expenses, and a volatile income might have very low risk capacity. Age correlates with risk capacity. It doesn't determine it."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "The standard questionnaire asks how long until retirement, checks a few boxes, and spits out '70% stocks, 30% bonds.' That's better than nothing. But it doesn't ask whether you'd panic-sell in a crash. It doesn't ask whether your income is stable. It doesn't know that you have high fixed expenses and a small emergency fund. Take the questionnaire. Then actually think about what you'd do if your account was down $80,000."
+    },
+    {
+      "type": "paragraph",
+      "content": "The right allocation is the most aggressive one you can stick to through a bad year without selling. Not the most aggressive one you can theoretically justify. The one you'll actually hold. Because the strategy you abandon in a crash is worth nothing."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Design your portfolio for your actual risk tolerance, not your aspirational one. The right allocation is the one you can hold without panic-selling during a 30% downturn — not the one that maximizes expected return in a spreadsheet."
+      "content": "Risk tolerance is what you think you can handle. Risk capacity is what you can actually handle financially. Think in dollar terms, not percentages. The right allocation is the most aggressive one you can genuinely hold through a crash without selling."
     }
   ]
 }

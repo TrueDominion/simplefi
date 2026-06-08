@@ -4,36 +4,70 @@
   "order": 1,
   "title": "What risk actually means",
   "subtitle": "Risk is not a feeling. It is a measurable property of outcomes. Learning to define it precisely is the first step to managing it.",
-  "estimatedMinutes": 8,
+  "estimatedMinutes": 7,
   "tags": ["risk", "foundations"],
   "body": [
     {
       "type": "paragraph",
-      "content": "The word risk is used in finance to mean at least four different things: the probability of loss, the magnitude of loss, the volatility of returns, and the uncertainty of outcomes. These are related but distinct. Conflating them leads to poor decisions."
+      "content": "When most people say something is 'risky,' they mean it makes them feel nervous. Finance means something more specific. Risk is a measurable property of outcomes — a description of what might happen, how likely it is, and how bad it could get. Emotional risk tolerance is real, but it's a different thing from the math. You need to understand both."
     },
     {
       "type": "heading",
-      "content": "Risk as probability vs. risk as magnitude"
+      "content": "Four ways the word 'risk' gets used"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Probability of loss: how likely is it that you lose money at all?",
+        "Magnitude of loss: if you lose, how much could you lose?",
+        "Volatility: how much does the price swing around, even temporarily?",
+        "Uncertainty: how much do you not know about the range of outcomes?"
+      ]
     },
     {
       "type": "paragraph",
-      "content": "A 90% chance of losing $1 is a high-probability risk. A 1% chance of losing everything is a low-probability, high-magnitude risk. Treating them identically — as most intuitive risk assessments do — is a mistake. Expected value (probability multiplied by magnitude) is a more useful starting point than gut feeling."
+      "content": "These are different. A stock that swings 30% in a year but trends upward has high volatility but potentially low risk of permanent loss. A bond that pays reliably but is issued by a company teetering on bankruptcy has low volatility but high risk of complete loss. Knowing which type of risk you're dealing with changes what to do about it."
+    },
+    {
+      "type": "heading",
+      "content": "Expected value: the right way to think about probabilistic outcomes"
+    },
+    {
+      "type": "paragraph",
+      "content": "Expected value = probability × magnitude. If an investment has a 70% chance of returning $10,000 and a 30% chance of losing $5,000, the expected value is (0.7 × $10,000) + (0.3 × −$5,000) = $7,000 − $1,500 = $5,500. Positive expected value doesn't mean you can't lose — it means that if you made this bet many times, you'd come out ahead. Understanding this framework keeps you from making good-outcome-once decisions that are terrible on average."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "In financial markets, risk is most commonly measured as standard deviation of returns — how widely actual outcomes are dispersed around the average. This is volatility. High volatility means outcomes are unpredictable. It does not necessarily mean you will lose money."
+      "content": "Standard deviation is how finance measures risk mathematically. It tells you how much an investment's returns typically deviate from its average return. A stock with an average return of 10% and standard deviation of 20% means returns typically range from −10% to +30% in any given year. Higher standard deviation = more volatile = higher 'risk' in the finance definition."
+    },
+    {
+      "type": "heading",
+      "content": "Volatility is not the same as danger"
     },
     {
       "type": "paragraph",
-      "content": "The practical implication: a highly volatile investment is not automatically more dangerous than a stable one. What matters is whether the volatility occurs within a time horizon you can sustain. Volatility over a 30-year investment window is almost irrelevant. Volatility in a position you need to exit in 18 months can be catastrophic."
+      "content": "This is one of the most important distinctions in investing. Volatility — price swings — is dangerous only if your time horizon is wrong. If you need the money in two years and your investment drops 40%, that's a real problem. If you won't need the money for 25 years and it drops 40%, that's a temporary notation on a spreadsheet. The danger depends not just on the investment but on when you'll need it."
+    },
+    {
+      "type": "heading",
+      "content": "Systematic vs. unsystematic risk"
+    },
+    {
+      "type": "paragraph",
+      "content": "Unsystematic risk is company-specific risk. If you own only Apple stock and Apple has an accounting scandal, you're in trouble. This risk can be eliminated by diversifying across many companies. Systematic risk is market-wide risk — a recession, a pandemic, a financial crisis. This risk affects all companies and cannot be diversified away. You can manage it through asset allocation, but you can't make it disappear. Investing means accepting systematic risk in exchange for long-term returns."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Investors get paid to bear systematic risk. That's why stocks return more than treasury bonds over long periods — you're being compensated for accepting the possibility of a bad year. The compensation is real. So is the risk. The question is always: am I being adequately compensated for this specific risk?"
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Risk is not a single number. It is probability, magnitude, and time horizon in combination. Define all three before you evaluate any investment — and before you decide how you feel about it."
+      "content": "Risk is not a feeling — it is a measurable property of outcomes. Define it precisely: probability, magnitude, volatility, uncertainty. Volatility isn't inherently dangerous — it depends on your time horizon. Diversification eliminates company-specific risk. Systematic risk remains — and is what earns you long-term returns."
     }
   ]
 }
