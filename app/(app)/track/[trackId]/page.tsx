@@ -4,14 +4,15 @@ import { getTrackById, getLessonsForTrack } from "@/lib/content";
 import TrackDetailClient from "./TrackDetailClient";
 
 interface Props {
-  params: { trackId: string };
+  params: Promise<{ trackId: string }>;
 }
 
 export default async function TrackPage({ params }: Props) {
-  const track = getTrackById(params.trackId);
+  const { trackId } = await params;
+  const track = getTrackById(trackId);
   if (!track) notFound();
 
-  const lessons = await getLessonsForTrack(params.trackId);
+  const lessons = await getLessonsForTrack(trackId);
 
   return <TrackDetailClient track={track} lessons={lessons} />;
 }

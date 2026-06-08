@@ -11,11 +11,12 @@ import {
 import LessonPageClient from "./LessonPageClient";
 
 interface Props {
-  params: { lessonId: string };
+  params: Promise<{ lessonId: string }>;
 }
 
 export default async function LessonPage({ params }: Props) {
-  const lesson = await getLessonById(params.lessonId);
+  const { lessonId } = await params;
+  const lesson = await getLessonById(lessonId);
   if (!lesson) notFound();
 
   const track = getTrackById(lesson.trackId);
