@@ -3,41 +3,67 @@
   "trackId": "t03",
   "order": 4,
   "title": "Cash, commodities, and alternatives",
-  "subtitle": "Beyond stocks and bonds, there is a wide range of asset classes — each with distinct roles, return drivers, and portfolio implications.",
-  "estimatedMinutes": 9,
+  "subtitle": "Not every asset generates cash flow. Some just sit there and wait. Understanding which is which matters.",
+  "estimatedMinutes": 7,
   "tags": ["commodities", "alternatives", "cash"],
   "body": [
     {
       "type": "paragraph",
-      "content": "The two dominant asset classes — equities and fixed income — form the core of most portfolios. But a complete picture of investable assets includes cash and equivalents, real assets like commodities and property, and a broad category of alternatives that encompasses everything from private equity to hedge fund strategies."
+      "content": "Beyond stocks and bonds, there's a wide range of assets most people barely understand. Cash equivalents for your short-term needs. Commodities that don't generate income but store value. Real estate you can actually touch. Alternatives that mostly exist for institutions. Knowing what each does — and doesn't do — keeps you from owning them for the wrong reasons."
     },
     {
       "type": "heading",
-      "content": "Cash and equivalents"
+      "content": "Cash and cash equivalents"
     },
     {
       "type": "paragraph",
-      "content": "Cash earns little and loses purchasing power to inflation over time. But it serves irreplaceable functions: it provides optionality (the ability to deploy capital quickly when opportunities arise), liquidity (immediate access without market impact), and stability (no downside from market volatility). The cost of cash is opportunity cost. The benefit is flexibility."
+      "content": "Cash equivalents are short-term, highly liquid, very low-risk: money market funds, treasury bills, CDs, savings accounts. They belong in your emergency fund. They belong in money you'll need within a year. They belong in a portfolio as a small buffer for rebalancing. They do not belong as your primary investment vehicle for money with a long time horizon. Right now, with rates elevated, money market funds pay around 4-5% — better than they've been in 15 years, but still not a long-term growth engine."
     },
     {
       "type": "heading",
-      "content": "Commodities"
+      "content": "Commodities: scarcity, not cash flow"
     },
     {
       "type": "paragraph",
-      "content": "Commodities — oil, gold, agricultural products, metals — are real assets whose prices are driven by supply and demand dynamics that operate largely independently of financial market cycles. Gold, in particular, has historically served as a store of value during inflationary periods and geopolitical stress. Commodities add an inflation hedge component to a portfolio that equities and bonds do not reliably provide."
+      "content": "Commodities — oil, gold, agricultural products, metals — don't generate income. They don't pay dividends. They don't grow earnings. Their value comes from scarcity and utility: oil is consumed, gold is physically finite, wheat feeds people. Returns come entirely from price changes, which are driven by supply and demand. This makes commodities fundamentally different from stocks and bonds, and gives them different correlation to financial assets — often useful in an inflationary environment."
     },
     {
       "type": "callout",
-      "label": "Alternatives",
-      "content": "The alternatives category is broad and heterogeneous: private equity, venture capital, real estate investment trusts, infrastructure, hedge funds, and others. What they share is lower liquidity and higher complexity. In exchange, they often offer return streams that are less correlated to public markets — a genuine diversification benefit for investors who can tolerate the illiquidity."
+      "label": "Real talk",
+      "content": "Gold is often marketed as an inflation hedge. The evidence is mixed. Over short periods, gold can diverge wildly from inflation. Over very long periods — decades — it has roughly preserved purchasing power. But it's produced essentially zero real return above inflation historically. It's a store of value, not a growth asset. If you want some in a portfolio, a 5% allocation is defensible. 40% is speculative."
+    },
+    {
+      "type": "heading",
+      "content": "Real estate: two very different animals"
+    },
+    {
+      "type": "paragraph",
+      "content": "You can own real estate directly (buying property) or indirectly through REITs (Real Estate Investment Trusts — companies that own property portfolios and trade on exchanges like stocks). Direct ownership gives you leverage, control, and the headache of being a landlord. REITs give you real estate exposure with full liquidity, no maintenance calls at 2am, and dividends. REITs are required to distribute 90% of taxable income to shareholders. For most investors without the capital or desire to be landlords, REITs are the practical path to real estate exposure."
+    },
+    {
+      "type": "heading",
+      "content": "Alternatives: mostly not for you"
+    },
+    {
+      "type": "paragraph",
+      "content": "Private equity, hedge funds, venture capital, and similar alternatives offer diversification away from public markets — but they come with high minimums, lock-up periods (your money is inaccessible for years), and fees that would make you wince. The returns for top-quartile private equity are genuinely impressive. The average isn't. And you, as an individual investor, have no reliable way to access the top-quartile funds. The bottom-quartile ones are worse than public markets after fees."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Cash equivalents: yes, for emergency funds and short-term needs",
+        "Commodities: small allocation (5-10%) can add diversification; don't expect growth",
+        "REITs: reasonable inclusion for real estate exposure without landlord headaches",
+        "Gold: store of value, not growth — small allocation if you want it, but not required",
+        "Private equity / hedge funds: high fees, low liquidity, most people can't access the good ones"
+      ]
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Each asset class earns returns through a different mechanism and responds differently to economic conditions. A portfolio that understands this can be constructed to perform reasonably across a wide range of environments — not just in the conditions that prevailed when it was built."
+      "content": "Cash belongs in emergency funds. Commodities store value but don't grow it. REITs give you real estate exposure without the landlord headaches. Alternatives like private equity are mostly for institutions — the fees, lock-ups, and access barriers make them impractical for most individuals."
     }
   ]
 }

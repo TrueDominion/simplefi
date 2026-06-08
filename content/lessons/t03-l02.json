@@ -3,42 +3,75 @@
   "trackId": "t03",
   "order": 2,
   "title": "Equities — ownership, not speculation",
-  "subtitle": "A share of stock is a fractional ownership stake in a real business. When you buy equity, you are buying future earnings — not a price movement.",
+  "subtitle": "A share of stock is not a casino chip. It is a fractional ownership claim on a real business.",
   "estimatedMinutes": 9,
   "tags": ["equities", "ownership", "fundamentals"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Equities are misunderstood as price-movement vehicles. The media covers stocks in terms of daily moves, sentiment shifts, and momentum. But the underlying asset is simpler: when you buy a share, you own a proportional claim on the assets and future earnings of a business. The price is the market's current estimate of what that claim is worth."
+      "content": "When you buy a share of Apple, you own a tiny piece of Apple. Not the building. Not the patents on their own. A proportional share of the entire business — its earnings, its assets, its future cash flows. Most retail investors don't think this way. They think about price direction. The ones who think about businesses generally do better."
     },
     {
       "type": "heading",
-      "content": "How equity returns are generated"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Earnings growth: as a business grows its profits, the value of your ownership stake increases.",
-        "Dividends: some businesses distribute a portion of earnings directly to shareholders as cash.",
-        "Multiple expansion: markets sometimes pay more per dollar of earnings than before, increasing price independently of earnings growth.",
-        "Share buybacks: companies returning capital by purchasing their own shares, increasing the proportional value of remaining shares."
-      ]
-    },
-    {
-      "type": "callout",
-      "label": "The long-run case for equities",
-      "content": "Over periods of 15 years or more, equities have outperformed every major asset class in every major developed market. The explanation is simple: businesses are the engines of economic growth. Owning a slice of that growth over long periods compounds significantly. Volatility in the short run is the price of that compounding."
+      "content": "What actually drives stock returns"
     },
     {
       "type": "paragraph",
-      "content": "The risk in equities is real: businesses fail, industries change, and markets overprice assets at peaks. But these risks are manageable through diversification across companies, sectors, and geographies. The uncompensated risk of holding a single stock is not a position most investors should take without specific conviction and research."
+      "content": "Returns from stocks come from four places: earnings growth (the business earns more money over time), dividends (the company pays you a cut of profits directly), multiple expansion (the market decides to pay more per dollar of earnings — higher P/E), and buybacks (the company buys its own shares, making your slice of the pie bigger). Long-term, earnings growth dominates. Everything else is shorter-term noise."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "S&P 500 historical returns: roughly 10% nominal per year, roughly 7% real (inflation-adjusted), averaged over a century. Not every year — some years are down 30%, others up 30%. But over any 20-year rolling period in the index's history, returns have been positive. $10,000 invested in the S&P 500 in 1990, with dividends reinvested, is worth roughly $200,000 today. No stock picking. No market timing. Just owning the market and waiting."
+    },
+    {
+      "type": "heading",
+      "content": "Dividends: the part people underestimate"
+    },
+    {
+      "type": "paragraph",
+      "content": "Companies can return earnings to shareholders as dividends (cash deposited in your account) or buybacks (repurchasing their own shares, which increases your percentage ownership). Historically, dividends have contributed about 40% of total stock market returns over long periods. When you reinvest them automatically, you buy more shares, those shares pay more dividends, which buy more shares — a compounding loop that quietly multiplies your holdings over decades."
+    },
+    {
+      "type": "heading",
+      "content": "Large cap vs. small cap"
+    },
+    {
+      "type": "paragraph",
+      "content": "Market cap = share price × number of shares outstanding. Large cap (Apple, Microsoft, Amazon) means over $10 billion in market cap. Small cap is typically $300 million to $2 billion. Small cap stocks have historically outperformed large cap over very long periods — the small cap premium. They're also more volatile and less liquid. You're being compensated for accepting more uncertainty. Both belong in a diversified portfolio."
+    },
+    {
+      "type": "heading",
+      "content": "Growth vs. value: the endless debate"
+    },
+    {
+      "type": "paragraph",
+      "content": "Growth stocks trade at high multiples because the market expects rapid earnings growth — think high P/E ratios, often no dividends, reinvesting everything back into the business. Value stocks trade at lower multiples, either because they're in boring industries, temporarily out of favor, or genuinely cheap relative to their earnings. Over very long periods, value has outperformed growth. Over the past decade, growth has crushed value. Neither pattern is permanent. Both styles belong in a diversified equity portfolio."
+    },
+    {
+      "type": "callout",
+      "label": "Watch out",
+      "content": "The market isn't a casino if your time horizon is long enough. Over 1 year, stocks can go anywhere — a 40% loss is possible and has happened multiple times. Over 20 years, every major developed market has produced positive real returns. The volatility isn't the risk. The risk is selling during the inevitable bad years and turning a temporary paper loss into a permanent one."
+    },
+    {
+      "type": "quote",
+      "content": "The stock market is a device for transferring money from the impatient to the patient. — Warren Buffett"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is the whole lesson. Short-term price movement is mostly noise. The underlying businesses are doing the actual work — generating earnings, growing revenues, compounding value. Your job is to own that process and not disrupt it by trading in and out based on headlines."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "For the vast majority of people, buying the whole market through a low-cost index fund — accepting average market returns minus tiny fees — will outperform trying to pick individual stocks. Not because stock picking is impossible. Because markets are highly competitive, and the fees and behavioral mistakes involved in active trading eat most of the potential advantage. The boring choice is also the correct one."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Equities are not a bet on price movements. They are an ownership stake in the productive capacity of businesses. Held broadly and long enough, they are the primary driver of real wealth creation for most investors."
+      "content": "A stock is fractional ownership of a real business. Returns come from earnings growth, dividends, and buybacks. The S&P 500 has returned roughly 10% nominal per year over the long run — every crash included. The market isn't gambling if your time horizon is long enough. Patience is the strategy."
     }
   ]
 }

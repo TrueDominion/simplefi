@@ -2,46 +2,69 @@
   "id": "t04-l03",
   "trackId": "t04",
   "order": 3,
-  "title": "Rebalancing — the discipline of selling winners",
-  "subtitle": "Rebalancing feels counterintuitive. It means selling what has worked and buying what has not. That instinct is exactly why it works.",
+  "title": "Index funds — the most important financial product most people ignore",
+  "subtitle": "Owning the whole market, cheaply, beats most professional stock pickers over time.",
   "estimatedMinutes": 8,
   "tags": ["rebalancing", "discipline", "behavior"],
   "body": [
     {
       "type": "paragraph",
-      "content": "A portfolio left unmanaged drifts. If equities outperform for several years, your equity allocation grows from 60% to 75% — and your risk profile changes with it. You are now holding a more aggressive portfolio than you designed, without having made that decision explicitly. Rebalancing is the discipline of reversing that drift."
-    },
-    {
-      "type": "callout",
-      "label": "What rebalancing requires",
-      "content": "To rebalance: sell the asset classes that have outperformed and are now overweight, and buy the asset classes that have underperformed and are now underweight. This is systematically selling winners and buying laggards — which feels wrong, and is exactly right."
-    },
-    {
-      "type": "paragraph",
-      "content": "Rebalancing serves two purposes. First, it maintains your intended risk profile. Second, it is a mechanical implementation of buy-low-sell-high — the principle everyone agrees with and almost no one follows in practice. By making it systematic, you remove the emotional decision entirely."
+      "content": "An index fund tracks a market index — like the S&P 500 or the total US stock market — by holding all (or a representative sample) of its components. It doesn't try to pick winners. It owns everything proportionally. This sounds boring. It is boring. It also beats the majority of actively managed funds over long periods. The boring fund that does nothing interesting consistently outperforms the smart people trying hard. That's one of the most counterintuitive and well-documented facts in finance."
     },
     {
       "type": "heading",
-      "content": "Rebalancing approaches"
+      "content": "Active vs. passive: what the data says"
+    },
+    {
+      "type": "paragraph",
+      "content": "The S&P SPIVA scorecard tracks how actively managed funds perform against their benchmark index. Over 15 years, approximately 88% of US large-cap active funds underperform the S&P 500. That means 9 out of 10 professional fund managers, with research teams and sophisticated tools, fail to beat a simple index fund. In international and small-cap categories, the numbers are similarly dismal. This isn't because fund managers are incompetent — it's because markets are genuinely hard to beat, and fees compound against you."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "Expense ratio comparison on $100,000 over 30 years at 7% gross return: at 0.03% expense ratio (Vanguard VTI), you end with approximately $741,000. At 1.0% expense ratio (average active fund), you end with approximately $574,000. The difference is $167,000. You paid that in fees. For underperformance. The fee is the cost of someone trying — and mostly failing — to beat the market."
+    },
+    {
+      "type": "heading",
+      "content": "ETFs vs. mutual funds"
+    },
+    {
+      "type": "paragraph",
+      "content": "Index funds come in two structures. Mutual funds are priced once per day at market close and traded directly with the fund company. ETFs (exchange-traded funds) trade on exchanges throughout the day like stocks. For index investing, both work well. ETFs have slightly more tax efficiency in taxable accounts. Mutual funds are simpler for automatic contributions. For most investors, the difference is minor — pick whichever your account supports at the lowest cost."
+    },
+    {
+      "type": "heading",
+      "content": "Which specific funds to consider"
     },
     {
       "type": "list",
       "items": [
-        "Calendar rebalancing: rebalance at fixed intervals — annually or semi-annually. Simple and predictable. Slightly suboptimal because it ignores drift magnitude.",
-        "Threshold rebalancing: rebalance when an allocation drifts beyond a defined band (e.g., ±5% from target). More precise but requires active monitoring.",
-        "Contribution rebalancing: direct new contributions to underweight asset classes rather than selling. Tax-efficient and low-friction."
+        "Vanguard VTSAX / VTI: total US stock market, 0.03-0.04% expense ratio. The gold standard.",
+        "Fidelity FZROX: total US market, 0.00% expense ratio. Zero fees. Only at Fidelity.",
+        "Schwab SWTSX: total US market, 0.03% expense ratio. Available at Schwab.",
+        "Vanguard VTIAX / VXUS: international stocks, 0.07-0.08% expense ratio. For geographic diversification.",
+        "Vanguard BND / VBTLX: total US bond market, 0.03-0.05%. For fixed income allocation."
       ]
     },
     {
+      "type": "heading",
+      "content": "Total market vs. S&P 500"
+    },
+    {
       "type": "paragraph",
-      "content": "Tax implications matter. Selling appreciated assets generates taxable gains. In tax-advantaged accounts, rebalancing is frictionless. In taxable accounts, contribution-based rebalancing and tax-loss harvesting can reduce the tax cost significantly."
+      "content": "The S&P 500 holds the 500 largest US companies. A total market fund holds about 3,500-4,000 companies — adding mid-cap and small-cap stocks. Historically, the difference in returns is small. The total market fund gives you slightly more diversification and small-cap exposure. Both are perfectly reasonable choices. If your 401(k) only offers an S&P 500 fund with no total market option, the S&P 500 is fine."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "You don't need to make this complicated. A single total market index fund in a tax-advantaged account, contributed to consistently, will outperform most portfolios most investors build with individual stocks, sector funds, and actively managed products. The complexity isn't the point. The consistency and low cost are the point."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Rebalancing is how you maintain the portfolio you designed rather than living with the portfolio your returns happened to create. It requires discipline precisely because it contradicts the emotional pull to hold winners and avoid losers."
+      "content": "Over 15 years, 88% of active funds underperform their benchmark index. Index funds win by charging almost nothing and owning everything. Keep expenses below 0.10%. VTSAX, VTI, FZROX — pick one. Contribute consistently. Leave it alone."
     }
   ]
 }

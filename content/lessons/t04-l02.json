@@ -2,43 +2,69 @@
   "id": "t04-l02",
   "trackId": "t04",
   "order": 2,
-  "title": "Asset allocation as a decision, not a formula",
-  "subtitle": "There is no universally correct asset allocation. There is only the allocation that is correct for your circumstances at this stage of your life.",
-  "estimatedMinutes": 9,
+  "title": "Asset allocation — the decision that drives 90% of your returns",
+  "subtitle": "How you split your money between asset classes matters more than which specific assets you pick.",
+  "estimatedMinutes": 8,
   "tags": ["allocation", "decision-making"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Rules of thumb for asset allocation — 60/40, 100 minus your age in bonds — are starting points, not answers. They are useful for illustrating a principle (as you age, reduce risk) but they ignore the variables that actually determine the right allocation for any individual: income stability, time horizon, liabilities, existing assets, and behavioral risk tolerance."
+      "content": "Research by Brinson, Hood, and Beebower (1986 — still the most cited paper in portfolio management) found that asset allocation explains roughly 90% of long-term portfolio return variance. Not stock selection. Not market timing. Not manager skill. The decision of how to split your money between stocks, bonds, and cash drives most of your outcome. Everything else is noise."
     },
     {
       "type": "heading",
-      "content": "The variables that determine your allocation"
+      "content": "The classic models"
     },
     {
       "type": "list",
       "items": [
-        "Time horizon: longer horizons can absorb more volatility and should hold more equities. Shorter horizons demand more stability.",
-        "Income stability: a tenured professional with predictable income can treat their future earnings as a bond-like asset, supporting a more equity-heavy portfolio. A self-employed person with variable income may need more portfolio stability to compensate.",
-        "Liability structure: significant near-term obligations (mortgage, education, care costs) reduce investable capital and increase the need for liquidity.",
-        "Existing wealth: high accumulated wealth relative to expected future needs supports taking less risk — the goal of preservation matters more than growth."
+        "100% equities: maximum long-term growth. Maximum volatility. Right for long time horizons and high risk tolerance.",
+        "80/20 (stocks/bonds): still aggressive. Bonds provide a small cushion in downturns. 20-40 year horizon.",
+        "60/40: the traditional balanced portfolio. Lower returns than 100% equity over long periods, meaningfully lower volatility.",
+        "40/60: conservative. Appropriate when you're within 10 years of needing the money or have low risk capacity.",
+        "100% bonds/cash: capital preservation. Appropriate for short horizons or very specific needs. Not for long-term wealth building."
       ]
     },
     {
       "type": "callout",
-      "label": "The allocation decision process",
-      "content": "Start with your goals. Derive the return you need to meet them. Find the lowest-risk portfolio that can reasonably deliver that return over your time horizon. Do not reach for more risk than required — there is no reward for unnecessary risk-taking."
+      "label": "The math",
+      "content": "From 1926 to 2022: 100% stocks averaged ~10.3% annually with a worst single year of −43%. 60/40 averaged ~8.8% with a worst single year of −26%. 100% bonds averaged ~5.3% with minimal volatility. The cost of safety is real — over 30 years, the compounding difference between 10.3% and 8.8% is enormous. A $100k investment at 10.3% for 30 years = $1.98M. At 8.8% = $1.22M. That $760k difference is the 'price' of the 40% bond allocation."
+    },
+    {
+      "type": "heading",
+      "content": "Time horizon drives allocation"
     },
     {
       "type": "paragraph",
-      "content": "Revisit allocation decisions at major life transitions: career change, marriage, children, inheritance, approaching retirement. The right allocation at 35 is not the right allocation at 55 — not because the rules changed, but because your circumstances did."
+      "content": "The longer your horizon, the more equity you can hold. Why? Because volatility averages out over time. The chance of losing money over any 1-year period in the S&P 500 historically is about 25%. Over any 10-year period: roughly 6%. Over any 20-year period: close to 0%. Time is literally what makes equities safe — or at least safer. The further away you are from needing the money, the more you can tolerate short-term swings."
+    },
+    {
+      "type": "heading",
+      "content": "Target-date funds: the boring answer that actually works"
+    },
+    {
+      "type": "paragraph",
+      "content": "A target-date fund does one thing: it automatically shifts your allocation from aggressive (mostly stocks) to conservative (more bonds) as you approach your retirement year. You pick the fund matching your expected retirement year — Vanguard Target Retirement 2050, for example — and it handles the rest. No rebalancing. No decisions. Automatically more conservative as you age. For most people with 401(k)s and no desire to manage their own allocation, target-date funds are genuinely excellent."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "People agonize over whether to hold 70% or 75% in equities. The difference over 30 years is real but small compared to: whether they invest consistently, whether they panic-sell in crashes, whether they pay high fees, and whether they start early. Get to a reasonable allocation, stick with it through downturns, minimize fees, and invest consistently. That beats worrying about the last 5% of allocation optimization."
+    },
+    {
+      "type": "heading",
+      "content": "Why the exact allocation matters less than having one"
+    },
+    {
+      "type": "paragraph",
+      "content": "70/30 vs. 80/20 will produce different results over time, but both are reasonable for most people with long time horizons. The key is having a stated allocation and maintaining it. An investor who picks 80/20 and sticks with it through crashes will dramatically outperform an investor who starts at 80/20, panics to 20/80 in a crash, waits to feel safe, and shifts back to 80/20 at the top. The allocation matters. The discipline to hold it matters more."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Asset allocation is the most important investment decision you will make. It should be derived from your specific circumstances — not from a rule of thumb that knows nothing about your life."
+      "content": "Asset allocation explains most of your long-term return. Pick a reasonable split based on your time horizon and risk tolerance. Target-date funds automate this beautifully. The exact allocation matters less than having one and actually holding it through downturns."
     }
   ]
 }

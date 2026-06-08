@@ -3,42 +3,68 @@
   "trackId": "t03",
   "order": 5,
   "title": "How asset classes behave relative to each other",
-  "subtitle": "The relationships between asset classes are not static. They shift with economic regimes. Understanding this is the basis of all serious portfolio construction.",
-  "estimatedMinutes": 9,
+  "subtitle": "Owning different things only helps if those things don't all crash at the same time.",
+  "estimatedMinutes": 7,
   "tags": ["correlation", "economic cycles", "allocation"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Asset classes do not exist in isolation. Their interactions — specifically their correlations — determine how a portfolio behaves as a whole. And those correlations are not fixed constants. They shift with the economic environment, which means a portfolio built for one regime may underperform dramatically in another."
-    },
-    {
-      "type": "callout",
-      "label": "The four economic regimes",
-      "content": "A useful framework: rising growth with low inflation (equities and credit outperform), rising growth with rising inflation (real assets and equities outperform), falling growth with low inflation (government bonds and cash outperform), falling growth with rising inflation — stagflation — (commodities and real assets outperform, most financial assets struggle)."
-    },
-    {
-      "type": "paragraph",
-      "content": "The equity-bond correlation is the most important relationship to understand. For most of the 1990s and 2000s, equities and bonds were negatively correlated in stress periods — bonds rose when equities fell, providing portfolio protection. During inflationary environments, this relationship can break down: both equities and bonds fall simultaneously, eliminating the hedge. This occurred in 2022."
+      "content": "Owning multiple asset classes only reduces risk if they don't all fall at once. That's the whole point. The mathematical measure of how much two assets move together is correlation — and understanding it changes how you think about building a portfolio. It's not about what you own. It's about how the things you own relate to each other."
     },
     {
       "type": "heading",
-      "content": "Practical implications"
+      "content": "Correlation in plain English"
+    },
+    {
+      "type": "paragraph",
+      "content": "Correlation ranges from −1 to +1. A correlation of +1 means two assets move in perfect lockstep — when one goes up 5%, the other goes up 5%. −1 means perfect inverse — one goes up 5%, the other goes down 5%. 0 means no relationship. In real portfolios, correlations are always somewhere in between and they change over time. The useful target: combine assets with correlations closer to 0 or negative, so when one falls, the other doesn't necessarily follow."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Stocks and long-term US Treasury bonds have historically had a negative or near-zero correlation. When stocks fall sharply (typically during recessions), the Fed often cuts rates, which causes bond prices to rise. This is why the classic 60/40 portfolio (60% stocks, 40% bonds) has worked so well for decades — the two assets partially offset each other. You give up some equity upside in exchange for meaningfully smoother overall returns."
+    },
+    {
+      "type": "heading",
+      "content": "How different pairs of asset classes correlate"
     },
     {
       "type": "list",
       "items": [
-        "No single portfolio is optimal across all economic regimes.",
-        "Correlations that held for decades can change when the underlying economic environment changes.",
-        "Real diversification means owning assets whose return drivers — not just their historical prices — are genuinely different.",
-        "The most resilient portfolios are built to perform across regimes, not to maximize returns in the most likely regime."
+        "US stocks vs. US bonds: typically negative or low — the classic diversifier pairing",
+        "US stocks vs. international stocks: positive but not perfect — geographic diversification helps",
+        "US stocks vs. gold: low/slightly negative — gold sometimes holds up in equity crashes",
+        "US stocks vs. real estate (REITs): moderate positive — both respond to economic growth",
+        "US stocks vs. commodities: low — commodities often benefit from inflation that hurts stocks"
       ]
+    },
+    {
+      "type": "heading",
+      "content": "Correlations change — especially in crises"
+    },
+    {
+      "type": "paragraph",
+      "content": "The problem: correlations that look stable in normal times tend to converge toward 1 during a financial crisis. When liquidity dries up and panic spreads, investors sell everything. 2008 showed this clearly — correlations between almost all risk assets spiked dramatically as the crisis deepened. The diversification benefit you counted on was smaller when you needed it most. This doesn't make diversification useless — it's still far better than concentration — but it should temper expectations about what it can guarantee."
+    },
+    {
+      "type": "heading",
+      "content": "The practical portfolio implication"
+    },
+    {
+      "type": "paragraph",
+      "content": "When building a portfolio, don't just ask 'does this asset have good returns?' Ask 'how does this asset behave relative to what I already own?' Adding a second tech stock to a portfolio of tech stocks does almost nothing for diversification — they're highly correlated. Adding bonds, international equities, or REITs to a US equity portfolio adds meaningfully different behavior. The goal is a portfolio where not everything breaks at the same time."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "In 2022, the stock-bond correlation briefly flipped positive — both fell simultaneously as inflation spiked and the Fed aggressively hiked rates. It was the worst year for the 60/40 portfolio in decades. The relationship that had held for 40 years briefly broke down. This is a feature of reality: correlations are not laws. They're patterns. Useful patterns — but not guarantees."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "The goal of multi-asset portfolio construction is not to predict which regime comes next. It is to build a portfolio that survives and compounds across all of them. That requires understanding not just what assets do, but how they interact."
+      "content": "Diversification works through low or negative correlation between assets. Stocks and bonds have historically been the classic inverse pair. In crises, correlations converge — everything falls together. This doesn't invalidate diversification, it just means you can't count on it as a crisis shield. It works over full market cycles, not just the bad days."
     }
   ]
 }

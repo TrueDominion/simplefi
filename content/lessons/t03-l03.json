@@ -3,37 +3,68 @@
   "trackId": "t03",
   "order": 3,
   "title": "Fixed income — lending, not saving",
-  "subtitle": "Bonds are loans. When you buy one, you are a creditor. Understanding this reframes what you expect, what you earn, and what can go wrong.",
-  "estimatedMinutes": 8,
+  "subtitle": "When you buy a bond, you are not investing in a company. You are lending money to one.",
+  "estimatedMinutes": 7,
   "tags": ["fixed income", "bonds", "interest rates"],
   "body": [
     {
       "type": "paragraph",
-      "content": "A bond is a loan. When a government or company issues a bond, they are borrowing money from investors and promising to return it with interest. As a bond investor, you are a lender — not an owner. That distinction changes your return profile entirely: you get a fixed income stream and your principal back, but you do not participate in upside if the borrower prospers."
-    },
-    {
-      "type": "callout",
-      "label": "Bond mechanics",
-      "content": "A bond has three key parameters: face value (the principal amount returned at maturity), coupon (the periodic interest payment expressed as a percentage of face value), and maturity (when the principal is repaid). The yield is the actual return you earn given the price you paid — which may differ from the coupon if you bought the bond at a premium or discount."
-    },
-    {
-      "type": "paragraph",
-      "content": "The most important and least intuitive fact about bonds: their price moves inversely to interest rates. When rates rise, existing bond prices fall. When rates fall, existing bond prices rise. This is arithmetic: if you hold a bond paying 3% and new bonds are issued at 5%, your 3% bond is worth less to any potential buyer. The market adjusts price to equalize yields."
+      "content": "Bonds are loans. When you buy a bond, you're the bank. You lend money to a government or company, they agree to pay you interest at a fixed rate for a fixed period, and at the end they return your principal. Simple concept. But the mechanics — especially the price-rate relationship — trip up most investors."
     },
     {
       "type": "heading",
-      "content": "The role of fixed income in a portfolio"
+      "content": "The anatomy of a bond"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Face value (par value): the amount you'll receive back at maturity — typically $1,000",
+        "Coupon rate: the annual interest rate paid on face value (e.g., 5% = $50/year on a $1,000 bond)",
+        "Maturity: when you get your principal back — could be 2 years or 30 years",
+        "Yield to maturity (YTM): the total return you'd get if you held the bond to maturity — accounts for price differences from par",
+        "Credit rating: an assessment of how likely the borrower is to repay — from AAA (safest) to D (in default)"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Why bond prices move opposite to interest rates"
     },
     {
       "type": "paragraph",
-      "content": "Bonds serve three purposes: income generation, capital preservation, and portfolio ballast. In environments where equities fall sharply, high-quality government bonds often rise — providing a counterweight. This negative correlation with equities in stress environments is what makes fixed income a portfolio stabilizer, not just a return source."
+      "content": "This is the relationship that confuses everyone. When interest rates rise, existing bond prices fall. Here's why in plain English: suppose you own a bond paying 3% interest. Then rates rise and new bonds are issued at 5%. Your bond now looks terrible — it pays less than what you can get from a new one. To sell your bond, you'd have to sell it at a discount. The price falls until the yield on your bond matches what new bonds are paying. When rates fall, the reverse happens — your old bond paying 3% looks great when new bonds only pay 1%, so it trades at a premium."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Duration measures how sensitive a bond's price is to interest rate changes. A bond with duration 7 will fall roughly 7% in price for every 1% rise in interest rates. Long-duration bonds (30-year treasuries) are far more sensitive than short-duration bonds (2-year treasuries). In rising rate environments, long bonds can lose substantial value — which is why '30-year government bonds' isn't automatically a safe investment."
+    },
+    {
+      "type": "heading",
+      "content": "Credit risk: investment grade vs. high yield"
+    },
+    {
+      "type": "paragraph",
+      "content": "Credit risk is the risk that the borrower doesn't pay you back. Investment grade bonds (rated BBB or higher) are issued by solid companies and governments — low default risk. High yield bonds (below BBB, sometimes called junk bonds) come from riskier companies. They pay higher interest rates to compensate for the higher chance of default. Higher yield always signals higher risk — in bonds, there's no such thing as free extra return."
+    },
+    {
+      "type": "heading",
+      "content": "What bonds actually do in a portfolio"
+    },
+    {
+      "type": "paragraph",
+      "content": "Bonds are not there to make you rich. They're there to reduce volatility, provide income, and ideally hold their value (or gain) when stocks fall. In most recessions, the Fed cuts interest rates — which causes existing bonds to rise in value. So bonds tend to cushion a stock portfolio during downturns. Not perfectly. But enough to matter. That's the diversification value — not the yield, but the low correlation to equities."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "In 2022, something unusual happened: stocks and bonds both crashed simultaneously, breaking the typical pattern. Rising rates crushed long-duration bonds while also hammering stock valuations. It was a reminder that the stock-bond correlation isn't always negative — and that in inflationary environments, bonds don't necessarily protect you. Historical patterns are reliable until they're not."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Fixed income is not a synonym for safe. It carries credit risk, interest rate risk, and inflation risk. What it provides is predictable income and, for high-quality government bonds, a reliable counterbalance to equity volatility."
+      "content": "A bond is a loan you make. Your return is the interest. When rates rise, existing bond prices fall — and vice versa. Duration measures that sensitivity. Bonds in a portfolio provide stability and diversification against equity risk, not returns. Know why you own them."
     }
   ]
 }
