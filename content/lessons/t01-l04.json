@@ -4,40 +4,75 @@
   "order": 4,
   "title": "The difference between saving and investing",
   "subtitle": "These are not the same activity with different return rates. They serve fundamentally different purposes.",
-  "estimatedMinutes": 8,
+  "estimatedMinutes": 7,
   "tags": ["foundations", "investing", "saving"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Saving and investing are often treated as a spectrum — saving on the conservative end, investing on the aggressive end. This framing is wrong. They are different tools for different jobs, and confusing them is one of the most common and costly financial mistakes people make."
+      "content": "Saving and investing are not the same thing. People use the words interchangeably, which leads to real mistakes. Saving is for money you might need soon. Investing is for money you won't need for years. Using the wrong tool for the job either leaves you exposed to risk you can't afford, or leaves you with returns you shouldn't have missed."
+    },
+    {
+      "type": "heading",
+      "content": "What saving actually is"
+    },
+    {
+      "type": "paragraph",
+      "content": "Saving means preserving capital with minimal risk. It's money you keep accessible, in safe places, earning modest returns. The goal is not to grow wealth — it's to not lose it. You save for your emergency fund. You save for the car you're buying next year. You save for the down payment you'll need in three years. The defining feature: you might need this money soon, and you can't afford to watch it drop 30%."
     },
     {
       "type": "callout",
-      "label": "The core distinction",
-      "content": "Saving is the preservation of capital for near-term needs. Investing is the deployment of capital for long-term growth. The time horizon is the variable that determines which tool is appropriate — not your personality, your risk tolerance, or your income level."
+      "label": "Where to save",
+      "content": "High-yield savings accounts currently pay 4-5% APY. That's not investing — it's still just saving — but it beats the 0.01% at traditional banks by a factor of 400. Ally, Marcus, and similar banks offer FDIC-insured accounts at these rates. If your emergency fund is sitting in a big bank savings account earning nothing, you're leaving money on the table every single day."
     },
     {
       "type": "heading",
-      "content": "When to save"
+      "content": "The emergency fund: boring on purpose"
     },
     {
       "type": "paragraph",
-      "content": "Savings belong in liquid, low-risk accounts. High-yield savings accounts, money market funds, short-term government securities. You save for things you will need within three to five years: an emergency fund covering three to six months of expenses, a house down payment, a planned major purchase. The goal is accessibility and stability — not growth."
+      "content": "Three to six months of living expenses in cash. That's it. Liquid. Boring. Not invested. This is your financial immune system — it keeps a job loss, car repair, or medical bill from becoming a catastrophe that forces you to raid your investments at the worst possible time. Before you invest a dollar, build this. It is not optional. It is the foundation everything else sits on."
     },
     {
       "type": "heading",
-      "content": "When to invest"
+      "content": "What investing actually is"
     },
     {
       "type": "paragraph",
-      "content": "Investing is for capital you will not need for at least five years, and ideally longer. The longer your time horizon, the more volatility you can tolerate, because short-term fluctuations become statistically irrelevant over decades. Putting money into equities that you will need in 18 months is not investing — it is speculating with necessary capital."
+      "content": "Investing means deploying capital with the expectation of real growth over time — accepting some volatility in exchange for returns that meaningfully exceed inflation. The key constraint: money you invest should not be money you'll need in the next five years. Markets fluctuate. Sometimes violently. If you might need to sell in three years, you might need to sell at exactly the wrong moment."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "$500 per month invested at 8% annual return: after 10 years = $91,000. After 20 years = $294,000. After 30 years = $679,000. You contributed $180,000 total. The other $499,000 is compound growth. This is why starting matters more than the amount. The person who starts at 25 and stops at 35 will often end up with more than the person who starts at 35 and never stops."
+    },
+    {
+      "type": "heading",
+      "content": "The time horizon rule"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Under 1 year: savings account or money market fund — don't touch this with investments",
+        "1-3 years: high-yield savings, CDs, short-term bonds — still mostly preserve capital",
+        "3-5 years: gray zone — maybe a conservative mix, but err toward caution",
+        "Over 5 years: this is investing territory — broad market index funds make sense here",
+        "Over 20 years: time is your asset — you can weather downturns and let compounding work"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "The danger of over-saving in cash"
+    },
+    {
+      "type": "paragraph",
+      "content": "There's a failure mode on the other side of this: keeping too much in cash out of caution or inertia. Money that should be invested — for retirement 25 years away — sitting in a savings account at 4% while inflation runs at 3% is barely breaking even in real terms. Over long time horizons, the riskiest thing is not having enough equities. That's a slow-motion crisis that doesn't announce itself until retirement."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Before you invest a dollar, ask when you will need it. If the answer is within five years, it belongs in savings. Time horizon determines tool — everything else follows from that."
+      "content": "Save for what you'll need within five years. Invest for everything else. Build a fully-funded emergency fund first — three to six months of expenses, liquid, boring. Then invest aggressively in low-cost index funds and let time do the work."
     }
   ]
 }

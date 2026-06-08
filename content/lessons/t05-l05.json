@@ -3,41 +3,77 @@
   "trackId": "t05",
   "order": 5,
   "title": "When to buy, when to hold, when to sell",
-  "subtitle": "Buying is one decision. Holding and selling are separate decisions with different criteria. Most investors conflate them — to their detriment.",
-  "estimatedMinutes": 9,
+  "subtitle": "Most investing mistakes happen at the buy and sell points. The hold decision is usually the right one.",
+  "estimatedMinutes": 8,
   "tags": ["decision-making", "selling", "discipline"],
   "body": [
     {
       "type": "paragraph",
-      "content": "The investment decision is not a single event — it is a continuous process. The decision to buy is only the beginning. Holding is a decision you re-make every day you do not sell. Selling requires its own criteria, separate from the ones that justified the original purchase. Conflating all three leads to the most common investment errors."
+      "content": "The buy decision gets all the attention. What to own, at what price, why. But for long-term investors, the hold decision and the sell decision drive more of the outcome. Most investors sell too early when things are going well, and sell at the worst possible moment when things are going badly. Getting the sell decision right is hard. Understanding what it should be based on makes it less arbitrary."
     },
     {
       "type": "heading",
-      "content": "When to buy"
+      "content": "When to buy: three conditions"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Valuation: the price makes sense relative to what the business is worth and its growth prospects",
+        "Quality: the business has durable competitive advantages, strong management, and solid financials",
+        "Position sizing: you're not betting the farm — this position size won't destroy you if you're wrong"
+      ]
     },
     {
       "type": "paragraph",
-      "content": "Buy when you have a reasoned estimate of intrinsic value, the market price is below that estimate by a sufficient margin of safety, and you understand why the market is mispricing the asset. Buying without these three conditions is speculation — it may work, but it is not analysis."
+      "content": "For index fund investors, buy when you have money to invest — the valuation question is largely handled by owning the whole market, and position sizing is handled by diversification. For individual stocks, all three conditions matter. Buying a great business at a terrible price is still a bad investment."
     },
     {
       "type": "heading",
-      "content": "When to hold"
+      "content": "When to hold: has the thesis changed?"
     },
     {
       "type": "paragraph",
-      "content": "Hold when the original thesis remains intact and the price has not reached your estimate of fair value. Hold also when the business is compounding well even if the stock has risen, because a great business at fair value may still be a better holding than the alternatives available. Holding requires periodic reconfirmation of the thesis — not passive inertia."
+      "content": "Before buying anything, write down why. What is the thesis — the reason this investment should do well? Then, when you're tempted to sell, ask one question: has the thesis changed? If no — the business is intact, the competitive position is intact, the original reasons still apply — hold. Don't sell because the price went down. Don't sell because a commentator on TV said something scary. Don't sell because you read a bearish article. Sell when the thesis changes, not when the price does."
+    },
+    {
+      "type": "heading",
+      "content": "Three valid reasons to sell"
+    },
+    {
+      "type": "list",
+      "items": [
+        "The thesis has broken: something fundamental about the business has changed — competition destroyed the moat, management misallocated capital, the industry is declining",
+        "Better opportunity: a clearly superior investment exists and you need capital to fund it (high bar — rebalancing or trimming, not panic)",
+        "You need the cash: life happens — planned liquidity needs are a legitimate reason to sell"
+      ]
     },
     {
       "type": "callout",
-      "label": "When to sell",
-      "content": "Sell when: the original thesis is broken (the business has changed, not just the price), the price has reached or significantly exceeded your estimate of intrinsic value, a clearly superior opportunity exists and capital must be reallocated, or your portfolio position size has grown to a concentration that exceeds your risk tolerance. Do not sell because the price fell. That is not a reason — it is a reaction."
+      "label": "Watch out",
+      "content": "Two reasons people think are valid but aren't: selling because the price dropped (that's reacting to volatility, not to business change), and selling because of scary news (news creates noise, not signal, most of the time). The most common investing mistake is confusing market noise with business reality."
+    },
+    {
+      "type": "heading",
+      "content": "Position sizing: never 40% in one stock"
+    },
+    {
+      "type": "paragraph",
+      "content": "Conviction and concentration are different. You can be highly confident in a business without betting 40% of your portfolio on it — because even highly confident investors are wrong sometimes. A 5-10% position in a stock you believe in strongly is reasonable. A 30%+ position requires a level of certainty that's almost never justified in public markets where information is widely available and priced quickly. Large concentrations feel great when they work. They're catastrophic when they don't."
+    },
+    {
+      "type": "heading",
+      "content": "The psychological traps"
+    },
+    {
+      "type": "paragraph",
+      "content": "Loss aversion: we feel losses twice as intensely as equivalent gains. This causes investors to hold losing positions too long ('it'll come back') and sell winners too early ('lock in the gain'). Both impulses are often wrong. Anchoring: you bought at $80, now it's $50. The $80 purchase price has no bearing on what it's worth now or what it'll be worth. The price doesn't know what you paid. FOMO: you see something doubling and feel compelled to buy. This is typically a signal to wait, not to act."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Buying, holding, and selling each require their own criteria. Write them down before you invest. Apply them mechanically when the moment arrives. The investors who struggle most are the ones who make all three decisions by feeling rather than by framework."
+      "content": "Buy when valuation, quality, and position size all make sense. Hold when the thesis hasn't changed. Sell only when: the thesis breaks, a clearly better opportunity exists, or you need the cash. Never sell because the price dropped or because news scared you. The hold decision is usually the right one."
     }
   ]
 }

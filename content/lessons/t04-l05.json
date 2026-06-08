@@ -2,43 +2,69 @@
   "id": "t04-l05",
   "trackId": "t04",
   "order": 5,
-  "title": "Building a portfolio that matches your life",
-  "subtitle": "The best portfolio is not the one with the highest expected return. It is the one you can hold, maintain, and adapt as your life changes.",
-  "estimatedMinutes": 9,
+  "title": "Rebalancing — the discipline that compounds",
+  "subtitle": "Your portfolio will drift from its target allocation over time. Correcting it is one of the few free lunches in investing.",
+  "estimatedMinutes": 7,
   "tags": ["portfolio", "life planning", "sustainability"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Portfolio theory often abstracts away from the person holding the portfolio. The optimal allocation on a mean-variance frontier looks clean on paper. But the investor has a job, a family, a mortgage, a psychological history with money, and a life that will change in ways they cannot predict. The best portfolio accounts for all of this."
+      "content": "You set your target allocation: 80% stocks, 20% bonds. A few years pass. Stocks have a great run. Now your portfolio is 90% stocks, 10% bonds. You're carrying more risk than you intended, without having made a conscious decision to do so. Rebalancing is the process of selling what's grown and buying what's lagged — restoring your target allocation. It feels counterintuitive. It's actually one of the few systematic ways to buy low and sell high."
     },
     {
       "type": "heading",
-      "content": "The portfolio across life stages"
+      "content": "Why rebalancing works"
+    },
+    {
+      "type": "paragraph",
+      "content": "Rebalancing forces you to sell assets that have outperformed and buy assets that have underperformed. This is the definition of buying low and selling high — without requiring any prediction of which way markets will move. When stocks have a great year and you rebalance back to your target, you're trimming equities at elevated prices and adding to bonds at depressed ones. When stocks crash and you rebalance, you're buying equities at discounted prices. Systematic, emotion-free, and historically rewarding."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Studies vary, but rebalancing a 60/40 portfolio annually has historically produced slightly better risk-adjusted returns than a drifting portfolio — with meaningfully lower volatility. The excess return isn't huge — maybe 0.2-0.5% per year — but the risk reduction is substantial. You're consistently being paid to maintain discipline."
+    },
+    {
+      "type": "heading",
+      "content": "How often to rebalance"
     },
     {
       "type": "list",
       "items": [
-        "Early career (20s–30s): long time horizon, growing income, relatively low assets. High equity allocation appropriate. Focus on contribution rate above all else — the amount you invest matters more than allocation at this stage.",
-        "Mid career (30s–50s): peak earning years, accumulating assets, potentially more complex liabilities. Allocation begins to matter more. Revisit risk tolerance honestly.",
-        "Pre-retirement (50s–60s): sequence-of-returns risk becomes relevant. A major market downturn just before retirement is far more damaging than one 20 years earlier. Begin moderating risk.",
-        "Retirement: the portfolio must now generate income without running out. Asset allocation, withdrawal rate, and longevity risk all interact."
+        "Annual rebalancing: simple, tax-efficient, works well for most investors",
+        "Threshold-based rebalancing: rebalance when any asset class drifts more than 5% from target",
+        "Both: check annually AND rebalance if thresholds are exceeded — most disciplined approach",
+        "Quarterly: more frequent than necessary for most portfolios, creates more tax events",
+        "Daily: the domain of algorithms, not humans — don't do this manually"
       ]
     },
     {
-      "type": "callout",
-      "label": "The simplest complete portfolio",
-      "content": "For most people, a three-fund portfolio — total domestic equity index fund, total international equity index fund, and total bond market index fund — in proportions that match their risk tolerance and time horizon, implemented at low cost, is more than sufficient. Complexity adds friction without reliably adding return."
+      "type": "heading",
+      "content": "Tax-smart rebalancing"
     },
     {
       "type": "paragraph",
-      "content": "The portfolio you build should answer four questions clearly: What is it for? When will you need it? How much volatility can you tolerate without changing your behavior? And what would you do if it fell 30% tomorrow? If those answers are clear, the portfolio almost designs itself."
+      "content": "In tax-advantaged accounts (401k, IRA), rebalancing is free — no capital gains taxes on trades inside these accounts. Do your rebalancing there first. In taxable accounts, selling winners creates taxable gains. A smarter approach: rebalance by directing new contributions to the underweight asset class. Instead of selling what's grown, just buy more of what's lagged until the allocation is restored. This preserves your gains from taxation while achieving the same result."
+    },
+    {
+      "type": "heading",
+      "content": "Why most people don't do it"
+    },
+    {
+      "type": "paragraph",
+      "content": "Rebalancing feels wrong. After a year where stocks are up 30%, selling some to buy bonds feels like leaving money on the table. After stocks crash, buying more equities with your bond proceeds feels like catching a falling knife. Both feelings are wrong. That discomfort is the evidence that you're doing it right — systematic rebalancing works precisely because it forces you to act opposite to your emotional instincts."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Target-date funds handle rebalancing automatically. If you're in one, you're already done — this entire lesson is handled for you. If you manage your own allocation, put an annual calendar reminder to rebalance. One day a year. The rest of the time, do nothing. The portfolio should mostly run itself."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "The optimal portfolio is not a mathematical abstraction. It is the one that achieves your goals, survives your life, and does not require you to override it when markets test you. Design for durability, not for peak performance."
+      "content": "Rebalancing restores your target allocation by trimming winners and adding to laggards. It forces systematic buy-low-sell-high behavior without any prediction. Rebalance annually, or when allocation drifts 5%+. Do it in tax-advantaged accounts first. If you're in a target-date fund, it's already done."
     }
   ]
 }

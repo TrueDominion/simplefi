@@ -3,41 +3,72 @@
   "trackId": "t02",
   "order": 5,
   "title": "Diversification — what it actually does",
-  "subtitle": "Diversification is not about owning more things. It is about owning things that do not move together. The distinction changes how you build a portfolio.",
-  "estimatedMinutes": 9,
+  "subtitle": "It's not about owning a lot of things. It's about owning the right combination of things.",
+  "estimatedMinutes": 7,
   "tags": ["diversification", "correlation", "portfolio"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Owning 50 technology stocks is not diversification. Owning stocks, bonds, real estate, and international equities might be. The defining variable is not quantity — it is correlation. Assets that move together in the same direction provide no protection when the direction is down."
-    },
-    {
-      "type": "callout",
-      "label": "The mechanics",
-      "content": "When two assets are perfectly correlated (correlation = 1), they move identically. Owning both adds no risk reduction. When two assets are uncorrelated (correlation = 0) or negatively correlated (correlation = -1), combining them reduces the portfolio's overall volatility without necessarily reducing expected return. This is the only free lunch in finance."
+      "content": "Diversification doesn't mean owning a lot of things. It means owning things that don't all crash at the same time. You could own 500 tech stocks and be completely undiversified — they'll all get hit the same way when rates rise or the sector falls. The relevant question isn't how many holdings you have. It's how they relate to each other."
     },
     {
       "type": "heading",
-      "content": "What diversification does and does not eliminate"
+      "content": "Correlation: the math behind diversification"
+    },
+    {
+      "type": "paragraph",
+      "content": "Correlation measures how much two assets move together. It ranges from −1 to +1. A correlation of +1 means they move in perfect lockstep. −1 means they move in perfect opposite directions. 0 means they're unrelated. The magic of diversification comes from combining assets with low or negative correlation — when one zigs, the other zags. The result: a portfolio that's smoother than its individual parts."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Adding a low-correlation asset to a portfolio can reduce overall volatility without meaningfully reducing expected return. That's the free lunch of diversification — not guaranteed profits, but a better risk-adjusted return. You get similar expected gains with less turbulence. This is why bonds in a portfolio aren't just about returns — they're about smoothing the ride."
+    },
+    {
+      "type": "heading",
+      "content": "How much diversification is enough?"
+    },
+    {
+      "type": "paragraph",
+      "content": "Research shows that most of the benefits of diversification within a stock portfolio are captured by holding 20-30 uncorrelated stocks. Beyond 50, the marginal benefit is minimal. Beyond 200, you've essentially replicated the index — you might as well just buy the index at lower cost. This is one reason why broad index funds like the S&P 500 or total market funds make so much sense: they give you full diversification for practically nothing."
     },
     {
       "type": "list",
       "items": [
-        "Eliminates: idiosyncratic risk — the risk specific to a single company, sector, or geography.",
-        "Reduces: overall portfolio volatility when assets are imperfectly correlated.",
-        "Cannot eliminate: systematic risk — the broad market risk that affects all assets simultaneously (recessions, rate shocks, global crises)."
+        "1 stock: you're entirely exposed to company-specific risk",
+        "10 stocks: meaningfully reduced but still significant concentration risk",
+        "30 diverse stocks: most unsystematic risk eliminated",
+        "500+ stocks via index fund: maximum diversification at minimal cost",
+        "International stocks added: geographic diversification on top of company diversification"
       ]
     },
     {
+      "type": "heading",
+      "content": "Geographic diversification"
+    },
+    {
       "type": "paragraph",
-      "content": "The practical limit of diversification is important to understand. Adding a 51st stock to a 50-stock portfolio reduces risk by a negligible amount. The largest diversification gains come from the first 15-20 positions and from adding asset classes, not from adding more securities within the same class."
+      "content": "US stocks have outperformed international stocks significantly over the past 15 years. It's tempting to conclude the US is always better. History says otherwise. For extended periods in the 1970s, 1980s, and 2000s, international stocks outperformed US stocks substantially. Holding some international exposure — typically 20-40% of the equity portion — ensures you're not entirely dependent on one country's economic fortunes."
+    },
+    {
+      "type": "heading",
+      "content": "What diversification cannot protect you from"
+    },
+    {
+      "type": "paragraph",
+      "content": "Systemic risk is the risk that everything falls together. In 2008, nearly every asset class dropped simultaneously. Stocks, corporate bonds, commodities — all fell. Real estate was the cause. Even bonds that were supposed to be safe got caught up. In 2020, the initial crash was similarly broad. Diversification reduces unsystematic risk beautifully. It doesn't protect you from a full-market panic. Nothing does except time."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "In a genuine crisis, correlations converge toward 1. Everything crashes together. Gold, which is supposed to be a hedge, often falls initially in a crisis as people raise cash. The diversification benefits you counted on can partially evaporate right when you need them most. This is not a reason to abandon diversification — it still works over full market cycles. It's just a reason to not rely on it as a guarantee of protection in the worst months."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Diversification reduces the risk you should not be taking — company-specific and sector-specific risk. It does not eliminate market risk. And it only works when the assets you hold are genuinely uncorrelated."
+      "content": "Diversification works through correlation, not quantity. Combine assets that don't move together. Twenty to thirty diverse stocks captures most of the benefit — an index fund does it automatically. Systemic risk remains no matter what — diversification reduces the specific risks you can control, not the market-wide ones you can't."
     }
   ]
 }

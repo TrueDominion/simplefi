@@ -3,42 +3,72 @@
   "trackId": "t05",
   "order": 2,
   "title": "How companies are valued — earnings, growth, multiples",
-  "subtitle": "Valuation is not guesswork. It has a logic, a structure, and a vocabulary. Understanding it changes how you read any financial headline.",
-  "estimatedMinutes": 10,
+  "subtitle": "Valuation is not guesswork. It is disciplined estimation with a margin for being wrong.",
+  "estimatedMinutes": 8,
   "tags": ["valuation", "multiples", "earnings"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Valuation is the process of estimating what a business is worth. There are several methods, but they converge on a single principle: value is a function of what a business earns, how fast those earnings grow, and how certain those earnings are. Multiples are a shorthand for expressing this relationship."
-    },
-    {
-      "type": "callout",
-      "label": "The P/E ratio explained",
-      "content": "Price-to-earnings ratio (P/E) is the most widely used valuation multiple. A P/E of 20 means investors are paying $20 for every $1 of annual earnings. A high P/E implies high expected growth or low risk. A low P/E implies the opposite — or a market that has mispriced the stock. Neither is inherently good or bad without context."
+      "content": "Every financial headline about a stock being 'expensive' or 'cheap' is a claim about valuation — about whether the current price makes sense relative to what the business is worth. Valuation isn't magic. It's structured thinking about what you're paying for and whether it's reasonable. A few metrics, understood properly, cut through most of the noise."
     },
     {
       "type": "heading",
-      "content": "Key valuation multiples"
+      "content": "The P/E ratio: how many years of earnings are you paying for?"
+    },
+    {
+      "type": "paragraph",
+      "content": "P/E ratio = stock price ÷ earnings per share. A P/E of 25 means you're paying 25 times the company's annual earnings right now. Another way to read it: at current earnings, it would take 25 years to 'earn back' what you paid. That's either reasonable or insane, depending entirely on whether earnings are expected to grow — and how fast. A P/E of 25 for a company growing earnings 25% per year is potentially cheap. The same P/E for a company with flat earnings is genuinely expensive."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Trailing P/E uses last year's actual earnings. Forward P/E uses analyst estimates of next year's earnings. Forward P/E is more useful for valuing companies with rapidly changing earnings — but it depends on estimates that may be wrong. The S&P 500's historical average P/E is roughly 15-17. Anything well above that requires a compelling growth narrative to justify."
+    },
+    {
+      "type": "heading",
+      "content": "PEG ratio: P/E adjusted for growth"
+    },
+    {
+      "type": "paragraph",
+      "content": "PEG ratio = P/E ÷ expected earnings growth rate. A company with a P/E of 30 and 30% expected growth has a PEG of 1. A company with a P/E of 30 and 10% growth has a PEG of 3. PEG below 1 is often considered undervalued. Above 2 is often expensive. The PEG ratio solves the main problem with P/E alone: it adjusts for how much you're paying for the growth you're getting."
+    },
+    {
+      "type": "heading",
+      "content": "Price-to-Sales: when there are no earnings yet"
+    },
+    {
+      "type": "paragraph",
+      "content": "For unprofitable companies — many tech startups and growth companies — there are no earnings to put in the denominator of a P/E ratio. Price-to-Sales (P/S) = market cap ÷ annual revenue. It's a rougher measure. A P/S of 10 means investors are paying $10 for every $1 of revenue. High P/S multiples require a credible path to strong future profitability. Many companies never get there — which is why high-P/S stocks carry significant risk."
+    },
+    {
+      "type": "heading",
+      "content": "Why interest rates affect valuations"
+    },
+    {
+      "type": "paragraph",
+      "content": "This trips people up. When interest rates rise, stock valuations tend to fall — even if earnings don't change. Here's why: the value of a stock is the present value of all future cash flows. To calculate present value, you discount future cash flows by an interest rate (the discount rate). Higher rates = higher discount rate = future cash flows are worth less today = lower stock price. This is why rate hikes hurt growth stocks especially hard — their earnings are far in the future, and discounting far-future cash flows with a higher rate decimates their present value."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "A P/E of 20 when interest rates are 2% is very different from a P/E of 20 when rates are 5%. At 2%, stocks look great compared to bonds. At 5%, bonds are more competitive and stocks need to justify their higher multiples with stronger growth. This is why the same P/E ratio can be 'cheap' in one rate environment and 'expensive' in another."
     },
     {
       "type": "list",
       "items": [
-        "P/E (Price to Earnings): most common. Compares market price to earnings per share. Useful for profitable companies with stable earnings.",
-        "EV/EBITDA (Enterprise Value to Earnings Before Interest, Tax, Depreciation, Amortization): capital structure-neutral. Better for comparing companies with different debt levels.",
-        "P/S (Price to Sales): used when earnings are negative or volatile. Common in growth companies and early-stage businesses.",
-        "P/B (Price to Book): compares market price to accounting book value. More relevant for asset-heavy industries like banking and insurance."
+        "P/E (Price/Earnings): most common multiple. Tells you the price of earnings. Adjust for growth.",
+        "Forward P/E: uses estimated future earnings. More predictive, less certain.",
+        "PEG (P/E ÷ growth): P/E adjusted for growth rate. More useful than P/E alone.",
+        "P/S (Price/Sales): for companies without earnings. Rougher proxy.",
+        "EV/EBITDA: enterprise value relative to operating earnings. Useful for comparing capital structure."
       ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Multiples are not answers — they are questions. A low P/E might mean a stock is cheap. Or it might mean the market correctly anticipates declining earnings. A high P/E might mean the market is exuberant. Or it might mean the business genuinely merits a premium for its growth prospects and competitive position. The multiple prompts analysis; it does not replace it."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Valuation multiples are a starting point for analysis, not a conclusion. Always ask why a multiple is where it is — and whether the market's implicit assumption about growth and risk is correct."
+      "content": "P/E ratio tells you how many years of current earnings you're paying for. Context makes it meaningful — the same P/E is cheap or expensive depending on growth and interest rates. PEG adjusts for growth. No multiple works in isolation. The goal is to understand what you're paying for and whether the story is believable."
     }
   ]
 }

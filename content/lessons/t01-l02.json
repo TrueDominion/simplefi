@@ -9,31 +9,69 @@
   "body": [
     {
       "type": "paragraph",
-      "content": "Your financial life has one fundamental equation: income minus expenses equals the gap. That gap — positive or negative — is everything. It determines whether you accumulate wealth or deplete it. It is the only number that actually matters in the short term."
+      "content": "Your financial life has one fundamental equation. Income minus expenses equals the gap. That gap — positive or negative — is everything. It determines whether you're accumulating wealth or depleting it. Every sophisticated financial concept eventually traces back to this one number."
     },
     {
       "type": "heading",
-      "content": "Why income is not as simple as your salary"
+      "content": "Gross vs. net: what's actually happening to your paycheck"
     },
     {
       "type": "paragraph",
-      "content": "Most people think of income as their take-home pay. But income has a structure. Gross income is what you earn before deductions. Net income is what arrives in your account. The difference — taxes, retirement contributions, insurance — is not wasted. It is a set of financial decisions that someone has already made on your behalf, often ones worth understanding and occasionally ones worth changing."
+      "content": "Your salary is not your income. It's your gross income — what you earn before anyone takes a cut. Your net income is what lands in your bank account. The gap between the two isn't waste. It's a set of financial decisions — some made by your employer, some by the government, some by you — that happen before you ever see the money."
     },
     {
       "type": "callout",
-      "label": "Important distinction",
-      "content": "Earned income (salary, wages) is taxed at the highest rates in most jurisdictions. Investment income — dividends, capital gains — is often taxed at lower rates. This is not an accident. It is a policy choice with significant implications for how you think about building wealth over time."
+      "label": "What happens to your paycheck",
+      "content": "Federal and state income taxes. Social Security (6.2%) and Medicare (1.45%). Your 401(k) contribution if you have one. Health insurance premiums. FSA or HSA contributions. On a $75,000 salary, you might take home $52,000 — about 69 cents of every dollar. Understanding where the other 31 cents goes is step one."
+    },
+    {
+      "type": "heading",
+      "content": "The tax bracket thing everyone gets wrong"
     },
     {
       "type": "paragraph",
-      "content": "Expenses fall into two categories that matter: fixed and variable. Fixed expenses are committed — rent, loan payments, subscriptions with contracts. Variable expenses are discretionary — they flex with your choices. The distinction matters because your leverage is different in each category. You can cut a variable expense today. Changing a fixed expense takes time, negotiation, or a life change."
+      "content": "The US uses a marginal tax system. That means you don't pay your top rate on all your income — you pay each rate only on the income that falls within that bracket. If you're in the 22% bracket, you're not paying 22% on everything. You're paying 10% on the first slice, 12% on the next slice, and 22% only on the portion above $44,725 (2023 single filer). Getting a raise will never cause you to take home less money. That fear is a misunderstanding of how the math works."
+    },
+    {
+      "type": "heading",
+      "content": "Fixed vs. variable expenses: your leverage is different in each"
+    },
+    {
+      "type": "paragraph",
+      "content": "Expenses fall into two categories that matter differently. Fixed expenses are committed: rent, loan payments, subscriptions with annual contracts. Variable expenses are discretionary: restaurants, clothes, entertainment, travel. The distinction matters because your leverage is different in each. You can cut a variable expense today. Changing a fixed expense takes time, negotiation, or a life change. This is why housing and car decisions matter more than coffee decisions."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Fixed: rent/mortgage, car payment, loan minimums, insurance, most subscriptions",
+        "Variable: groceries, dining, clothing, entertainment, travel, gifts",
+        "Your biggest wins come from reducing fixed costs — they save money automatically, every month",
+        "Variable cuts require ongoing willpower — they're real but harder to sustain"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "Pay yourself first"
+    },
+    {
+      "type": "paragraph",
+      "content": "The most effective savings strategy is deceptively simple: treat savings as a fixed expense that happens automatically before you can spend anything. This is called paying yourself first. When your 401(k) contribution comes out of your paycheck before you see it, you don't miss it. When your savings transfer hits the day after payday, you adjust. When you wait until the end of the month and save whatever's left over, there's usually nothing left over."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Willpower-based saving fails because you're making the decision dozens of times a month, and you only have to lose once. Automatic saving succeeds because you make the decision once. Set it up. Forget it. This is the whole game."
+    },
+    {
+      "type": "paragraph",
+      "content": "The gap between your income and your expenses is the engine of your financial life. Everything else — investing, debt payoff, building wealth — runs on this gap. Widen it by earning more, spending less, or both. But first, measure it. Most people have no idea what their actual number is."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "The gap between your income and your expenses is the only number that determines your financial trajectory. Everything else is commentary on how to widen it."
+      "content": "Income minus expenses equals the gap. That's your one number. Every month, it should be positive. The bigger it is, the faster you build wealth. Everything else in personal finance is about what to do with that gap — but first you have to have one."
     }
   ]
 }

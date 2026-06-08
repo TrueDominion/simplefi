@@ -3,41 +3,72 @@
   "trackId": "t05",
   "order": 3,
   "title": "Reading a financial statement without getting lost",
-  "subtitle": "Three documents tell you almost everything about a business. Knowing what to look for — and what to ignore — is the practical skill.",
-  "estimatedMinutes": 11,
+  "subtitle": "Three documents tell you everything about a business. Most people never read them.",
+  "estimatedMinutes": 8,
   "tags": ["financial statements", "analysis", "accounting"],
   "body": [
     {
       "type": "paragraph",
-      "content": "Every public company publishes three financial statements: the income statement, the balance sheet, and the cash flow statement. Together, they provide a complete picture of a company's financial position and performance. Most investors look at one, ignore the second, and have never opened the third. This is a significant gap."
-    },
-    {
-      "type": "callout",
-      "label": "The three statements",
-      "content": "Income statement: what the company earned and spent over a period. Balance sheet: what the company owns and owes at a point in time. Cash flow statement: how cash actually moved in and out — regardless of accounting recognition. Each tells a different part of the story. None is complete on its own."
+      "content": "Three financial statements tell you essentially everything about a business. The income statement shows how much money it made. The balance sheet shows what it owns and owes. The cash flow statement shows what actually hit the bank account. Together, they're a complete picture. Most people never look at them. That's fine if you're buying index funds. It's a significant gap if you're picking individual stocks."
     },
     {
       "type": "heading",
-      "content": "What to look for in each"
+      "content": "The income statement: the story of a year"
+    },
+    {
+      "type": "paragraph",
+      "content": "Revenue — Cost of Goods Sold = Gross Profit. Gross Profit — Operating Expenses = Operating Income (EBIT). Operating Income — Interest & Taxes = Net Income. Each step down the chain tells you something different. A company with great revenue but terrible gross margins is struggling with its core economics. A company with great gross margins but poor operating income is spending too much on overhead. Net income is the bottom line — but it can be manipulated, which is why cash flow matters more."
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "Net income can be boosted by accounting choices that don't reflect actual cash. Aggressive revenue recognition, capitalized expenses, stock-based compensation excluded from some metrics — these make net income unreliable as a sole indicator. Always cross-reference with the cash flow statement. A company with growing net income but shrinking free cash flow is telling you something important."
+    },
+    {
+      "type": "heading",
+      "content": "The balance sheet: a snapshot in time"
+    },
+    {
+      "type": "paragraph",
+      "content": "Assets = Liabilities + Shareholders' Equity. That's the fundamental equation — always true, by definition. Assets are what the company owns: cash, inventory, property, equipment, intangibles. Liabilities are what it owes: accounts payable, loans, bonds. Equity is the residual — what would be left for shareholders if you sold everything and paid all debts. Key ratio to watch: debt-to-equity. A company drowning in debt with thin equity has very little cushion in a downturn."
+    },
+    {
+      "type": "heading",
+      "content": "The cash flow statement: where truth lives"
+    },
+    {
+      "type": "paragraph",
+      "content": "Three sections: operating activities (cash from the actual business), investing activities (cash used for capex and acquisitions), and financing activities (cash from or to debt and equity). Free cash flow = operating cash flow minus capital expenditures. This is the most honest measure of business performance. A company can report profitable earnings while actually burning cash. Free cash flow doesn't lie. It's the actual money available to pay dividends, buy back stock, pay down debt, or grow the business."
     },
     {
       "type": "list",
       "items": [
-        "Income statement: revenue growth rate, gross margin trend, operating leverage (does profit grow faster than revenue?), and whether earnings per share growth is organic or driven by buybacks.",
-        "Balance sheet: debt-to-equity ratio, current ratio (can it meet short-term obligations?), goodwill as a fraction of total assets (large goodwill can signal acquisition risk), and whether book value is growing.",
-        "Cash flow statement: free cash flow (operating cash flow minus capital expenditure), cash conversion (does accounting income translate to actual cash?), and whether the company is self-financing or dependent on external capital."
+        "Revenue growing but free cash flow negative: be skeptical — where is the cash going?",
+        "Debt growing faster than equity: the balance sheet is weakening",
+        "Gross margins expanding: the business is becoming more efficient or gaining pricing power",
+        "Operating cash flow consistently below net income: accounting is likely flattering the numbers",
+        "High capex relative to revenue: capital-intensive business — evaluate returns on that capital"
       ]
     },
     {
+      "type": "heading",
+      "content": "Two numbers to always check"
+    },
+    {
       "type": "paragraph",
-      "content": "The most important rule: when accounting earnings and cash flow diverge significantly over multiple periods, trust the cash flow statement. Earnings can be managed through accounting choices. Cash is harder to manufacture."
+      "content": "Free cash flow: operating cash flow minus capex. This is the cash the business actually generated after maintaining and growing its assets. A positive, growing free cash flow is the sign of a healthy business. Debt-to-equity ratio: total debt divided by shareholders' equity. Under 1.0 is generally healthy. Over 2.0 is worth examining carefully. Over 3.0 at a cyclical company is a warning sign."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Most retail investors skip the financial statements entirely. That's defensible if you're in index funds — you're buying the whole market, so individual company analysis doesn't matter. If you're picking stocks, skipping the statements isn't analysis — it's speculation. You're guessing based on narrative rather than evidence. The statements take 20 minutes to scan. The information is worth far more than 20 minutes."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Financial statements are not reports to endure — they are a conversation with the business. The questions you bring to them determine how much they tell you. Start with the cash flow statement. Everything else follows."
+      "content": "Three statements: income statement (did the business make money?), balance sheet (what does it own and owe?), cash flow statement (what cash actually moved?). Net income can lie. Free cash flow is harder to fake. Always check free cash flow and debt-to-equity before drawing conclusions from the headline numbers."
     }
   ]
 }
