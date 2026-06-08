@@ -2,42 +2,79 @@
   "id": "t07-l02",
   "trackId": "t07",
   "order": 2,
-  "title": "Options — rights, not obligations",
-  "subtitle": "An option gives you the right to transact at a specific price. The fact that you can choose not to exercise it is what makes it valuable — and what makes it different from every other instrument.",
+  "title": "Options. Rights, not obligations",
+  "subtitle": "An option gives you the right to transact at a specific price, the  fact that you can choose not to exercise it is what makes it valuable, and what makes it different from every other instrument.",
   "estimatedMinutes": 10,
-  "tags": ["options", "derivatives"],
+  "tags": [
+    "options",
+    "derivatives"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "An option is a contract that grants the buyer the right — but not the obligation — to buy or sell an underlying asset at a specified price (the strike price) before or on a specified date (the expiration). The buyer pays a premium for this right. The seller receives the premium and takes on the obligation to transact if the buyer chooses to exercise."
-    },
-    {
-      "type": "callout",
-      "label": "Calls and puts",
-      "content": "A call option gives the buyer the right to buy the underlying asset at the strike price. It gains value when the asset price rises above the strike. A put option gives the buyer the right to sell the underlying asset at the strike price. It gains value when the asset price falls below the strike. Calls are bullish instruments. Puts are bearish instruments — or hedges."
+      "content": "An option is exactly what the name suggests: it gives you the option to do something. Specifically, the right to buy or sell 100 shares of a stock at a specific price, by a specific date. You are not obligated to do it, if  it's not in your favor, you walk away, that  optionality is valuable, and you pay a premium for it."
     },
     {
       "type": "heading",
-      "content": "The components of option value"
+      "content": "Calls and puts"
+    },
+    {
+      "type": "paragraph",
+      "content": "There are only two types of options. A call option gives you the right to BUY 100 shares at the strike price. You want this when you think the stock is going up. A put option gives you the right to SELL 100 shares at the strike price. You want this when you think the stock is going down, or when you own the stock and want insurance against it falling."
+    },
+    {
+      "type": "callout",
+      "label": "Concrete example",
+      "content": "Apple trades at $200. You buy a call option with a $210 strike expiring in 3 months for $5 per share ($500 total for 100 shares), if  Apple rises to $230, your option is worth $20 per share ($2,000). You profit $1,500 on a $500 investment, if  Apple stays at $200 or falls, your option expires worthless and you lose your $500. that's the maximum you can lose as the buyer."
+    },
+    {
+      "type": "heading",
+      "content": "The premium: what you're paying for"
+    },
+    {
+      "type": "paragraph",
+      "content": "The premium has two components. Intrinsic value: how much money you'd make if you exercised right now (zero if the option is 'out of the money'). Time value: the extra amount reflecting the possibility that the stock moves in your favor before expiration. A 6-month option costs more than a 1-month option for the same strike because more time = more possibility of a big move."
+    },
+    {
+      "type": "heading",
+      "content": "Time decay: the buyer's enemy"
+    },
+    {
+      "type": "paragraph",
+      "content": "Every day that passes, an option loses a small amount of value, even if the stock doesn't move, this  is called theta, or time decay, it  accelerates as expiration approaches, if  you buy an option and the stock goes nowhere for two months, you've lost money. You were right that nothing bad happened, but you still lost. Time works against option buyers and for option sellers."
+    },
+    {
+      "type": "callout",
+      "label": "Watch out",
+      "content": "This is why buying options speculatively is hard. You need to be right about direction, right about magnitude, AND right about timing. all simultaneously, the  house collects the premium. Most retail options buyers lose money over time, not because markets are rigged, but because time decay is relentless and most people underestimate how much a stock needs to move to make an option profitable."
+    },
+    {
+      "type": "heading",
+      "content": "The seller's perspective"
+    },
+    {
+      "type": "paragraph",
+      "content": "Every option buyer has a seller on the other side, the  seller collects the premium upfront and is obligated to transact if the buyer exercises. Selling a covered call, where you already own the underlying stock, is one of the most conservative options strategies. You collect income on stock you hold, if  the stock rises past your strike, you sell your shares at a profit, if  it doesn't, you keep the premium and your shares."
+    },
+    {
+      "type": "heading",
+      "content": "In/at/out of the money"
     },
     {
       "type": "list",
       "items": [
-        "Intrinsic value: how far in-the-money the option is — the immediate profit if exercised today.",
-        "Time value: the additional premium reflecting the probability that the option moves further in-the-money before expiration. Decays as expiration approaches.",
-        "Implied volatility: the market's expectation of future price movement, embedded in the option premium. High volatility makes options more expensive because larger moves are more probable."
+        "In the money (ITM): the option has intrinsic value. The stock is already past the strike price (call) or below it (put)",
+        "At the money (ATM): the stock price is right at the strike price",
+        "Out of the money (OTM): the option has no intrinsic value. The stock hasn't reached the strike yet",
+        "OTM options are cheaper but require a larger move to become profitable. They're riskier despite the lower price"
       ]
-    },
-    {
-      "type": "paragraph",
-      "content": "Options can be used conservatively — to hedge an existing position, or to generate income by selling covered calls on holdings you own. They can also be used aggressively — to take leveraged directional bets. The instrument is the same. The risk profile of each strategy is entirely different. Understanding which you are doing is not optional."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Options are flexible instruments with asymmetric payoff profiles. The buyer's maximum loss is the premium paid. The seller of naked options has theoretically unlimited risk. Know your position before you hold it."
+      "content": "Options give you the right, not the obligation, to transact at a specific price. Calls profit from rising prices, puts from falling, as  a buyer, your maximum loss is the premium. Time decay works against you every day, as  a seller of covered calls, time decay works in your favor. you collect premium on stock you already own."
     }
   ]
 }

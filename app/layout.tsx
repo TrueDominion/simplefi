@@ -19,13 +19,13 @@ const syneMono = Syne_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SimpleFi — Financial education that goes all the way",
+  title: "SimpleFi — The financial education most people never get",
   description:
-    "A complete financial curriculum. From your first paycheck to your portfolio — in the exact order you need it.",
+    "A complete curriculum covering everything from how money works to how derivatives work. Built in the order that makes each concept build on the last.",
   keywords: ["financial education", "investing", "personal finance", "curriculum"],
   openGraph: {
     title: "SimpleFi",
-    description: "From your first paycheck to your portfolio — in the exact order you need it.",
+    description: "The financial education most people never get.",
     type: "website",
   },
 };

@@ -2,14 +2,18 @@
   "id": "t04-l03",
   "trackId": "t04",
   "order": 3,
-  "title": "Index funds — the most important financial product most people ignore",
+  "title": "Index funds. The most important financial product most people ignore",
   "subtitle": "Owning the whole market, cheaply, beats most professional stock pickers over time.",
   "estimatedMinutes": 8,
-  "tags": ["rebalancing", "discipline", "behavior"],
+  "tags": [
+    "rebalancing",
+    "discipline",
+    "behavior"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "An index fund tracks a market index — like the S&P 500 or the total US stock market — by holding all (or a representative sample) of its components. It doesn't try to pick winners. It owns everything proportionally. This sounds boring. It is boring. It also beats the majority of actively managed funds over long periods. The boring fund that does nothing interesting consistently outperforms the smart people trying hard. That's one of the most counterintuitive and well-documented facts in finance."
+      "content": "An index fund tracks a market index, like the S&P 500 or the total US stock market, by holding all (or a representative sample) of its components, it  doesn't try to pick winners, it  owns everything proportionally, this  sounds boring, it  is boring, it  also beats the majority of actively managed funds over long periods, the  boring fund that does nothing interesting consistently outperforms the smart people trying hard. That's one of the most counterintuitive and well-documented facts in finance."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "The S&P SPIVA scorecard tracks how actively managed funds perform against their benchmark index. Over 15 years, approximately 88% of US large-cap active funds underperform the S&P 500. That means 9 out of 10 professional fund managers, with research teams and sophisticated tools, fail to beat a simple index fund. In international and small-cap categories, the numbers are similarly dismal. This isn't because fund managers are incompetent — it's because markets are genuinely hard to beat, and fees compound against you."
+      "content": "The S&P SPIVA scorecard tracks how actively managed funds perform against their benchmark index. Over 15 years, approximately 88% of US large-cap active funds underperform the S&P 500, that  means 9 out of 10 professional fund managers, with research teams and sophisticated tools, fail to beat a simple index fund, in  international and small-cap categories, the numbers are similarly dismal, this  isn't because fund managers are incompetent. it's because markets are genuinely hard to beat, and fees compound against you."
     },
     {
       "type": "callout",
       "label": "The math",
-      "content": "Expense ratio comparison on $100,000 over 30 years at 7% gross return: at 0.03% expense ratio (Vanguard VTI), you end with approximately $741,000. At 1.0% expense ratio (average active fund), you end with approximately $574,000. The difference is $167,000. You paid that in fees. For underperformance. The fee is the cost of someone trying — and mostly failing — to beat the market."
+      "content": "Expense ratio comparison on $100,000 over 30 years at 7% gross return: at 0.03% expense ratio (Vanguard VTI), you end with approximately $741,000, at  1.0% expense ratio (average active fund), you end with approximately $574,000, the  difference is $167,000. You paid that in fees, for  underperformance, the  fee is the cost of someone trying, and mostly failing, to beat the market."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Index funds come in two structures. Mutual funds are priced once per day at market close and traded directly with the fund company. ETFs (exchange-traded funds) trade on exchanges throughout the day like stocks. For index investing, both work well. ETFs have slightly more tax efficiency in taxable accounts. Mutual funds are simpler for automatic contributions. For most investors, the difference is minor — pick whichever your account supports at the lowest cost."
+      "content": "Index funds come in two structures. Mutual funds are priced once per day at market close and traded directly with the fund company. ETFs (exchange-traded funds) trade on exchanges throughout the day like stocks, for  index investing, both work well. ETFs have slightly more tax efficiency in taxable accounts. Mutual funds are simpler for automatic contributions, for  most investors, the difference is minor. pick whichever your account supports at the lowest cost."
     },
     {
       "type": "heading",
@@ -52,7 +56,7 @@
     },
     {
       "type": "paragraph",
-      "content": "The S&P 500 holds the 500 largest US companies. A total market fund holds about 3,500-4,000 companies — adding mid-cap and small-cap stocks. Historically, the difference in returns is small. The total market fund gives you slightly more diversification and small-cap exposure. Both are perfectly reasonable choices. If your 401(k) only offers an S&P 500 fund with no total market option, the S&P 500 is fine."
+      "content": "The S&P 500 holds the 500 largest US companies. A total market fund holds about 3,500-4,000 companies. adding mid-cap and small-cap stocks. Historically, the difference in returns is small, the  total market fund gives you slightly more diversification and small-cap exposure, both  are perfectly reasonable choices, if  your 401(k) only offers an S&P 500 fund with no total market option, the S&P 500 is fine."
     },
     {
       "type": "callout",
@@ -64,7 +68,7 @@
     },
     {
       "type": "takeaway",
-      "content": "Over 15 years, 88% of active funds underperform their benchmark index. Index funds win by charging almost nothing and owning everything. Keep expenses below 0.10%. VTSAX, VTI, FZROX — pick one. Contribute consistently. Leave it alone."
+      "content": "Over 15 years, 88% of active funds underperform their benchmark index. Index funds win by charging almost nothing and owning everything. Keep expenses below 0.10%. VTSAX, VTI, FZROX. pick one. Contribute consistently. Leave it alone."
     }
   ]
 }

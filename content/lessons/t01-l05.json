@@ -5,11 +5,15 @@
   "title": "How to think about your financial life as a system",
   "subtitle": "Stop managing transactions. Start managing a system.",
   "estimatedMinutes": 7,
-  "tags": ["systems", "mindset", "foundations"],
+  "tags": [
+    "systems",
+    "mindset",
+    "foundations"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Most people manage their finances like they're fighting fires. Something comes up, they deal with it. They check their account balance before a purchase and decide from that number whether to spend. They have no real plan — just a series of reactions. This approach works okay when things go well. It fails badly when they don't."
+      "content": "Most people manage their finances like they're fighting fires. Something comes up, they deal with it, they  check their account balance before a purchase and decide from that number whether to spend, they  have no real plan, just a series of reactions, this  approach works okay when things go well, it  fails badly when they don't."
     },
     {
       "type": "heading",
@@ -22,7 +26,7 @@
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Net worth can be negative — and often is for people early in their careers with student loans. That's fine. What matters is the direction and speed of change. A net worth growing by $10,000 per year is the sign of a working system. A net worth that's flat despite a good income is the sign of a problem somewhere."
+      "content": "Net worth can be negative, and often is for people early in their careers with student loans. That's fine, what  matters is the direction and speed of change. A net worth growing by $10,000 per year is the sign of a working system. A net worth that's flat despite a good income is the sign of a problem somewhere."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Net worth tells you where you are. Cash flow tells you how fast you're moving. Monthly cash flow = income minus all expenses, including what you save and invest. Positive cash flow is the engine of wealth. Everything else — which index fund, which account type, which debt to pay first — is optimization of the engine. You need the engine first."
+      "content": "Net worth tells you where you are. Cash flow tells you how fast you're moving. Monthly cash flow = income minus all expenses, including what you save and invest. Positive cash flow is the engine of wealth. Everything else, which index fund, which account type, which debt to pay first, is optimization of the engine. You need the engine first."
     },
     {
       "type": "heading",
@@ -39,14 +43,14 @@
     {
       "type": "list",
       "items": [
-        "Earn more: salary negotiation, career growth, side income — the highest-leverage action for most people",
+        "Earn more: salary negotiation, career growth, side income. The highest-leverage action for most people",
         "Spend less: reduce fixed costs (housing, car) first; variable cuts are real but harder to sustain",
-        "Invest better: lower fees, better allocation, more consistency — worth doing but less impactful than the first two"
+        "Invest better: lower fees, better allocation, more consistency. Worth doing but less impactful than the first two"
       ]
     },
     {
       "type": "paragraph",
-      "content": "Most financial advice focuses on the third lever. Optimize your portfolio. Pick the right funds. Rebalance quarterly. That's real — but it's the smallest lever. A 25-year-old who negotiates a $15,000 raise will likely outperform a 25-year-old who optimizes their investment allocation by a factor of ten. Get the big things right first."
+      "content": "Most financial advice focuses on the third lever. Optimize your portfolio. Pick the right funds. Rebalance quarterly. That's real, but it's the smallest lever. A 25-year-old who negotiates a $15,000 raise will likely outperform a 25-year-old who optimizes their investment allocation by a factor of ten. Get the big things right first."
     },
     {
       "type": "heading",
@@ -63,7 +67,7 @@
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Skipping daily lattes for a year saves about $1,000. Negotiating your rent down $200/month saves $2,400 a year with zero ongoing effort. Buying a $25,000 car instead of a $45,000 car saves $20,000 plus interest — money that can compound for decades. The big fixed decisions — where you live, what you drive, what career you're in — dwarf the small daily ones. Stop optimizing the noise."
+      "content": "Skipping daily lattes for a year saves about $1,000. Negotiating your rent down $200/month saves $2,400 a year with zero ongoing effort. Buying a $25,000 car instead of a $45,000 car saves $20,000 plus interest, money that can compound for decades, the  big fixed decisions, where you live, what you drive, what career you're in. dwarf the small daily ones. Stop optimizing the noise."
     },
     {
       "type": "paragraph",

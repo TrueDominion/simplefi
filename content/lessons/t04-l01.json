@@ -2,10 +2,13 @@
   "id": "t04-l01",
   "trackId": "t04",
   "order": 1,
-  "title": "What a portfolio is — and what it is not",
-  "subtitle": "A portfolio is a system with a purpose. A collection of investments without a defined objective is not a portfolio — it is a list.",
+  "title": "What a portfolio is. And what it is not",
+  "subtitle": "A portfolio is a system with a purpose. A collection of investments without a defined objective is not a portfolio, it is a list.",
   "estimatedMinutes": 6,
-  "tags": ["portfolio", "foundations"],
+  "tags": [
+    "portfolio",
+    "foundations"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -19,7 +22,7 @@
       "type": "list",
       "items": [
         "A defined objective: what is this money for? Retirement at 65? A house in 10 years? Financial independence in 20?",
-        "A risk tolerance: how much volatility can you accept — emotionally and financially?",
+        "A risk tolerance: how much volatility can you accept. Emotionally and financially?",
         "A time horizon: when will you need the money? This drives everything else.",
         "A liquidity rule: can you access this money if you need it, and at what cost?",
         "A rebalancing rule: how will you maintain the target allocation over time?"
@@ -28,7 +31,7 @@
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Without a defined objective, you can't evaluate whether your portfolio is working. 'My 401(k) went up 12% last year' — is that good? Relative to what target? With what level of risk? Against what benchmark? A portfolio without a goal is like running without a direction. You might be moving, but you can't know if it matters."
+      "content": "Without a defined objective, you can't evaluate whether your portfolio is working. 'My 401(k) went up 12% last year'. is that good? Relative to what target? With what level of risk? Against what benchmark? A portfolio without a goal is like running without a direction. You might be moving, but you can't know if it matters."
     },
     {
       "type": "heading",
@@ -36,7 +39,7 @@
     },
     {
       "type": "paragraph",
-      "content": "When people invest reactively — buying what's hot, selling what's falling, moving in and out of markets based on news — they create a mess. They own overlapping positions in similar things. They have gaps in their coverage. They end up with more risk than they intended, or less, or a completely incoherent mixture. And because there's no stated objective, there's no way to know when to change course or when to stay put."
+      "content": "When people invest reactively, buying what's hot, selling what's falling, moving in and out of markets based on news, they create a mess, they  own overlapping positions in similar things, they  have gaps in their coverage, they  end up with more risk than they intended, or less, or a completely incoherent mixture, and  because there's no stated objective, there's no way to know when to change course or when to stay put."
     },
     {
       "type": "heading",
@@ -44,7 +47,7 @@
     },
     {
       "type": "paragraph",
-      "content": "An architect doesn't add rooms to a house because they feel like it that week. They start with a plan: what does this building need to do, for whom, with what constraints? A portfolio deserves the same treatment. Start with your goals and time horizons. Derive your target allocation from those. Then choose the specific investments to fill that allocation — not the other way around. Most people start with specific investments and never get to the plan."
+      "content": "An architect doesn't add rooms to a house because they feel like it that week, they  start with a plan: what does this building need to do, for whom, with what constraints? A portfolio deserves the same treatment. Start with your goals and time horizons. Derive your target allocation from those. Then choose the specific investments to fill that allocation, not the other way around. Most people start with specific investments and never get to the plan."
     },
     {
       "type": "paragraph",
@@ -53,14 +56,14 @@
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "A simple, boring portfolio done right — a target allocation across low-cost index funds, rebalanced annually — beats most sophisticated strategies attempted without a coherent framework. Complexity without clarity is not sophistication. It's just expensive noise."
+      "content": "A simple, boring portfolio done right, a target allocation across low-cost index funds, rebalanced annually, beats most sophisticated strategies attempted without a coherent framework. Complexity without clarity is not sophistication. It's just expensive noise."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "A portfolio is defined by its purpose, not its contents. Start with your goal, your time horizon, and your risk tolerance. Derive your allocation from those. Then choose investments to fill the allocation. A list of things you own is not a portfolio — it's the absence of one."
+      "content": "A portfolio is defined by its purpose, not its contents. Start with your goal, your time horizon, and your risk tolerance. Derive your allocation from those. Then choose investments to fill the allocation. A list of things you own is not a portfolio. it's the absence of one."
     }
   ]
 }

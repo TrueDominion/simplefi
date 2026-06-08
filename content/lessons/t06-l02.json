@@ -5,35 +5,77 @@
   "title": "How interest rates actually work",
   "subtitle": "Interest rates are not just the price of debt. They are a signal about economic conditions, central bank policy, and the entire structure of asset prices.",
   "estimatedMinutes": 9,
-  "tags": ["interest rates", "monetary policy", "economics"],
+  "tags": [
+    "interest rates",
+    "monetary policy",
+    "economics"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "An interest rate is the price of money over time. When you borrow, you pay a rate because you are consuming capital now that you will return later — the lender requires compensation for deferring their own consumption, for taking credit risk, and for the inflation that will erode the real value of their repayment."
-    },
-    {
-      "type": "callout",
-      "label": "The components of an interest rate",
-      "content": "Any interest rate can be decomposed into: the risk-free rate (what you pay for time value alone, typically approximated by short-term government debt), an inflation premium (compensation for expected erosion of purchasing power), a credit spread (compensation for the risk of non-repayment), and a liquidity premium (compensation for the difficulty of exiting the position)."
-    },
-    {
-      "type": "paragraph",
-      "content": "Central banks influence interest rates through monetary policy — primarily by setting the short-term policy rate and, through quantitative easing, by purchasing longer-duration assets to influence rates further out the curve. These policy decisions ripple through the entire economy: higher rates increase the cost of mortgages, business loans, and government borrowing; lower rates make debt cheaper and incentivize spending and investment."
+      "content": "An interest rate is the price of borrowing money over time. Simple concept, but  interest rates don't just affect your mortgage or credit card, they set the price of everything in the financial system, when  the Fed raises rates, stock valuations fall, bond prices drop, housing gets more expensive, and businesses slow hiring. One number, affecting everything. Worth understanding."
     },
     {
       "type": "heading",
-      "content": "Why rates matter for everything"
+      "content": "What an interest rate is actually made of"
     },
     {
       "type": "paragraph",
-      "content": "Interest rates are not just the price of debt — they are the discount rate applied to all future cash flows. When rates rise, every future dollar of earnings or cash flow is worth less in today's terms. This is why rising rates pressure the valuations of equities, especially growth stocks with earnings far in the future, and depress bond prices simultaneously."
+      "content": "Any interest rate you see is a combination of several components baked into one number. Understanding the components tells you why rates are where they are and where they might go."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Risk-free rate: the baseline. What you'd earn lending to the safest borrower with no risk of default (US Treasury bills approximate this)",
+        "Inflation premium: compensation for the fact that the dollars you get back will buy less than today's dollars",
+        "Credit spread: extra yield for lending to a riskier borrower who might not pay you back",
+        "Liquidity premium: extra yield for lending in a form that's hard to exit quickly"
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Key concept",
+      "content": "A 7% credit card rate vs. a 24% credit card rate: the difference is almost entirely credit risk and profit margin. The lender charges you more because the statistical likelihood of non-repayment on revolving consumer credit is much higher than on a secured mortgage. Every interest rate you see tells a story about how the lender assesses the borrower."
+    },
+    {
+      "type": "heading",
+      "content": "The Fed and why it matters"
+    },
+    {
+      "type": "paragraph",
+      "content": "The Federal Reserve sets the federal funds rate, the rate at which banks lend to each other overnight, this  is the anchor rate for the entire US financial system, when  the Fed raises this rate, borrowing becomes more expensive everywhere: mortgages, car loans, business lines of credit, student loans, when  the Fed cuts it, borrowing gets cheaper and economic activity tends to pick up."
+    },
+    {
+      "type": "paragraph",
+      "content": "From March 2022 to July 2023, the Fed raised rates from near 0% to 5.25%, the fastest rate increase in 40 years, the  direct effects: mortgage rates doubled from ~3% to ~7%, bond prices fell significantly, and tech stocks (which are valued on future earnings) got hit hard. All from one policy variable."
+    },
+    {
+      "type": "heading",
+      "content": "Why rates affect stock prices"
+    },
+    {
+      "type": "paragraph",
+      "content": "This one surprises people. Stocks are not bonds. why would interest rates matter for stock valuations? Because the value of any asset is the present value of its future cash flows, the  rate used to discount those future cash flows is tied to prevailing interest rates, when  rates rise, future earnings are worth less today. A company expected to earn $100 million in 10 years is worth less when discounted at 6% than at 2%."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "$100 million received in 10 years: discounted at 2% = $82 million today. Discounted at 6% = $56 million today. That's a 32% difference in present value from a 4% change in rates. This is why growth stocks (which earn most of their cash far in the future) are particularly sensitive to rate changes. Their valuations are long-duration assets, just like long-duration bonds."
+    },
+    {
+      "type": "heading",
+      "content": "The yield curve"
+    },
+    {
+      "type": "paragraph",
+      "content": "The yield curve plots interest rates across different maturities for US Treasury bonds, from 3-month bills to 30-year bonds. Normally it slopes upward: you get paid more for lending longer, because longer commitments carry more uncertainty. An inverted yield curve, where short-term rates are higher than long-term rates. is unusual, and has preceded every US recession in the past 50 years, not  a guarantee, but a serious signal worth knowing about."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Interest rates are the single most important variable in finance. They determine the cost of debt, the value of future cash flows, and the relative attractiveness of every asset class. Understand their structure and you understand the architecture of financial markets."
+      "content": "Interest rates are the most important variable in the financial system. They set the price of debt, determine the discount rate for all future cash flows, and ripple through stocks, bonds, real estate, and the broader economy. When rates change, everything changes. Pay attention to them."
     }
   ]
 }

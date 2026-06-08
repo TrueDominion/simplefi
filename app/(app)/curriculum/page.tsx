@@ -23,7 +23,7 @@ export default function CurriculumPage() {
             Curriculum
           </p>
           <h1 className="font-syne font-bold text-[26px] text-ink tracking-tight leading-tight">
-            Seven tracks. One complete education.
+            Seven tracks. A complete education.
           </h1>
         </div>
         <Tag variant={plan === "pro" ? "teal" : "default"}>

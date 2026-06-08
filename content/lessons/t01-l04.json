@@ -5,7 +5,11 @@
   "title": "The difference between saving and investing",
   "subtitle": "These are not the same activity with different return rates. They serve fundamentally different purposes.",
   "estimatedMinutes": 7,
-  "tags": ["foundations", "investing", "saving"],
+  "tags": [
+    "foundations",
+    "investing",
+    "saving"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Saving means preserving capital with minimal risk. It's money you keep accessible, in safe places, earning modest returns. The goal is not to grow wealth — it's to not lose it. You save for your emergency fund. You save for the car you're buying next year. You save for the down payment you'll need in three years. The defining feature: you might need this money soon, and you can't afford to watch it drop 30%."
+      "content": "Saving means preserving capital with minimal risk. It's money you keep accessible, in safe places, earning modest returns, the  goal is not to grow wealth. it's to not lose it. You save for your emergency fund. You save for the car you're buying next year. You save for the down payment you'll need in three years, the  defining feature: you might need this money soon, and you can't afford to watch it drop 30%."
     },
     {
       "type": "callout",
       "label": "Where to save",
-      "content": "High-yield savings accounts currently pay 4-5% APY. That's not investing — it's still just saving — but it beats the 0.01% at traditional banks by a factor of 400. Ally, Marcus, and similar banks offer FDIC-insured accounts at these rates. If your emergency fund is sitting in a big bank savings account earning nothing, you're leaving money on the table every single day."
+      "content": "High-yield savings accounts currently pay 4-5% APY. That's not investing, it's still just saving, but it beats the 0.01% at traditional banks by a factor of 400. Ally, Marcus, and similar banks offer FDIC-insured accounts at these rates, if  your emergency fund is sitting in a big bank savings account earning nothing, you're leaving money on the table every single day."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Three to six months of living expenses in cash. That's it. Liquid. Boring. Not invested. This is your financial immune system — it keeps a job loss, car repair, or medical bill from becoming a catastrophe that forces you to raid your investments at the worst possible time. Before you invest a dollar, build this. It is not optional. It is the foundation everything else sits on."
+      "content": "Three to six months of living expenses in cash. That's it. Liquid. Boring, not  invested, this  is your financial immune system, it keeps a job loss, car repair, or medical bill from becoming a catastrophe that forces you to raid your investments at the worst possible time. Before you invest a dollar, build this, it  is not optional, it  is the foundation everything else sits on."
     },
     {
       "type": "heading",
@@ -38,7 +42,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Investing means deploying capital with the expectation of real growth over time — accepting some volatility in exchange for returns that meaningfully exceed inflation. The key constraint: money you invest should not be money you'll need in the next five years. Markets fluctuate. Sometimes violently. If you might need to sell in three years, you might need to sell at exactly the wrong moment."
+      "content": "Investing means deploying capital with the expectation of real growth over time. accepting some volatility in exchange for returns that meaningfully exceed inflation, the  key constraint: money you invest should not be money you'll need in the next five years. Markets fluctuate. Sometimes violently, if  you might need to sell in three years, you might need to sell at exactly the wrong moment."
     },
     {
       "type": "callout",
@@ -52,11 +56,11 @@
     {
       "type": "list",
       "items": [
-        "Under 1 year: savings account or money market fund — don't touch this with investments",
-        "1-3 years: high-yield savings, CDs, short-term bonds — still mostly preserve capital",
-        "3-5 years: gray zone — maybe a conservative mix, but err toward caution",
-        "Over 5 years: this is investing territory — broad market index funds make sense here",
-        "Over 20 years: time is your asset — you can weather downturns and let compounding work"
+        "Under 1 year: savings account or money market fund. Don't touch this with investments",
+        "1-3 years: high-yield savings, CDs, short-term bonds. Still mostly preserve capital",
+        "3-5 years: gray zone. Maybe a conservative mix, but err toward caution",
+        "Over 5 years: this is investing territory. Broad market index funds make sense here",
+        "Over 20 years: time is your asset. You can weather downturns and let compounding work"
       ]
     },
     {
@@ -65,14 +69,14 @@
     },
     {
       "type": "paragraph",
-      "content": "There's a failure mode on the other side of this: keeping too much in cash out of caution or inertia. Money that should be invested — for retirement 25 years away — sitting in a savings account at 4% while inflation runs at 3% is barely breaking even in real terms. Over long time horizons, the riskiest thing is not having enough equities. That's a slow-motion crisis that doesn't announce itself until retirement."
+      "content": "There's a failure mode on the other side of this: keeping too much in cash out of caution or inertia. Money that should be invested, for retirement 25 years away, sitting in a savings account at 4% while inflation runs at 3% is barely breaking even in real terms. Over long time horizons, the riskiest thing is not having enough equities. That's a slow-motion crisis that doesn't announce itself until retirement."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Save for what you'll need within five years. Invest for everything else. Build a fully-funded emergency fund first — three to six months of expenses, liquid, boring. Then invest aggressively in low-cost index funds and let time do the work."
+      "content": "Save for what you'll need within five years. Invest for everything else. Build a fully-funded emergency fund first. three to six months of expenses, liquid, boring. Then invest aggressively in low-cost index funds and let time do the work."
     }
   ]
 }

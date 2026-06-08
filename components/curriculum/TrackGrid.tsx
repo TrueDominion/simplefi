@@ -33,15 +33,14 @@ export default function TrackGrid() {
       <Modal
         open={paywallOpen}
         onClose={() => setPaywallOpen(false)}
-        title="Pro access. Full curriculum."
+        title="This track requires Pro."
       >
         <div className="space-y-4">
           <p className="font-syne text-[13px] text-stone leading-relaxed">
-            Tracks 04–07 cover portfolio construction, equity valuation, fixed income,
-            and derivatives. Tracks 01–03 are free.
+            Tracks 04 through 07 cover portfolio construction, equity valuation, fixed income, and derivatives. Tracks 01, 02, and 03 are free.
           </p>
           <p className="font-syne text-[13px] text-stone leading-relaxed">
-            Pro access. Full curriculum. $12/month or $99/year.
+            $12/month or $99/year.
           </p>
           <div className="flex gap-3 pt-2">
             <Link href="/account">

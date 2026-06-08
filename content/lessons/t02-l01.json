@@ -5,11 +5,14 @@
   "title": "What risk actually means",
   "subtitle": "Risk is not a feeling. It is a measurable property of outcomes. Learning to define it precisely is the first step to managing it.",
   "estimatedMinutes": 7,
-  "tags": ["risk", "foundations"],
+  "tags": [
+    "risk",
+    "foundations"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "When most people say something is 'risky,' they mean it makes them feel nervous. Finance means something more specific. Risk is a measurable property of outcomes — a description of what might happen, how likely it is, and how bad it could get. Emotional risk tolerance is real, but it's a different thing from the math. You need to understand both."
+      "content": "When most people say something is 'risky,' they mean it makes them feel nervous. Finance means something more specific. Risk is a measurable property of outcomes. a description of what might happen, how likely it is, and how bad it could get. Emotional risk tolerance is real, but it's a different thing from the math. You need to understand both."
     },
     {
       "type": "heading",
@@ -34,7 +37,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Expected value = probability × magnitude. If an investment has a 70% chance of returning $10,000 and a 30% chance of losing $5,000, the expected value is (0.7 × $10,000) + (0.3 × −$5,000) = $7,000 − $1,500 = $5,500. Positive expected value doesn't mean you can't lose — it means that if you made this bet many times, you'd come out ahead. Understanding this framework keeps you from making good-outcome-once decisions that are terrible on average."
+      "content": "Expected value = probability × magnitude, if  an investment has a 70% chance of returning $10,000 and a 30% chance of losing $5,000, the expected value is (0.7 × $10,000) + (0.3 × −$5,000) = $7,000 − $1,500 = $5,500. Positive expected value doesn't mean you can't lose, it means that if you made this bet many times, you'd come out ahead. Understanding this framework keeps you from making good-outcome-once decisions that are terrible on average."
     },
     {
       "type": "callout",
@@ -47,7 +50,7 @@
     },
     {
       "type": "paragraph",
-      "content": "This is one of the most important distinctions in investing. Volatility — price swings — is dangerous only if your time horizon is wrong. If you need the money in two years and your investment drops 40%, that's a real problem. If you won't need the money for 25 years and it drops 40%, that's a temporary notation on a spreadsheet. The danger depends not just on the investment but on when you'll need it."
+      "content": "This is one of the most important distinctions in investing. Volatility, price swings, is dangerous only if your time horizon is wrong, if  you need the money in two years and your investment drops 40%, that's a real problem, if  you won't need the money for 25 years and it drops 40%, that's a temporary notation on a spreadsheet, the  danger depends not just on the investment but on when you'll need it."
     },
     {
       "type": "heading",
@@ -55,19 +58,19 @@
     },
     {
       "type": "paragraph",
-      "content": "Unsystematic risk is company-specific risk. If you own only Apple stock and Apple has an accounting scandal, you're in trouble. This risk can be eliminated by diversifying across many companies. Systematic risk is market-wide risk — a recession, a pandemic, a financial crisis. This risk affects all companies and cannot be diversified away. You can manage it through asset allocation, but you can't make it disappear. Investing means accepting systematic risk in exchange for long-term returns."
+      "content": "Unsystematic risk is company-specific risk, if  you own only Apple stock and Apple has an accounting scandal, you're in trouble, this  risk can be eliminated by diversifying across many companies. Systematic risk is market-wide risk. a recession, a pandemic, a financial crisis, this  risk affects all companies and cannot be diversified away. You can manage it through asset allocation, but you can't make it disappear. Investing means accepting systematic risk in exchange for long-term returns."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Investors get paid to bear systematic risk. That's why stocks return more than treasury bonds over long periods — you're being compensated for accepting the possibility of a bad year. The compensation is real. So is the risk. The question is always: am I being adequately compensated for this specific risk?"
+      "content": "Investors get paid to bear systematic risk. That's why stocks return more than treasury bonds over long periods. you're being compensated for accepting the possibility of a bad year, the  compensation is real, so  is the risk, the  question is always: am I being adequately compensated for this specific risk?"
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Risk is not a feeling — it is a measurable property of outcomes. Define it precisely: probability, magnitude, volatility, uncertainty. Volatility isn't inherently dangerous — it depends on your time horizon. Diversification eliminates company-specific risk. Systematic risk remains — and is what earns you long-term returns."
+      "content": "Risk is not a feeling, it is a measurable property of outcomes. Define it precisely: probability, magnitude, volatility, uncertainty. Volatility isn't inherently dangerous, it depends on your time horizon. Diversification eliminates company-specific risk. Systematic risk remains, and is what earns you long-term returns."
     }
   ]
 }

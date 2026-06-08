@@ -23,13 +23,12 @@ export default function Pricing() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <p className="font-syne text-[13px] text-ink">Track 01: Money fundamentals</p>
-            <p className="font-syne text-[13px] text-stone">No time limit.</p>
-            <p className="font-syne text-[13px] text-stone">No card required.</p>
+            <p className="font-syne text-[13px] text-ink">Tracks 01, 02, and 03.</p>
+            <p className="font-syne text-[13px] text-stone">No time limit. No card required.</p>
           </div>
           <Link href="/curriculum" className="mt-auto">
             <Button variant="ghost" className="w-full">
-              Start for free
+              Start with Track 01
             </Button>
           </Link>
         </div>
@@ -47,14 +46,13 @@ export default function Pricing() {
               <p className="font-syne text-[13px] text-[#5F5E5A]">/month</p>
             </div>
             <p className="font-syne text-[12px] text-[#5F5E5A]">
-              or $99/year — two months free
+              or $99/year. Two months free.
             </p>
           </div>
           <div className="flex flex-col gap-2">
             <p className="font-syne text-[13px] text-cream">All 7 tracks.</p>
-            <p className="font-syne text-[13px] text-cream">Full curriculum access.</p>
             <p className="font-syne text-[13px] text-[#888780]">
-              From fundamentals through derivatives.
+              Portfolio construction, valuation, fixed income, derivatives.
             </p>
           </div>
           <Link href="/account" className="mt-auto">
@@ -62,7 +60,7 @@ export default function Pricing() {
               variant="primary"
               className="w-full bg-amber text-ink hover:bg-amber/90"
             >
-              Get Pro access
+              Upgrade to Pro
             </Button>
           </Link>
         </div>

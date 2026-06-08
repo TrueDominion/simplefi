@@ -3,37 +3,79 @@
   "trackId": "t06",
   "order": 3,
   "title": "Bonds, yields, and the price-rate relationship",
-  "subtitle": "The inverse relationship between bond prices and yields is one of the most important mechanics in finance — and one of the least intuitively understood.",
+  "subtitle": "The inverse relationship between bond prices and yields is one of the most important mechanics in finance, and one of the least intuitively understood.",
   "estimatedMinutes": 9,
-  "tags": ["bonds", "yields", "fixed income"],
+  "tags": [
+    "bonds",
+    "yields",
+    "fixed income"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "A bond's price and its yield move in opposite directions. This is not a market opinion — it is arithmetic. Understanding why requires holding one simple idea: the yield of a bond is the return you earn given the price you pay. If the price rises, you pay more for the same future cash flows, so your yield falls. If the price falls, you pay less, so your yield rises."
-    },
-    {
-      "type": "callout",
-      "label": "A concrete example",
-      "content": "A bond with a face value of $1,000 and a 5% annual coupon pays $50 per year. If you buy it at face value, your yield is 5%. If you pay $1,100 for the same bond, your yield drops to approximately 4.5% — you are paying more for the same cash flows. If the price falls to $900, your yield rises to approximately 5.6%. Price and yield are simply two ways of expressing the same thing."
+      "content": "Here's the thing about bonds that trips everyone up: when interest rates go up, bond prices go down, and  vice versa, it  feels counterintuitive. why would a 'safe' asset lose value? But it's not mysterious at all once you see the math. Let's walk through it."
     },
     {
       "type": "heading",
-      "content": "Duration: measuring interest rate sensitivity"
+      "content": "The basic mechanics"
     },
     {
       "type": "paragraph",
-      "content": "Duration measures how sensitive a bond's price is to changes in interest rates. A bond with duration of 8 years will lose approximately 8% in price for every 1% rise in interest rates. Longer maturity bonds have higher duration and therefore more interest rate sensitivity. Short-duration bonds are less affected by rate changes."
+      "content": "You buy a bond for $1,000, it  pays 3% interest, so $30 per year. Now, one year later, new bonds are being issued at 5%. Your bond still pays $30 per year. Anyone buying in the market today can get $50 per year for $1,000. Why would they pay you $1,000 for a bond that pays $30? They wouldn't. They'd only buy your bond at a discount, at a price low enough that the $30 annual payment represents a 5% return on what they paid, that  price is $600. Your bond just 'lost' 40% of its value, even though nothing about the bond itself changed."
+    },
+    {
+      "type": "callout",
+      "label": "The math",
+      "content": "$1,000 bond, 3% coupon = $30/year. If prevailing rates rise to 5%, price must fall to ~$600 for the yield to match. $30 / $600 = 5%. The bond's cash flows haven't changed. The price adjusted so the yield matches the market. This is the entire inverse relationship, and it's just arithmetic."
+    },
+    {
+      "type": "heading",
+      "content": "Duration: how sensitive is your bond?"
     },
     {
       "type": "paragraph",
-      "content": "This is why rising rate environments are painful for holders of long-duration bonds — they experience the largest price declines. And why investors who held 30-year government bonds in 2022, when rates rose sharply, saw losses of 25-40% in instruments often considered safe."
+      "content": "Not all bonds react the same way to rate changes. Duration measures this sensitivity. A bond with duration of 8 years will lose approximately 8% in price for every 1% rise in rates. A bond with duration of 2 years loses only 2%. Short-duration bonds are far more stable when rates move."
+    },
+    {
+      "type": "list",
+      "items": [
+        "2-year Treasury note: duration ~1.9 years. Minimal rate sensitivity",
+        "10-year Treasury note: duration ~8-9 years. Moderate sensitivity",
+        "30-year Treasury bond: duration ~18-20 years. High sensitivity",
+        "A 1% rate rise on a 20-year duration bond = roughly 20% price drop"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": "This is why 2022 was a brutal year for bond investors. The Fed raised rates by 4.25 percentage points in 9 months. Holders of long-duration bond funds saw losses of 25-40%. These were instruments people held for safety. Understanding duration would have told you exactly how much risk you were taking."
+    },
+    {
+      "type": "heading",
+      "content": "Yield to maturity vs. coupon rate"
+    },
+    {
+      "type": "paragraph",
+      "content": "The coupon rate is fixed, it's what the bond pays based on its face value, the  yield to maturity (YTM) is the actual return you'll earn if you buy the bond at the current market price and hold it to maturity, these  are often different. A bond trading below face value has a YTM higher than its coupon. A bond trading above face value has a YTM lower than its coupon. Always look at YTM when comparing bonds, not the coupon."
+    },
+    {
+      "type": "heading",
+      "content": "Credit ratings and the risk premium"
+    },
+    {
+      "type": "paragraph",
+      "content": "Not all bonds are equal. US Treasury bonds have essentially zero credit risk, the US government can print dollars. Corporate bonds carry the risk that the company might default, the  extra yield a corporate bond pays above a comparable Treasury is called the credit spread. Investment grade spreads are tight. High-yield ('junk') spreads are wide, the  spread is the market's real-time pricing of credit risk."
+    },
+    {
+      "type": "callout",
+      "label": "Watch out",
+      "content": "High yield means high risk, not high safety. A bond yielding 10% when Treasuries yield 5% is offering a 5% credit spread, the  market is telling you there's a meaningful chance this borrower doesn't pay you back. Chasing yield without understanding why it's high is one of the oldest mistakes in fixed income investing."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Bond investing is not passive. Price, yield, duration, and credit quality interact to produce a return that can be strongly positive or sharply negative depending on the rate environment. Understand the mechanics before you assume safety."
+      "content": "Bond prices fall when rates rise. that's arithmetic, not opinion. Duration tells you how sensitive your bond is. YTM is the number that actually matters when comparing bonds, and  high yield always means higher credit risk. Understand these mechanics and bonds stop being mysterious."
     }
   ]
 }

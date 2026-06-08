@@ -31,7 +31,7 @@ export default function Hero() {
         transition={{ duration: 0.25, ease: "easeOut", delay: 0.05 }}
         className="font-syne font-bold text-[42px] leading-[1.1] tracking-tight text-ink mb-5"
       >
-        From your first paycheck to your portfolio — in the exact order you need it.
+        The financial education most people never get.
       </motion.h1>
 
       {/* Subheadline */}
@@ -41,7 +41,7 @@ export default function Hero() {
         transition={{ duration: 0.25, ease: "easeOut", delay: 0.1 }}
         className="font-syne text-[16px] text-stone leading-relaxed mb-8 max-w-[520px]"
       >
-        A complete financial curriculum. Built for working adults who are done guessing.
+        Seven tracks. From how money works to how derivatives work. Each concept builds on the last.
       </motion.p>
 
       {/* CTAs */}
@@ -53,7 +53,7 @@ export default function Hero() {
       >
         <Link href="/curriculum">
           <Button variant="primary" size="md">
-            Start for free
+            Start with Track 01
           </Button>
         </Link>
         <Link href="#curriculum">

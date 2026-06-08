@@ -16,7 +16,7 @@ export default function Tracks() {
         The curriculum
       </p>
       <h2 className="font-syne font-bold text-[28px] text-ink tracking-tight text-center mb-10">
-        Seven tracks. One complete education.
+        Seven tracks. A complete education.
       </h2>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -78,11 +78,11 @@ export default function Tracks() {
       </div>
 
       <p className="font-syne text-[12px] text-stone text-center mt-8">
-        Tracks 01–03 are free.{" "}
+        Tracks 01, 02, and 03 are free.{" "}
         <Link href="#pricing" className="text-ink font-bold hover:underline">
-          Upgrade to Pro
+          Pro
         </Link>{" "}
-        for the full curriculum.
+        unlocks the rest.
       </p>
     </section>
   );

@@ -2,14 +2,17 @@
   "id": "t01-l03",
   "trackId": "t01",
   "order": 3,
-  "title": "Why most budgets fail — and what works instead",
+  "title": "Why most budgets fail. And what works instead",
   "subtitle": "The problem isn't your spending habits. It's that you're using the wrong tool.",
   "estimatedMinutes": 7,
-  "tags": ["budgeting", "behavior"],
+  "tags": [
+    "budgeting",
+    "behavior"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "A budget is not a diet. A diet fails because you're fighting biology. A budget fails because you're fighting yourself — making dozens of tiny spending decisions every day while relying on willpower to win every one of them. You will not win every one of them. Nobody does. The solution isn't more discipline. It's a better system."
+      "content": "A budget is not a diet. A diet fails because you're fighting biology. A budget fails because you're fighting yourself. making dozens of tiny spending decisions every day while relying on willpower to win every one of them. You will not win every one of them. Nobody does, the  solution isn't more discipline. It's a better system."
     },
     {
       "type": "heading",
@@ -26,11 +29,11 @@
     },
     {
       "type": "heading",
-      "content": "The 50/30/20 rule — useful, not sacred"
+      "content": "The 50/30/20 rule. useful, not sacred"
     },
     {
       "type": "paragraph",
-      "content": "50/30/20 is a simple framework: 50% of after-tax income to needs, 30% to wants, 20% to savings and debt. It's a reasonable starting point, not a law of nature. In a high cost-of-living city, 50% to needs might be impossible. Early in your career, 20% savings might require serious tradeoffs. Use it as a diagnostic — if needs eat 70%, that's a structural problem. If wants are zero, that's a sustainability problem."
+      "content": "50/30/20 is a simple framework: 50% of after-tax income to needs, 30% to wants, 20% to savings and debt. It's a reasonable starting point, not a law of nature, in  a high cost-of-living city, 50% to needs might be impossible. Early in your career, 20% savings might require serious tradeoffs. Use it as a diagnostic, if needs eat 70%, that's a structural problem, if  wants are zero, that's a sustainability problem."
     },
     {
       "type": "list",
@@ -38,7 +41,7 @@
         "50% needs: housing, utilities, food, transportation, insurance, minimum debt payments",
         "30% wants: dining, entertainment, travel, hobbies, subscriptions you actually enjoy",
         "20% savings: emergency fund, retirement, investing, debt above minimums",
-        "Adjust based on your actual life — the ratios are a compass, not a contract"
+        "Adjust based on your actual life. The ratios are a compass, not a contract"
       ]
     },
     {
@@ -60,11 +63,11 @@
     },
     {
       "type": "paragraph",
-      "content": "Instead of agonizing over transactions, check your net worth once a month. One number: assets minus liabilities. Is it going up? Good. The trend is what matters, not the individual data points. A monthly net worth check takes five minutes and tells you everything the daily transaction tracking was trying to tell you — with less anxiety and more signal."
+      "content": "Instead of agonizing over transactions, check your net worth once a month. One number: assets minus liabilities. Is it going up? Good, the  trend is what matters, not the individual data points. A monthly net worth check takes five minutes and tells you everything the daily transaction tracking was trying to tell you, with less anxiety and more signal."
     },
     {
       "type": "paragraph",
-      "content": "The 'enough' concept matters here. At some point, your system is working. You're saving consistently. Your net worth is growing. Squeezing out one more percent of efficiency isn't going to change your life. The goal of a budget isn't optimization — it's permission to spend the rest without guilt."
+      "content": "The 'enough' concept matters here, at  some point, your system is working. You're saving consistently. Your net worth is growing. Squeezing out one more percent of efficiency isn't going to change your life, the  goal of a budget isn't optimization. it's permission to spend the rest without guilt."
     },
     {
       "type": "divider"

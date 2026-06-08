@@ -5,7 +5,11 @@
   "title": "Reading a financial statement without getting lost",
   "subtitle": "Three documents tell you everything about a business. Most people never read them.",
   "estimatedMinutes": 8,
-  "tags": ["financial statements", "analysis", "accounting"],
+  "tags": [
+    "financial statements",
+    "analysis",
+    "accounting"
+  ],
   "body": [
     {
       "type": "paragraph",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Revenue — Cost of Goods Sold = Gross Profit. Gross Profit — Operating Expenses = Operating Income (EBIT). Operating Income — Interest & Taxes = Net Income. Each step down the chain tells you something different. A company with great revenue but terrible gross margins is struggling with its core economics. A company with great gross margins but poor operating income is spending too much on overhead. Net income is the bottom line — but it can be manipulated, which is why cash flow matters more."
+      "content": "Revenue, Cost of Goods Sold = Gross Profit. Gross Profit, Operating Expenses = Operating Income (EBIT). Operating Income, Interest & Taxes = Net Income, each  step down the chain tells you something different. A company with great revenue but terrible gross margins is struggling with its core economics. A company with great gross margins but poor operating income is spending too much on overhead. Net income is the bottom line, but it can be manipulated, which is why cash flow matters more."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Net income can be boosted by accounting choices that don't reflect actual cash. Aggressive revenue recognition, capitalized expenses, stock-based compensation excluded from some metrics — these make net income unreliable as a sole indicator. Always cross-reference with the cash flow statement. A company with growing net income but shrinking free cash flow is telling you something important."
+      "content": "Net income can be boosted by accounting choices that don't reflect actual cash. Aggressive revenue recognition, capitalized expenses, stock-based compensation excluded from some metrics, these make net income unreliable as a sole indicator. Always cross-reference with the cash flow statement. A company with growing net income but shrinking free cash flow is telling you something important."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Assets = Liabilities + Shareholders' Equity. That's the fundamental equation — always true, by definition. Assets are what the company owns: cash, inventory, property, equipment, intangibles. Liabilities are what it owes: accounts payable, loans, bonds. Equity is the residual — what would be left for shareholders if you sold everything and paid all debts. Key ratio to watch: debt-to-equity. A company drowning in debt with thin equity has very little cushion in a downturn."
+      "content": "Assets = Liabilities + Shareholders' Equity. That's the fundamental equation, always true, by definition. Assets are what the company owns: cash, inventory, property, equipment, intangibles. Liabilities are what it owes: accounts payable, loans, bonds. Equity is the residual, what would be left for shareholders if you sold everything and paid all debts. Key ratio to watch: debt-to-equity. A company drowning in debt with thin equity has very little cushion in a downturn."
     },
     {
       "type": "heading",
@@ -43,11 +47,11 @@
     {
       "type": "list",
       "items": [
-        "Revenue growing but free cash flow negative: be skeptical — where is the cash going?",
+        "Revenue growing but free cash flow negative: be skeptical. Where is the cash going?",
         "Debt growing faster than equity: the balance sheet is weakening",
         "Gross margins expanding: the business is becoming more efficient or gaining pricing power",
         "Operating cash flow consistently below net income: accounting is likely flattering the numbers",
-        "High capex relative to revenue: capital-intensive business — evaluate returns on that capital"
+        "High capex relative to revenue: capital-intensive business. Evaluate returns on that capital"
       ]
     },
     {
@@ -61,7 +65,7 @@
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "Most retail investors skip the financial statements entirely. That's defensible if you're in index funds — you're buying the whole market, so individual company analysis doesn't matter. If you're picking stocks, skipping the statements isn't analysis — it's speculation. You're guessing based on narrative rather than evidence. The statements take 20 minutes to scan. The information is worth far more than 20 minutes."
+      "content": "Most retail investors skip the financial statements entirely. That's defensible if you're in index funds, you're buying the whole market, so individual company analysis doesn't matter, if  you're picking stocks, skipping the statements isn't analysis, it's speculation. You're guessing based on narrative rather than evidence, the  statements take 20 minutes to scan, the  information is worth far more than 20 minutes."
     },
     {
       "type": "divider"

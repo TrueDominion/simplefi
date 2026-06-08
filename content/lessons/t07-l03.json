@@ -2,43 +2,73 @@
   "id": "t07-l03",
   "trackId": "t07",
   "order": 3,
-  "title": "Futures and forwards — locking in the future",
+  "title": "Futures and forwards. Locking in the future",
   "subtitle": "Futures and forwards eliminate price uncertainty for both buyer and seller. The obligation to transact is what distinguishes them from options.",
   "estimatedMinutes": 9,
-  "tags": ["futures", "forwards", "derivatives"],
+  "tags": [
+    "futures",
+    "forwards",
+    "derivatives"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "A futures contract is a standardized, exchange-traded agreement to buy or sell a specific quantity of an asset at a predetermined price on a future date. A forward contract is economically identical but privately negotiated between two parties — not traded on an exchange. Both create an obligation, not a right. Unlike options, you cannot simply let a futures contract expire worthlessly."
-    },
-    {
-      "type": "callout",
-      "label": "How futures work mechanically",
-      "content": "Futures are marked to market daily. If you hold a futures contract and the price moves against you, your account is debited that day's loss. If it moves in your favor, your account is credited. This daily settlement — rather than waiting for expiration — is what prevents massive credit risk from accumulating in the system. It also means losses can compound quickly for undercapitalized participants."
+      "content": "Options give you a right. Futures give you an obligation. That's the core difference, when  you enter a futures contract, you are agreeing to buy or sell a specific asset at a specific price on a specific date, and you must follow through, neither  party can simply walk away."
     },
     {
       "type": "heading",
-      "content": "Practical uses"
+      "content": "The original use case: corn in August"
+    },
+    {
+      "type": "paragraph",
+      "content": "A farmer plants corn in May. It'll be ready to sell in September, in  May, corn is at $5 per bushel, the  farmer has bills to pay and needs certainty, they  sell futures: agree to deliver 10,000 bushels in September at $5. A cereal company needs corn in September and doesn't want to bet on prices either, they  buy those same futures, in  September, corn might be $3 or $7, but both parties transact at $5, both  eliminated their price risk, neither  speculated, both  won."
+    },
+    {
+      "type": "callout",
+      "label": "Mark to market: the daily settlement",
+      "content": "Unlike options (where you pay the premium and wait), futures are settled daily, if  the price moves against your position today, cash leaves your account today, if  it moves in your favor, cash arrives today, this  prevents large losses from silently accumulating, but it also means you can get wiped out quickly if you're leveraged and wrong, if  your account balance falls below the 'maintenance margin' level, you get a margin call: deposit more cash or your position is closed."
+    },
+    {
+      "type": "heading",
+      "content": "Futures vs. forwards"
+    },
+    {
+      "type": "paragraph",
+      "content": "Futures trade on exchanges with standardized contracts (specific quantities, dates, specifications). They're liquid, you can exit before expiration. Forwards are private agreements between two parties with customized terms. More flexible, but you're stuck with whoever you made the deal with, there's no exchange to sell to. Forwards carry counterparty risk: if the other party can't pay, you have a problem."
+    },
+    {
+      "type": "heading",
+      "content": "Who actually uses these"
     },
     {
       "type": "list",
       "items": [
-        "Commodity producers and consumers: a gold miner locks in a selling price to protect revenue. A jewelry manufacturer locks in a buying price to manage input costs.",
-        "Currency management: a company with future foreign currency receivables locks in the exchange rate today.",
-        "Equity index futures: institutional investors use index futures to rapidly adjust portfolio exposure — buying or selling the equivalent of millions in stocks without touching individual securities.",
-        "Interest rate futures: banks and bond funds use these to hedge duration risk in their portfolios."
+        "Airlines: buy oil futures to lock in fuel costs and protect profit margins from crude price spikes",
+        "Gold miners: sell gold futures to lock in revenue before extracting the metal",
+        "Agricultural companies: farmers, food processors, grain elevators. The original users",
+        "Institutional investors: use index futures to quickly adjust equity exposure without trading hundreds of individual stocks",
+        "Banks and pension funds: use interest rate futures to manage duration risk in bond portfolios"
       ]
     },
     {
+      "type": "heading",
+      "content": "The leverage problem in practice"
+    },
+    {
       "type": "paragraph",
-      "content": "For most individual investors, futures are not a primary tool. Their leverage, daily settlement mechanics, and contract complexity make them more appropriate for institutional use and for investors with specific hedging needs. Understanding how they work is essential for financial literacy — using them requires a separate skillset."
+      "content": "Futures require only a fraction of the contract value as margin, often 5-10%, that  means you control $100,000 of exposure with $5,000-10,000 in capital. A 5% adverse move wipes out your entire margin, this  is the attraction for speculators and the danger for everyone else, the  daily mark-to-market means there's no waiting for recovery, losses are real and immediate."
+    },
+    {
+      "type": "callout",
+      "label": "Real talk",
+      "content": "Most individual investors have no business trading futures for speculation, the  leverage is extreme, the daily settlement is unforgiving, and the mechanics require constant monitoring, the  people who use futures well are professionals with specific commercial or portfolio hedging needs, not retail investors making directional bets on commodity prices. Know what you are before you enter this market."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Futures and forwards solve a real economic problem: they allow both sides of a future transaction to lock in price certainty today. The obligation to transact is what gives them this power — and what makes them a serious instrument that demands serious risk management."
+      "content": "Futures and forwards lock in a price for a future transaction, creating certainty for both buyer and seller, the  obligation to transact is what gives them this power. Daily mark-to-market settlement makes losses immediate. Most individuals should understand these instruments, but use them only for specific commercial hedging purposes, not speculation."
     }
   ]
 }

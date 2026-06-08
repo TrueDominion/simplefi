@@ -2,14 +2,18 @@
   "id": "t02-l05",
   "trackId": "t02",
   "order": 5,
-  "title": "Diversification — what it actually does",
+  "title": "Diversification. What it actually does",
   "subtitle": "It's not about owning a lot of things. It's about owning the right combination of things.",
   "estimatedMinutes": 7,
-  "tags": ["diversification", "correlation", "portfolio"],
+  "tags": [
+    "diversification",
+    "correlation",
+    "portfolio"
+  ],
   "body": [
     {
       "type": "paragraph",
-      "content": "Diversification doesn't mean owning a lot of things. It means owning things that don't all crash at the same time. You could own 500 tech stocks and be completely undiversified — they'll all get hit the same way when rates rise or the sector falls. The relevant question isn't how many holdings you have. It's how they relate to each other."
+      "content": "Diversification doesn't mean owning a lot of things, it  means owning things that don't all crash at the same time. You could own 500 tech stocks and be completely undiversified. they'll all get hit the same way when rates rise or the sector falls, the  relevant question isn't how many holdings you have. It's how they relate to each other."
     },
     {
       "type": "heading",
@@ -17,12 +21,12 @@
     },
     {
       "type": "paragraph",
-      "content": "Correlation measures how much two assets move together. It ranges from −1 to +1. A correlation of +1 means they move in perfect lockstep. −1 means they move in perfect opposite directions. 0 means they're unrelated. The magic of diversification comes from combining assets with low or negative correlation — when one zigs, the other zags. The result: a portfolio that's smoother than its individual parts."
+      "content": "Correlation measures how much two assets move together, it  ranges from −1 to +1. A correlation of +1 means they move in perfect lockstep. −1 means they move in perfect opposite directions. 0 means they're unrelated, the  magic of diversification comes from combining assets with low or negative correlation, when one zigs, the other zags, the  result: a portfolio that's smoother than its individual parts."
     },
     {
       "type": "callout",
       "label": "Key concept",
-      "content": "Adding a low-correlation asset to a portfolio can reduce overall volatility without meaningfully reducing expected return. That's the free lunch of diversification — not guaranteed profits, but a better risk-adjusted return. You get similar expected gains with less turbulence. This is why bonds in a portfolio aren't just about returns — they're about smoothing the ride."
+      "content": "Adding a low-correlation asset to a portfolio can reduce overall volatility without meaningfully reducing expected return. That's the free lunch of diversification, not guaranteed profits, but a better risk-adjusted return. You get similar expected gains with less turbulence, this  is why bonds in a portfolio aren't just about returns, they're about smoothing the ride."
     },
     {
       "type": "heading",
@@ -30,7 +34,7 @@
     },
     {
       "type": "paragraph",
-      "content": "Research shows that most of the benefits of diversification within a stock portfolio are captured by holding 20-30 uncorrelated stocks. Beyond 50, the marginal benefit is minimal. Beyond 200, you've essentially replicated the index — you might as well just buy the index at lower cost. This is one reason why broad index funds like the S&P 500 or total market funds make so much sense: they give you full diversification for practically nothing."
+      "content": "Research shows that most of the benefits of diversification within a stock portfolio are captured by holding 20-30 uncorrelated stocks. Beyond 50, the marginal benefit is minimal. Beyond 200, you've essentially replicated the index. you might as well just buy the index at lower cost, this  is one reason why broad index funds like the S&P 500 or total market funds make so much sense: they give you full diversification for practically nothing."
     },
     {
       "type": "list",
@@ -48,7 +52,7 @@
     },
     {
       "type": "paragraph",
-      "content": "US stocks have outperformed international stocks significantly over the past 15 years. It's tempting to conclude the US is always better. History says otherwise. For extended periods in the 1970s, 1980s, and 2000s, international stocks outperformed US stocks substantially. Holding some international exposure — typically 20-40% of the equity portion — ensures you're not entirely dependent on one country's economic fortunes."
+      "content": "US stocks have outperformed international stocks significantly over the past 15 years. It's tempting to conclude the US is always better. History says otherwise, for  extended periods in the 1970s, 1980s, and 2000s, international stocks outperformed US stocks substantially. Holding some international exposure, typically 20-40% of the equity portion, ensures you're not entirely dependent on one country's economic fortunes."
     },
     {
       "type": "heading",
@@ -56,19 +60,19 @@
     },
     {
       "type": "paragraph",
-      "content": "Systemic risk is the risk that everything falls together. In 2008, nearly every asset class dropped simultaneously. Stocks, corporate bonds, commodities — all fell. Real estate was the cause. Even bonds that were supposed to be safe got caught up. In 2020, the initial crash was similarly broad. Diversification reduces unsystematic risk beautifully. It doesn't protect you from a full-market panic. Nothing does except time."
+      "content": "Systemic risk is the risk that everything falls together, in  2008, nearly every asset class dropped simultaneously. Stocks, corporate bonds, commodities. all fell. Real estate was the cause, even  bonds that were supposed to be safe got caught up, in  2020, the initial crash was similarly broad. Diversification reduces unsystematic risk beautifully, it  doesn't protect you from a full-market panic. Nothing does except time."
     },
     {
       "type": "callout",
       "label": "Real talk",
-      "content": "In a genuine crisis, correlations converge toward 1. Everything crashes together. Gold, which is supposed to be a hedge, often falls initially in a crisis as people raise cash. The diversification benefits you counted on can partially evaporate right when you need them most. This is not a reason to abandon diversification — it still works over full market cycles. It's just a reason to not rely on it as a guarantee of protection in the worst months."
+      "content": "In a genuine crisis, correlations converge toward 1. Everything crashes together. Gold, which is supposed to be a hedge, often falls initially in a crisis as people raise cash, the  diversification benefits you counted on can partially evaporate right when you need them most, this  is not a reason to abandon diversification, it still works over full market cycles. It's just a reason to not rely on it as a guarantee of protection in the worst months."
     },
     {
       "type": "divider"
     },
     {
       "type": "takeaway",
-      "content": "Diversification works through correlation, not quantity. Combine assets that don't move together. Twenty to thirty diverse stocks captures most of the benefit — an index fund does it automatically. Systemic risk remains no matter what — diversification reduces the specific risks you can control, not the market-wide ones you can't."
+      "content": "Diversification works through correlation, not quantity. Combine assets that don't move together. Twenty to thirty diverse stocks captures most of the benefit, an index fund does it automatically. Systemic risk remains no matter what, diversification reduces the specific risks you can control, not the market-wide ones you can't."
     }
   ]
 }
